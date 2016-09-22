@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="561.68164"
+   height="214.82819"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shifts.svg"
+   inkscape:export-filename="C:\Users\aquiles\Documents\KCN\kcn-paper\Figures\03_Shifts\shifts.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   shape-rendering="crispEdges">
+  <defs
+     id="defs4">
+    <clipPath
+       id="ID000001">
+      <rect
+         id="rect3175"
+         height="721.27502"
+         width="423.98401"
+         y="66.375"
+         x="127.5" />
+    </clipPath>
+    <clipPath
+       id="ID000001-8">
+      <rect
+         id="rect4798"
+         height="725.85901"
+         width="423.98401"
+         y="66.796997"
+         x="127.5" />
+    </clipPath>
+    <clipPath
+       id="ID000012">
+      <rect
+         id="rect6331"
+         height="198.125"
+         width="147.187"
+         y="48.905998"
+         x="483.59399" />
+    </clipPath>
+    <clipPath
+       id="ID000001-6">
+      <rect
+         id="rect6054"
+         height="437.81299"
+         width="519.14099"
+         y="42.187"
+         x="117.188" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="-9.2190645"
+     inkscape:cy="96.241967"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     showborder="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="FWHM"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.0076655,-1.0062547)"
+     style="display:inline">
+    <polygon
+       id="polygon3179"
+       points="551.484,66.375 551.484,66.375 127.5,66.375 127.5,66.375 "
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="ID000002"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#e948c1;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,88.155 149.816,239.823 168.908,300.145 188.804,336.562 207.308,356.525 226.004,366.684 258.864,392.727 282.086,399.414 309.882,394.323 341.601,399.815 378.536,401.284 421.562,405.637 490.521,351.365 "
+         id="polyline3186" />
+      <g
+         id="g3188" />
+    </g>
+    <g
+       id="ID000003"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#c06190;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,128.742 145.565,132.263 176.528,193.148 210.547,301.428 243.512,347.892 277.167,376.531 333.896,392.031 371.282,396.673 "
+         id="polyline3191" />
+      <g
+         id="g3193" />
+    </g>
+    <g
+       id="ID000004"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#130d87;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,161.140 137.604,161.339 155.870,207.039 178.215,277.904 197.397,325.857 215.952,351.874 246.688,380.299 270.075,396.876 298.427,402.931 329.783,410.146 368.597,417.293 "
+         id="polyline3196" />
+      <g
+         id="g3198" />
+    </g>
+    <g
+       id="ID000005"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#c6ee21;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,323.496 136.048,307.333 144.615,316.937 154.744,327.651 163.854,342.009 173.623,343.944 191.384,358.486 201.184,368.522 211.801,367.637 222.261,371.677 232.741,378.989 246.460,383.010 272.610,369.101 294.505,373.228 322.249,384.007 "
+         id="polyline3201" />
+      <g
+         id="g3203" />
+    </g>
+    <g
+       id="ID000006"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#917703;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,121.926 146.080,116.495 176.411,151.240 209.322,249.863 240.210,322.925 274.968,353.796 332.327,383.504 364.988,392.486 403.170,391.688 "
+         id="polyline3206" />
+      <g
+         id="g3208" />
+    </g>
+    <g
+       id="ID000007"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#5529ca;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,258.183 137.078,265.954 150.737,305.710 165.086,339.882 177.851,356.173 191.756,368.874 217.246,386.432 233.089,395.599 250.197,400.128 268.920,404.935 289.070,413.318 311.033,415.417 "
+         id="polyline3211" />
+      <g
+         id="g3213" />
+    </g>
+    <g
+       id="ID000008"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#4f862a;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,159.399 140.704,154.110 160.908,189.758 183.662,248.242 204.130,312.670 222.227,344.319 252.275,380.195 265.480,384.579 277.598,385.028 289.887,394.746 303.083,399.868 316.055,397.786 350.209,395.072 388.921,404.889 "
+         id="polyline3216" />
+      <g
+         id="g3218" />
+    </g>
+    <g
+       id="ID000009"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#9943a6;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,375.069 129.677,360.937 135.405,354.627 141.724,356.478 148.544,363.104 154.840,370.942 164.715,376.263 169.106,381.199 172.759,384.801 176.331,390.246 179.132,387.026 181.558,385.736 186.186,383.761 189.576,388.845 194.152,399.002 198.562,392.527 203.302,392.836 209.267,392.409 219.442,402.580 225.197,402.931 230.066,402.126 237.044,414.546 242.578,410.911 248.934,416.892 262.641,411.878 269.667,407.509 278.472,415.845 287.759,419.133 298.264,420.840 309.345,418.435 "
+         id="polyline3221" />
+      <g
+         id="g3223" />
+    </g>
+    <g
+       id="ID000010"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#afbe72;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,285.713 140.939,300.017 159.568,337.237 177.800,362.611 194.646,378.435 214.369,387.844 244.514,402.024 260.249,402.482 277.720,401.456 296.659,402.954 317.218,406.734 339.627,409.955 "
+         id="polyline3226" />
+      <g
+         id="g3228" />
+    </g>
+    <g
+       id="ID000011"
+       clip-path="url(#ID000001)"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#153ae8;stroke-width:2pt;stroke-dasharray:none"
+         points="127.500,203.803 139.469,185.816 154.457,223.764 170.257,278.305 186.319,304.349 202.628,321.707 228.941,337.627 242.368,348.511 256.353,350.202 271.953,364.355 289.660,372.397 307.019,375.390 339.596,366.194 373.810,382.051 "
+         id="polyline3231" />
+      <g
+         id="g3233" />
+    </g>
+    <text
+       id="text3240"
+       font-size="28pt"
+       y="211.44376"
+       x="138.11897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">SPR shift (nm)</text>
+    <text
+       id="text3247"
+       font-size="28pt"
+       y="8.6650057"
+       x="-101.59185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">FWHM (eV)</text>
+    <g
+       id="ID000014"
+       transform="matrix(0.6225641,0,0,0.6225641,21.883915,8.011631)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.6062603;stroke-miterlimit:4;stroke-dasharray:none"
+       points="339.492,787.650 339.492,780.437 "
+       id="polyline3252"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-115.82478)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.6062603;stroke-miterlimit:4;stroke-dasharray:none"
+       points="339.492,66.375 339.492,73.588 "
+       id="polyline3256"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="34.265049"
+       y="202.73186"
+       font-size="28pt"
+       id="text3264"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="137.26721"
+       y="202.73186"
+       font-size="28pt"
+       id="text3270"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">100</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="242.21213"
+       y="202.73186"
+       font-size="28pt"
+       id="text3276"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">200</text>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.6062603;stroke-miterlimit:4;stroke-dasharray:none"
+       points="127.500,427.012 134.713,427.012 "
+       id="polyline3280"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.6062603;stroke-miterlimit:4;stroke-dasharray:none"
+       points="127.500,246.694 134.713,246.694 "
+       id="polyline3282"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.6062603;stroke-miterlimit:4;stroke-dasharray:none"
+       points="551.484,427.012 544.272,427.012 "
+       id="polyline3288"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.6062603;stroke-miterlimit:4;stroke-dasharray:none"
+       points="551.484,246.694 544.272,246.694 "
+       id="polyline3290"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-18.265215)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000"
+       x="30.00906"
+       y="198.00119"
+       font-size="28pt"
+       id="text3298"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="23.873718"
+       y="153.32632"
+       font-size="28pt"
+       id="text3310"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0.1</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="21.342468"
+       y="82.209518"
+       font-size="28pt"
+       id="text3316"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0.15</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="25.088562"
+       y="11.092306"
+       font-size="28pt"
+       id="text3322"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0.2</text>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none"
+       points="127.500,787.650 127.500,780.437 "
+       id="polyline3324"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-115.82478)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none"
+       points="127.500,787.650 127.500,787.650 "
+       id="polyline3326"
+       transform="matrix(0.49051143,0,0,0.39439665,-28.781778,-115.82478)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="ID000015"
+       transform="matrix(0.6225641,0,0,0.6225641,21.883915,8.011631)">
+      <clipPath
+         id="ID000016">
+        <rect
+           x="0"
+           y="0"
+           width="609.375"
+           height="885"
+           id="rect3330" />
+      </clipPath>
+      <g
+         id="g3332" />
+    </g>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:3.22238636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,787.650 551.484,787.650 "
+       id="polyline3254"
+       transform="matrix(0.49051141,0,0,0.39439665,-28.781779,-115.82478)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:3.22238636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,66.375 551.484,66.375 "
+       id="polyline3258"
+       transform="matrix(0.49051141,0,0,0.39439665,-28.781779,-18.265215)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4.20733643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,787.650 127.500,66.375 "
+       id="polyline3284"
+       transform="matrix(0.49051141,0,0,0.23135238,-28.781779,-7.4431517)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4.20733643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,787.650 127.500,66.375 "
+       id="polyline3284-1"
+       transform="matrix(0.49051141,0,0,0.23135238,179.22645,-7.5654274)" />
+    <polyline
+       style="display:inline;fill:none;stroke:#000000;stroke-width:37.03635406;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,787.650 127.500,66.375 "
+       id="polyline3284-1-3"
+       transform="matrix(0.05572218,0,0,0.02628168,234.69229,174.5902)" />
+    <g
+       id="g4582">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3733-7-9"
+         d="m 236.27957,177.93575 10.97417,-3.16752 -0.28139,0.4525"
+         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3733-7-9-6"
+         d="m 236.47168,175.70824 10.97417,-3.16752 -0.28139,0.4525"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-208.44011,0.95275127)"
+       style="display:inline"
+       id="g4582-2">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3733-7-9-65"
+         d="m 236.27957,177.93575 10.97417,-3.16752 -0.28139,0.4525"
+         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3733-7-9-6-9"
+         d="m 236.47168,175.70824 10.97417,-3.16752 -0.28139,0.4525"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <polyline
+       style="display:inline;fill:none;stroke:#000000;stroke-width:38.72933578;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,787.650 127.500,66.375 "
+       id="polyline3284-1-3-3"
+       transform="matrix(0.05328639,0,0,0.02513282,27.042148,175.35654)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="SimulationsFWHM"
+     transform="translate(-1.0076655,-1.0062547)"
+     style="display:inline">
+    <polygon
+       id="polygon4802"
+       points="551.484,66.797 127.5,66.797 127.5,66.797 551.484,66.797 "
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="ID000002-2"
+       clip-path="url(#ID000001-8)"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)"
+       style="stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g4809"
+         style="stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="127.5"
+           cy="141.918"
+           r="3"
+           id="circle4811" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="133.71001"
+           cy="121.154"
+           r="3"
+           id="circle4813"
+           transform="matrix(2.4505,0,0,2.4505,-193.94636,-175.73388)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="140.655"
+           cy="126.04"
+           r="3"
+           id="circle4815"
+           transform="matrix(2.4505,0,0,2.4505,-204.02008,-182.82102)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="164.58099"
+           cy="174.10699"
+           r="3"
+           id="circle4817"
+           transform="matrix(2.4505,0,0,2.4505,-238.72473,-252.5422)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="170.311"
+           cy="204.26199"
+           r="3"
+           id="circle4819"
+           transform="matrix(2.4505,0,0,2.4505,-247.03612,-296.28202)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="177.313"
+           cy="184.21001"
+           r="3"
+           id="circle4821"
+           transform="matrix(2.4505,0,0,2.4505,-257.19251,-267.19662)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="189.702"
+           cy="170.702"
+           r="3"
+           id="circle4823"
+           transform="matrix(2.4505,0,0,2.4505,-275.16275,-247.60325)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="208.8"
+           cy="209.586"
+           r="3"
+           id="circle4825"
+           transform="matrix(2.4505,0,0,2.4505,-302.86441,-304.00449)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="221.813"
+           cy="228.213"
+           r="3"
+           id="circle4827"
+           transform="matrix(2.4505,0,0,2.4505,-321.73976,-331.02296)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="233.078"
+           cy="219.85001"
+           r="3"
+           id="circle4829"
+           transform="matrix(2.4505,0,0,2.4505,-338.07964,-318.89244)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="257.09"
+           cy="231.95799"
+           r="3"
+           id="circle4831"
+           transform="matrix(2.4505,0,0,2.4505,-372.90903,-336.45506)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="270.125"
+           cy="245.745"
+           r="3"
+           id="circle4833"
+           transform="matrix(2.4505,0,0,2.4505,-391.81632,-356.45312)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="285.487"
+           cy="259.20901"
+           r="3"
+           id="circle4835"
+           transform="matrix(2.4505,0,0,2.4505,-414.09889,-375.98268)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:32.40000153;stroke-dasharray:none;stroke-opacity:1"
+           cx="313.01401"
+           cy="270.44299"
+           r="3"
+           id="circle4837"
+           transform="matrix(2.4505,0,0,2.4505,-454.02682,-392.27756)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="325.26099"
+           cy="272.51099"
+           r="3"
+           id="circle4839"
+           transform="matrix(2.4505,0,0,2.4505,-471.79105,-395.27718)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="361.39999"
+           cy="261.617"
+           r="3"
+           id="circle4841"
+           transform="matrix(2.4505,0,0,2.4505,-524.21069,-379.47546)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="378.229"
+           cy="274.405"
+           r="3"
+           id="circle4843"
+           transform="matrix(2.4505,0,0,2.4505,-548.62117,-398.02445)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="414.608"
+           cy="268.16599"
+           r="3"
+           id="circle4845"
+           transform="matrix(2.4505,0,0,2.4505,-601.38891,-388.97476)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="431.40799"
+           cy="251.108"
+           r="3"
+           id="circle4847"
+           transform="matrix(2.4505,0,0,2.4505,-625.75729,-364.23215)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="469.40799"
+           cy="265.41699"
+           r="3"
+           id="circle4849"
+           transform="matrix(2.4505,0,0,2.4505,-680.87629,-384.98735)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="493.647"
+           cy="241.09"
+           r="3"
+           id="circle4851"
+           transform="matrix(2.4505,0,0,2.4505,-716.03498,-349.70103)" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="577.02301"
+           cy="296.918"
+           r="3"
+           id="circle4853" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="656.90503"
+           cy="290.62299"
+           r="3"
+           id="circle4855" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="759.74402"
+           cy="330.332"
+           r="3"
+           id="circle4857" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:2.84747267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="875.21997"
+           cy="347.86499"
+           r="3"
+           id="circle4859" />
+      </g>
+    </g>
+    <text
+       id="text4866"
+       font-size="28pt"
+       y="105.18868"
+       x="181.42084"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">SPR Shift (nm)</text>
+    <text
+       id="text4873"
+       font-size="28pt"
+       y="104.67049"
+       x="-42.90316"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">FWHM (eV)</text>
+    <g
+       id="ID000005-5"
+       transform="matrix(0.17778763,0,0,0.17778763,245.84564,549.39329)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.12493765;stroke-miterlimit:4;stroke-dasharray:none"
+       points="339.492,792.656 339.492,785.398 "
+       id="polyline4878"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-104.47734)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.12493765;stroke-miterlimit:4;stroke-dasharray:none"
+       points="339.492,66.797 339.492,74.055 "
+       id="polyline4882"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="129.37233"
+       y="97.344856"
+       font-size="28pt"
+       id="text4890"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="181.48676"
+       y="97.344856"
+       font-size="28pt"
+       id="text4896"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">50</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="233.29709"
+       y="97.344856"
+       font-size="28pt"
+       id="text4902"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">100</text>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.12493765;stroke-miterlimit:4;stroke-dasharray:none"
+       points="127.500,308.750 134.759,308.750 "
+       id="polyline4910"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.12493765;stroke-miterlimit:4;stroke-dasharray:none"
+       points="127.500,187.773 134.759,187.773 "
+       id="polyline4912"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.12493765;stroke-miterlimit:4;stroke-dasharray:none"
+       points="551.484,308.750 544.226,308.750 "
+       id="polyline4922"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.12493765;stroke-miterlimit:4;stroke-dasharray:none"
+       points="551.484,187.773 544.226,187.773 "
+       id="polyline4924"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="124.32834"
+       y="93.562347"
+       font-size="28pt"
+       id="text4932"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="118.03537"
+       y="74.159203"
+       font-size="28pt"
+       id="text4956"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0.08</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="121.79709"
+       y="44.419182"
+       font-size="28pt"
+       id="text4962"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0.1</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="118.11447"
+       y="14.679405"
+       font-size="28pt"
+       id="text4968"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0.12</text>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none"
+       points="127.500,792.656 127.500,792.656 "
+       id="polyline4972"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-104.47734)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4.32405853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,792.656 551.484,792.656 "
+       id="polyline4880"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-104.47734)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4.32405853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,66.797 551.484,66.797 "
+       id="polyline4884"
+       transform="matrix(0.24583204,0,0,0.24583204,97.997982,-4.9208808)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:7.0978694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,792.656 127.500,66.797 "
+       id="polyline4914-1"
+       transform="matrix(0.24583204,0,0,0.09123587,202.22597,5.3270992)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:7.0615139;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,792.656 127.500,66.797 "
+       id="polyline4914"
+       transform="matrix(0.24583204,0,0,0.09217773,98.029232,5.311516)" />
+    <g
+       style="stroke:#000000;stroke-width:0.76482648;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="g5346"
+       transform="matrix(1.3827286,0,0,1.3970029,-241.90857,-772.62566)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5326"
+         d="m 266.13561,610.48475 4.33004,-1.68238 0.0372,0.007"
+         style="fill:none;stroke:#000000;stroke-width:0.76482648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5326-7"
+         d="m 266.32756,611.76671 4.33004,-1.68238 0.0372,0.007"
+         style="fill:none;stroke:#000000;stroke-width:0.76482648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <polyline
+       style="display:inline;fill:none;stroke:#000000;stroke-width:43.34852219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,792.656 127.500,66.797 "
+       id="polyline4914-1-5"
+       transform="matrix(0.04025244,0,0,0.01493892,228.68262,78.710303)" />
+    <polyline
+       style="display:inline;fill:none;stroke:#000000;stroke-width:43.34852219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="127.500,792.656 127.500,66.797 "
+       id="polyline4914-1-5-8"
+       transform="matrix(0.04025244,0,0,0.01493892,124.55009,79.331785)" />
+    <g
+       style="display:inline;stroke:#000000;stroke-width:0.76482648;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="g5346-3"
+       transform="matrix(1.3827286,0,0,1.3970029,-138.32207,-772.45258)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5326-2"
+         d="m 266.73489,609.49616 4.33004,-1.68238 0.0372,0.007"
+         style="fill:none;stroke:#000000;stroke-width:0.76482648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5326-7-0"
+         d="m 267.02672,610.87698 4.33004,-1.68238 0.0372,0.007"
+         style="fill:none;stroke:#000000;stroke-width:0.76482648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Shift_Concentration"
+     transform="translate(-1.0076655,-1.0062547)"
+     style="display:inline">
+    <g
+       id="ID000005-3"
+       clip-path="url(#ID000001-6)"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none"
+         points="126.954,480.000 148.433,463.637 169.918,446.818 191.398,431.740 235.865,411.207 257.345,398.090 278.830,386.000 300.304,373.083 321.777,360.104 366.218,335.286 387.692,317.773 409.166,298.788 430.646,277.747 452.120,254.637 496.560,208.191 "
+         id="polyline6170" />
+      <g
+         id="g6172">
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="122.954,477.692 130.954,477.692 126.954,484.62 122.954,477.692 "
+           id="polygon6174" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="144.433,461.329 152.433,461.329 148.433,468.257 144.433,461.329 "
+           id="polygon6176" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="165.918,444.51 173.918,444.51 169.918,451.438 165.918,444.51 "
+           id="polygon6178" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="187.398,429.432 195.398,429.432 191.398,436.36 187.398,429.432 "
+           id="polygon6180" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="231.865,408.899 239.865,408.899 235.865,415.827 231.865,408.899 "
+           id="polygon6182" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="253.345,395.782 261.345,395.782 257.345,402.71 253.345,395.782 "
+           id="polygon6184" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="274.83,383.692 282.83,383.692 278.83,390.62 274.83,383.692 "
+           id="polygon6186" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="296.304,370.775 304.304,370.775 300.304,377.703 296.304,370.775 "
+           id="polygon6188" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="317.777,357.796 325.777,357.796 321.777,364.724 317.777,357.796 "
+           id="polygon6190" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="362.218,332.978 370.218,332.978 366.218,339.906 362.218,332.978 "
+           id="polygon6192" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="383.692,315.465 391.692,315.465 387.692,322.393 383.692,315.465 "
+           id="polygon6194" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="405.166,296.48 413.166,296.48 409.166,303.408 405.166,296.48 "
+           id="polygon6196" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="426.646,275.439 434.646,275.439 430.646,282.367 426.646,275.439 "
+           id="polygon6198" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="448.12,252.329 456.12,252.329 452.12,259.257 448.12,252.329 "
+           id="polygon6200" />
+        <polygon
+           style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="492.56,205.883 500.56,205.883 496.56,212.811 492.56,205.883 "
+           id="polygon6202" />
+      </g>
+    </g>
+    <polygon
+       id="polygon6058"
+       points="636.328,42.187 117.188,42.187 117.188,42.187 636.328,42.187 "
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polygon
+       id="polygon6060"
+       points="117.188,42.187 117.188,42.187 117.188,480 117.188,480 "
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="ID000002-1"
+       clip-path="url(#ID000001-6)"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#ff0000;stroke-width:2pt;stroke-dasharray:none"
+         points="117.188,480.000 136.709,451.875 156.231,398.072 175.748,332.490 216.133,238.819 "
+         id="polyline6065" />
+      <g
+         id="g6067">
+        <circle
+           style="fill:none;stroke:#ff0000;stroke-width:2pt"
+           cx="117.188"
+           cy="480"
+           r="3"
+           id="circle6069" />
+        <circle
+           style="fill:none;stroke:#ff0000;stroke-width:2pt"
+           cx="136.709"
+           cy="451.875"
+           r="3"
+           id="circle6071" />
+        <circle
+           style="fill:none;stroke:#ff0000;stroke-width:2pt"
+           cx="156.231"
+           cy="398.07199"
+           r="3"
+           id="circle6073" />
+        <circle
+           style="fill:none;stroke:#ff0000;stroke-width:2pt"
+           cx="175.748"
+           cy="332.48999"
+           r="3"
+           id="circle6075" />
+        <circle
+           style="fill:none;stroke:#ff0000;stroke-width:2pt"
+           cx="216.133"
+           cy="238.819"
+           r="3"
+           id="circle6077" />
+      </g>
+    </g>
+    <g
+       id="ID000003-4"
+       clip-path="url(#ID000001-6)"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none"
+         points="124.996,480.000 142.571,475.470 160.141,471.125 177.711,466.349 195.286,461.898 231.637,452.929 249.217,447.550 266.787,440.714 284.356,435.133 301.926,429.357 319.501,423.973 355.873,415.719 373.448,409.216 391.018,401.613 408.583,395.233 426.158,389.121 443.727,381.992 480.078,372.466 497.647,363.577 515.212,350.978 532.781,337.291 550.351,323.110 567.921,308.036 604.266,280.736 621.835,264.900 639.400,249.960 656.975,233.056 674.539,215.292 "
+         id="polyline6080" />
+      <g
+         id="g6082">
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="124.996,476 122.168,480 122.168,480 124.996,484 127.825,480 "
+           id="polygon6084" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="142.571,471.47 139.743,475.47 139.743,475.47 142.571,479.47 145.4,475.47 "
+           id="polygon6086" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="160.141,467.125 157.313,471.125 157.313,471.125 160.141,475.125 162.97,471.125 "
+           id="polygon6088" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="177.711,462.349 174.882,466.349 174.882,466.349 177.711,470.349 180.539,466.349 "
+           id="polygon6090" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="195.286,457.898 192.458,461.898 192.458,461.898 195.286,465.898 198.114,461.898 "
+           id="polygon6092" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="231.637,448.929 228.808,452.929 228.808,452.929 231.637,456.929 234.465,452.929 "
+           id="polygon6094" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="249.217,443.55 246.389,447.55 246.389,447.55 249.217,451.55 252.045,447.55 "
+           id="polygon6096" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="266.787,436.714 263.958,440.714 263.958,440.714 266.787,444.714 269.615,440.714 "
+           id="polygon6098" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="284.356,431.133 281.528,435.133 281.528,435.133 284.356,439.133 287.185,435.133 "
+           id="polygon6100" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="301.926,425.357 299.098,429.357 299.098,429.357 301.926,433.357 304.755,429.357 "
+           id="polygon6102" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="319.501,419.973 316.673,423.973 316.673,423.973 319.501,427.973 322.33,423.973 "
+           id="polygon6104" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="355.873,411.719 353.045,415.719 353.045,415.719 355.873,419.719 358.702,415.719 "
+           id="polygon6106" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="373.448,405.216 370.62,409.216 370.62,409.216 373.448,413.216 376.277,409.216 "
+           id="polygon6108" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="391.018,397.613 388.19,401.613 388.19,401.613 391.018,405.613 393.847,401.613 "
+           id="polygon6110" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="408.583,391.233 405.754,395.233 405.754,395.233 408.583,399.233 411.411,395.233 "
+           id="polygon6112" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="426.158,385.121 423.329,389.121 423.329,389.121 426.158,393.121 428.986,389.121 "
+           id="polygon6114" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="443.727,377.992 440.899,381.992 440.899,381.992 443.727,385.992 446.555,381.992 "
+           id="polygon6116" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="480.078,368.466 477.249,372.466 477.249,372.466 480.078,376.466 482.906,372.466 "
+           id="polygon6118" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="497.647,359.577 494.819,363.577 494.819,363.577 497.647,367.577 500.476,363.577 "
+           id="polygon6120" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="515.212,346.978 512.383,350.978 512.383,350.978 515.212,354.978 518.04,350.978 "
+           id="polygon6122" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="532.781,333.291 529.953,337.291 529.953,337.291 532.781,341.291 535.61,337.291 "
+           id="polygon6124" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="550.351,319.11 547.523,323.11 547.523,323.11 550.351,327.11 553.18,323.11 "
+           id="polygon6126" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="567.921,304.036 565.092,308.036 565.092,308.036 567.921,312.036 570.749,308.036 "
+           id="polygon6128" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="604.266,276.736 601.438,280.736 601.438,280.736 604.266,284.736 607.094,280.736 "
+           id="polygon6130" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="621.835,260.9 619.007,264.9 619.007,264.9 621.835,268.9 624.664,264.9 "
+           id="polygon6132" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="639.4,245.96 636.571,249.96 636.571,249.96 639.4,253.96 642.228,249.96 "
+           id="polygon6134" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="656.975,229.056 654.147,233.056 654.147,233.056 656.975,237.056 659.803,233.056 "
+           id="polygon6136" />
+        <polygon
+           style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="674.539,211.292 671.711,215.292 671.711,215.292 674.539,219.292 677.368,215.292 "
+           id="polygon6138" />
+      </g>
+    </g>
+    <g
+       id="ID000004-2"
+       clip-path="url(#ID000001-6)"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none"
+         points="117.188,480.000 136.709,460.286 156.225,439.741 175.753,420.633 195.280,401.328 235.681,367.396 255.198,343.417 274.725,314.714 294.252,281.961 313.779,243.820 333.296,199.391 373.713,128.184 "
+         id="polyline6141" />
+      <g
+         id="g6143">
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="121.188,476 113.188,476 113.188,476 113.188,484 121.188,484 "
+           id="polygon6145" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="140.709,456.286 132.709,456.286 132.709,456.286 132.709,464.286 140.709,464.286 "
+           id="polygon6147" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="160.225,435.741 152.225,435.741 152.225,435.741 152.225,443.741 160.225,443.741 "
+           id="polygon6149" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="179.753,416.633 171.753,416.633 171.753,416.633 171.753,424.633 179.753,424.633 "
+           id="polygon6151" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="199.28,397.328 191.28,397.328 191.28,397.328 191.28,405.328 199.28,405.328 "
+           id="polygon6153" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="239.681,363.396 231.681,363.396 231.681,363.396 231.681,371.396 239.681,371.396 "
+           id="polygon6155" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="259.198,339.417 251.198,339.417 251.198,339.417 251.198,347.417 259.198,347.417 "
+           id="polygon6157" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="278.725,310.714 270.725,310.714 270.725,310.714 270.725,318.714 278.725,318.714 "
+           id="polygon6159" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="298.252,277.961 290.252,277.961 290.252,277.961 290.252,285.961 298.252,285.961 "
+           id="polygon6161" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="317.779,239.82 309.779,239.82 309.779,239.82 309.779,247.82 317.779,247.82 "
+           id="polygon6163" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="337.296,195.391 329.296,195.391 329.296,195.391 329.296,203.391 337.296,203.391 "
+           id="polygon6165" />
+        <polygon
+           style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+           points="377.713,124.184 369.713,124.184 369.713,124.184 369.713,132.184 377.713,132.184 "
+           id="polygon6167" />
+      </g>
+    </g>
+    <text
+       id="text6209"
+       font-size="28pt"
+       y="214.0239"
+       x="446.70511"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">Time (s)</text>
+    <text
+       id="text6216"
+       font-size="28pt"
+       y="318.47745"
+       x="-104.53235"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">SPR Shift (nm)</text>
+    <g
+       id="ID000008-1"
+       transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)" />
+    <g
+       id="ID000009-6"
+       transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)" />
+    <g
+       id="ID000010-8"
+       transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="221.016,480.000 221.016,474.809 "
+       id="polyline6223"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="324.844,480.000 324.844,474.809 "
+       id="polyline6225"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="428.672,480.000 428.672,474.809 "
+       id="polyline6227"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="532.500,480.000 532.500,474.809 "
+       id="polyline6229"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="221.016,42.187 221.016,47.379 "
+       id="polyline6233"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="324.844,42.187 324.844,47.379 "
+       id="polyline6235"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="428.672,42.187 428.672,47.379 "
+       id="polyline6237"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="532.500,42.187 532.500,47.379 "
+       id="polyline6239"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="335.80466"
+       y="206.47452"
+       font-size="28pt"
+       id="text6247"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="380.12558"
+       y="206.36026"
+       font-size="28pt"
+       id="text6253"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">5</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="424.21359"
+       y="206.47452"
+       font-size="28pt"
+       id="text6259"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">10</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="468.53455"
+       y="206.47452"
+       font-size="28pt"
+       id="text6265"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">15</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="513.28394"
+       y="206.47452"
+       font-size="28pt"
+       id="text6271"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">20</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="557.60486"
+       y="206.47452"
+       font-size="28pt"
+       id="text6277"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">25</text>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="117.188,370.547 122.379,370.547 "
+       id="polyline6279"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="117.188,261.094 122.379,261.094 "
+       id="polyline6281"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="117.188,151.641 122.379,151.641 "
+       id="polyline6283"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="636.328,370.547 631.137,370.547 "
+       id="polyline6287"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="636.328,261.094 631.137,261.094 "
+       id="polyline6289"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1.95167291;stroke-miterlimit:4;stroke-dasharray:none"
+       points="636.328,151.641 631.137,151.641 "
+       id="polyline6291"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g5601"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+         id="polyline6231"
+         points="117.188,480.000 636.328,480.000 "
+         style="fill:none;stroke:#000000;stroke-width:3.31764627;stroke-miterlimit:4;stroke-dasharray:none" />
+      <polyline
+         transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+         id="polyline6241"
+         points="117.188,42.187 636.328,42.187 "
+         style="fill:none;stroke:#000000;stroke-width:3.31764627;stroke-miterlimit:4;stroke-dasharray:none" />
+      <polyline
+         transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+         id="polyline6285"
+         points="117.188,480.000 117.188,42.187 "
+         style="fill:none;stroke:#000000;stroke-width:3.31764627;stroke-miterlimit:4;stroke-dasharray:none" />
+      <polyline
+         transform="matrix(0.42720735,0,0,0.42720735,285.62193,-6.7160565)"
+         id="polyline6293"
+         points="636.328,480.000 636.328,42.187 "
+         style="fill:none;stroke:#000000;stroke-width:3.31764627;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="329.76895"
+       y="201.1651"
+       font-size="28pt"
+       id="text6299"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">0</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="327.26407"
+       y="154.40598"
+       font-size="28pt"
+       id="text6305"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">50</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="324.75919"
+       y="107.64685"
+       font-size="28pt"
+       id="text6311"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">100</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="324.75919"
+       y="60.887726"
+       font-size="28pt"
+       id="text6317"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">150</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+       x="324.75919"
+       y="14.128171"
+       font-size="28pt"
+       id="text6323"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">200</text>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none"
+       points="117.188,480.000 117.188,475.622 "
+       id="polyline6325"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none"
+       points="117.188,480.000 117.188,480.000 "
+       id="polyline6327"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polygon
+       id="polygon6335"
+       points="630.781,48.906 483.594,48.906 483.594,48.906 630.781,48.906 "
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polygon
+       id="polygon6337"
+       points="483.594,48.906 483.594,48.906 483.594,247.031 483.594,247.031 "
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g5711"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(0,20)">
+      <text
+         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="527.33154"
+         y="23.721817"
+         font-size="28pt"
+         id="text6346">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6348">80</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6350">µ</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6352">M</tspan>
+      </text>
+      <g
+         transform="matrix(0.833769,0,0,0.833769,-14.960493,-61.626872)"
+         id="g7028">
+        <g
+           id="ID000014-7"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)">
+          <polyline
+             style="fill:none;stroke:#ff0000;stroke-width:2pt;stroke-dasharray:none"
+             points="491.094,75.313 528.594,75.313 "
+             id="polyline6355" />
+          <g
+             id="g6357" />
+        </g>
+        <g
+           id="ID000015-6"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)">
+          <g
+             id="g6360">
+            <circle
+               style="fill:none;stroke:#ff0000;stroke-width:2pt"
+               cx="509.84399"
+               cy="75.313004"
+               r="3"
+               id="circle6362" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5750"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(0,20)">
+      <text
+         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="527.51013"
+         y="56.54554"
+         font-size="28pt"
+         id="text6369">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6371">10</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6373">µ</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6375">M</tspan>
+      </text>
+      <g
+         transform="matrix(0.833769,0,0,0.833769,-14.186372,-67.80893)"
+         id="g7044">
+        <g
+           id="ID000017"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,374.29464,82.933609)">
+          <polyline
+             style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none"
+             points="491.094,123.750 528.594,123.750 "
+             id="polyline6378" />
+          <g
+             id="g6380" />
+        </g>
+        <g
+           id="ID000018"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,374.29464,82.933609)">
+          <g
+             id="g6383">
+            <polygon
+               style="fill:none;stroke:#bf00bf;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+               points="509.844,119.75 507.015,123.75 507.015,123.75 509.844,127.75 512.672,123.75 "
+               id="polygon6385" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5724"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(0,20)">
+      <text
+         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="527.33154"
+         y="34.66304"
+         font-size="28pt"
+         id="text6392">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6394">20</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6396">µ</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6398">M</tspan>
+      </text>
+      <g
+         transform="matrix(0.833769,0,0,0.833769,-14.960493,-67.058287)"
+         id="g7036">
+        <g
+           id="ID000020"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,375.00893,30.969323)">
+          <polyline
+             style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none"
+             points="491.094,172.188 528.594,172.188 "
+             id="polyline6401" />
+          <g
+             id="g6403" />
+        </g>
+        <g
+           id="ID000021"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,375.00893,30.969323)">
+          <g
+             id="g6406">
+            <polygon
+               style="fill:none;stroke:#0000ff;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+               points="505.844,176.188 513.844,176.188 513.844,168.188 505.844,168.188 505.844,168.188 "
+               id="polygon6408" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5737"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(0,20)">
+      <text
+         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         x="527.33154"
+         y="45.604313"
+         font-size="28pt"
+         id="text6415">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6417">15</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6419">µ</tspan>
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6421">M</tspan>
+      </text>
+      <g
+         transform="matrix(0.833769,0,0,0.833769,-14.960493,-102.31658)"
+         id="g7052">
+        <g
+           id="ID000023"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)">
+          <polyline
+             style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none"
+             points="491.094,220.625 528.594,220.625 "
+             id="polyline6424" />
+          <g
+             id="g6426" />
+        </g>
+        <g
+           id="ID000024"
+           clip-path="url(#ID000012)"
+           transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)">
+          <g
+             id="g6429">
+            <polygon
+               style="fill:none;stroke:#00ff00;stroke-width:2pt;stroke-dasharray:none;stroke-opacity:1"
+               points="513.844,218.317 509.844,225.245 505.844,218.317 505.844,218.317 "
+               id="polygon6431" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="ID000025"
+       transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)" />
+    <g
+       id="ID000026"
+       transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)" />
+    <g
+       id="ID000027"
+       transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)" />
+    <g
+       id="g7124"
+       transform="matrix(0.63521701,0,0,0.62085521,109.65763,-32.585476)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <polyline
+         transform="matrix(0.51238095,0,0,0.48504683,375.00893,62.306126)"
+         id="polyline6438"
+         points="483.594,247.031 630.781,247.031 "
+         style="fill:none;stroke:#000000;stroke-width:0.43255291pt;stroke-dasharray:none" />
+      <polyline
+         transform="matrix(0.51238095,0,0,0.48504683,375.00893,62.306126)"
+         id="polyline6440"
+         points="483.594,48.906 630.781,48.906 "
+         style="fill:none;stroke:#000000;stroke-width:0.43255291pt;stroke-dasharray:none" />
+      <polyline
+         transform="matrix(0.51238095,0,0,0.48504683,375.00893,62.306126)"
+         id="polyline6442"
+         points="483.594,247.031 483.594,48.906 "
+         style="fill:none;stroke:#000000;stroke-width:0.43255291pt;stroke-dasharray:none" />
+      <polyline
+         transform="matrix(0.51238095,0,0,0.48504683,375.00893,62.306126)"
+         id="polyline6444"
+         points="630.781,247.031 630.781,48.906 "
+         style="fill:none;stroke:#000000;stroke-width:0.43255291pt;stroke-dasharray:none" />
+    </g>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none"
+       points="483.594,247.031 483.594,245.050 "
+       id="polyline6446"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none"
+       points="483.594,247.031 483.594,247.031 "
+       id="polyline6448"
+       transform="matrix(0.42720735,0,0,0.42720735,285.71032,-7.073869)"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="ID000028"
+       transform="matrix(0.51238095,0,0,0.51238095,375.00893,60.969323)">
+      <clipPath
+         id="ID000029">
+        <rect
+           x="0"
+           y="0"
+           width="703.125"
+           height="562.5"
+           id="rect6452" />
+      </clipPath>
+      <g
+         id="g6454" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Aliquam;-inkscape-font-specification:Aliquam;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="0.55063426"
+       y="7.8441453"
+       id="text7454"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan7456"
+         x="0.55063426"
+         y="7.8441453"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Aliquam;-inkscape-font-specification:Aliquam;text-align:start;writing-mode:lr-tb;text-anchor:start">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Aliquam;-inkscape-font-specification:Aliquam;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="293.39487"
+       y="7.8441453"
+       id="text7454-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\carattino\Documents\Paper_Writing\KCN\Paper\Figures\03_Shifts\shifts.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan7456-9"
+         x="293.39487"
+         y="7.8441453"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Aliquam;-inkscape-font-specification:Aliquam;text-align:start;writing-mode:lr-tb;text-anchor:start">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="529.22363"
+       y="30.860889"
+       id="text4457"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4459"
+         x="529.22363"
+         y="30.860889"
+         style="font-size:9px">[CN<tspan
+   style="font-size:9px;baseline-shift:super"
+   id="tspan4461">-</tspan>]</tspan></text>
+  </g>
+</svg>
