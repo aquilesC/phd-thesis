@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: .\Chapters\04_Anti-Stokes\anti_stokes.aux
+The style file: dissertation.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Chapters/04_Anti-Stokes/anti_stokes.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing publisher in Link2010
+You've used 44 entries,
+            5847 wiz_defined-function locations,
+            1999 strings with 27680 characters,
+and the built_in function-call counts, 58207 in all, are:
+= -- 3244
+> -- 1999
+< -- 386
++ -- 588
+- -- 498
+* -- 10032
+:= -- 5295
+add.period$ -- 87
+call.type$ -- 44
+change.case$ -- 219
+chr.to.int$ -- 44
+cite$ -- 45
+duplicate$ -- 5370
+empty$ -- 4199
+format.name$ -- 1128
+if$ -- 11628
+int.to.chr$ -- 1
+int.to.str$ -- 52
+missing$ -- 676
+newline$ -- 184
+num.names$ -- 132
+pop$ -- 1957
+preamble$ -- 1
+purify$ -- 220
+quote$ -- 0
+skip$ -- 1906
+stack$ -- 0
+substring$ -- 1144
+swap$ -- 5560
+text.length$ -- 250
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 732
+warning$ -- 1
+while$ -- 129
+width$ -- 0
+write$ -- 448
+(There was 1 warning)

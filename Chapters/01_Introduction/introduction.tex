@@ -1,0 +1,123 @@
+\chapter{Introduction}
+\label{chapter_1}
+
+\begin{abstract}
+This is the abstract of the introduction
+\end{abstract}
+
+\newpage
+
+\section{Light Microscopy}
+\dropcap{M}{icroscopes} have become an indispensable tool in all research fields
+in which there is a need to look at small features. The first microscopes
+developed by Antoni Van Leeuwenhoek in the XVII century were aimed at studying
+fabrics; it didn't take long however to discover that nature was hiding amazing
+elements beyond what the bare human eye could see. The first microscopes focused
+into developing better lenses and clever illumination schemes. 
+
+With the development of the ondulatory theory of light a fundamental limitation
+for optical microscopes appeared: the diffraction limit. Abbe realized that no
+matter how good a lens is, there will always be a limit to how much it is
+possible to focus light. This limit is determined mainly by the wavelength of
+the employed light beam and by the maximum angle the lens is able to focus. 
+
+The diffraction limit puts a restriction to the size of the structures that can
+be resolved under an optical microscope. The use of shorter wavelengths, as
+X-Rays opened the possibility to study much smaller structures. However this was
+at an expense of observing very well defined periodic structures, such as
+crystals. Soft matter samples such as cells would therefore be out of the scope
+of these techniques. 
+
+It was at the end of the XX century however that a major breakthrough occurred
+in the field of optics: the detection of a single-molecule fluorescence by M.
+Orrit and J. Bernard. Single-molecules opened the door to studying materials 
+with unprecedented spatial resolution, but also to determine properties that
+would have been hidden by bulk broadening. The first studies were done at low
+temperature (few Kelvins) and allowed to determine properties not only of the
+fluorescent molecules but also of the hosting matrices, mainly polymers and
+crystals. 
+
+With a growing interest in the field, a big effort was placed in allowing the
+detection of single-molecules at room temperature. This led to the development
+of new organic dyes and to establish single-molecule fluorescence microscopy as
+one of the cornerstones of many research fields. Localization of single
+fluorophores led to the development of what is now known as super resolution
+microscopy. By carefully determining the centroid of the emission pattern, it is
+possible to determine the center a molecule with higher accuracy than what the
+diffraction limit would allow. 
+
+Molecules however show blinking and bleaching. At room temperature it is
+impossible to prevent fluorophores from going to dark states, meaning that their
+fluorescence signal will disappear either for a short period of time or for the
+remaining time of the experiment. This puts a hard limit to the experiments that
+can be performed employing single-molecules, since they cannot be observed for
+extended periods of time. Tracking is limited to few seconds, imaging is limited
+to few frames or to cleverly engineered illumination strategies. 
+
+As single-molecule detection allowed to bridge the length mismatch between
+visible light and biologically relevant scales, new agents that can fill the gap
+between biologically relevant time scales and fluorophores' observation times
+are of utmost importance. In this direction different approaches were taken,
+including employing scattering instead of fluorescence, the use of semiconductor
+quantum dots and of metallic nanoparticles. The latter are the focus of this
+thesis and of the next few sections. 
+
+\section{Gold Nanoparticles}
+Metallic nanoparticles have been subject of studies for a long time. In a
+fortuitous way Romans managed to generate red-coloured glass by dispersing gold
+nanospheres into their glass mixing strategies; the beautiful Lycurgus cup is
+the only surviving example of such technique, together with some other glass
+fragments of the time. The nanoparticles in the glass preserved their optical
+properties for centuries, however the explanation of the phenomenon came several
+centuries later.
+
+Gustav Mie in $1908$ calculated the scattering of a plane wave incident on
+spherical particles. It relies on fully solving Maxwell equations and nowadays
+it is simply known as Mie scattering. In the original paper it is possible to
+observe the resonance of gold nanoparticles at around $550\nm$; both calculation
+and measurements show a peak in the scattering efficiency at those wavelengths.
+Because of the weaker interaction with light of longer wavelengths, the reddish
+color of colloidal gold nanoparticles can be explained.
+
+Metals however show another interesting property that is given by the
+oscillation of conduction electrons and is known as plasmon. For particles much
+smaller than the incident wavelength, a simplification of the Mie formalism can
+be made by considering only the first order. In this case the polarizability of
+a nanosphere is given by
+\begin{equation}label{eqn:polarizability}
+	\alpha_{\textrm{sphere}} =
+	3\epsilon_0V\frac{\epsilon(\omega)-\epsilon_m}{\epsilon(\omega)+2\epsilon_m}
+\end{equation}
+where $\epsilon_0$ is the permittivity of vacuum, $\epsilon(\omega)$ is the
+permittivity of the metal as function of incoming excitation frequency $\omega$
+and $\epsilon_m$ is the permittivity of the surrounding medium. The absorption
+cross section can thus be calculated as
+$\sigma_\textrm{abs}=k\textrm{Im}(\alpha)$ and the scattering as
+$\sigma_\textrm{scatt}=k^4|\alpha|^2/(6\pi)$.
+
+From equation \ref{eqn:polarizability} it is possible to see that a resonance
+will appear when $\textrm{Re}(\epsilon(\omega)) = -2\epsilon_\textrm{m}$. It is
+important to note that the resonance is therefore dependent not only on the
+particle's material properties but also on the surrounding medium's optical
+constants. In the case of elongated nanoparticles, some correction factors can
+be introduced to the polarizability. However several computer packages exist to
+calculate with a great precision absorption and extinction cross sections of
+arbitrary geometries. 
+
+A standard procedure to obtain gold nanoparticles is through wet chemical
+methods. Even in the best of cases there will be a dispersion in shapes that
+will give rise to inhomogeneous broadening. Some interesting properties will be
+concealed in bulk measurements, therefore making single-particle experiments of
+great importance. 
+
+Light emission from gold and copper was observed by
+Mooradian\cite{Mooradian1969} in $1969$. In this work, electron and holes in the
+metal were excited with visible light and the emission was observed at longer
+wavelengths. Strikingly, the emission quantum yield (i.e. the number of
+emitted photons per absorbed photon) was in the order of $10^{-10}$. In
+subsequent years some studies showed that this low number could be increased
+with the presence of sharp edges or tips, but still it would be much lower that
+what is observed for an organic dye, in the order of few percent at least. 
+
+
+

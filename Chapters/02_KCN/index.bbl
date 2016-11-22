@@ -1,0 +1,490 @@
+%merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+%Control: key (0)
+%Control: author (72) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (0) allowed
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{32}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \textit  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{http://dx.doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {S{\"{o}}nnichsen}\ \emph {et~al.}(2002)\citenamefont
+  {S{\"{o}}nnichsen}, \citenamefont {Franzl}, \citenamefont {Wilk},
+  \citenamefont {von Plessen}, \citenamefont {Feldmann}, \citenamefont
+  {Wilson},\ and\ \citenamefont {Mulvaney}}]{Sonnichsen2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {S{\"{o}}nnichsen}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Franzl}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Wilk}},
+  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {von Plessen}}, \bibinfo
+  {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}}, \bibinfo {author}
+  {\bibfnamefont {O.}~\bibnamefont {Wilson}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {Mulvaney}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Drastic reduction of plasmon damping in gold
+  nanorods.}}}\ }\href {\doibase 10.1109/QELS.2002.1031051} {\bibfield
+  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo
+  {volume} {88}},\ \bibinfo {pages} {077402} (\bibinfo {year}
+  {2002})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yorulmaz}\ \emph {et~al.}(2012)\citenamefont
+  {Yorulmaz}, \citenamefont {Khatua}, \citenamefont {Zijlstra}, \citenamefont
+  {Gaiduk},\ and\ \citenamefont {Orrit}}]{Yorulmaz2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Yorulmaz}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Khatua}},
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Zijlstra}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Gaiduk}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Orrit}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Luminescence quantum yield of single gold nanorods.}}}\
+  }\href {\doibase 10.1021/nl302196a} {\bibfield  {journal} {\bibinfo
+  {journal} {Nano Lett.}\ }\textbf {\bibinfo {volume} {12}},\ \bibinfo {pages}
+  {4385} (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zijlstra}\ \emph {et~al.}(2012)\citenamefont
+  {Zijlstra}, \citenamefont {Paulo},\ and\ \citenamefont
+  {Orrit}}]{Zijlstra2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Zijlstra}}, \bibinfo {author} {\bibfnamefont {P.~M.~R.}\ \bibnamefont
+  {Paulo}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Orrit}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Optical detection
+  of single non-absorbing molecules using the surface plasmon resonance of a
+  gold nanorod.}}}\ }\href {\doibase 10.1038/nnano.2012.51} {\bibfield
+  {journal} {\bibinfo  {journal} {Nat. Nanotechnol.}\ }\textbf {\bibinfo
+  {volume} {7}},\ \bibinfo {pages} {379} (\bibinfo {year} {2012})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Sivapalan}\ \emph {et~al.}(2013)\citenamefont
+  {Sivapalan}, \citenamefont {Devetter}, \citenamefont {Yang}, \citenamefont
+  {van Dijk}, \citenamefont {Schulmerich}, \citenamefont {Carney},
+  \citenamefont {Bhargava},\ and\ \citenamefont {Murphy}}]{Sivapalan2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~T.}\ \bibnamefont
+  {Sivapalan}}, \bibinfo {author} {\bibfnamefont {B.~M.}\ \bibnamefont
+  {Devetter}}, \bibinfo {author} {\bibfnamefont {T.~K.}\ \bibnamefont {Yang}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {van Dijk}}, \bibinfo
+  {author} {\bibfnamefont {M.~V.}\ \bibnamefont {Schulmerich}}, \bibinfo
+  {author} {\bibfnamefont {P.~S.}\ \bibnamefont {Carney}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Bhargava}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {C.~J.}\ \bibnamefont {Murphy}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Off-resonance surface-enhanced Raman spectroscopy from
+  gold nanorod suspensions as a function of aspect ratio: not what we
+  thought.}}}\ }\href {\doibase 10.1021/nn305710k} {\bibfield  {journal}
+  {\bibinfo  {journal} {ACS Nano}\ }\textbf {\bibinfo {volume} {7}},\ \bibinfo
+  {pages} {2099} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zhao}\ \emph {et~al.}(2014)\citenamefont {Zhao},
+  \citenamefont {Yu}, \citenamefont {Li}, \citenamefont {Zhang}, \citenamefont
+  {Guan}, \citenamefont {Gao}, \citenamefont {Yuan}, \citenamefont {Li},
+  \citenamefont {Yao}, \citenamefont {Xu},\ and\ \citenamefont
+  {Xu}}]{Zhao2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Zhao}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Yu}}, \bibinfo
+  {author} {\bibfnamefont {L.}~\bibnamefont {Li}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Zhang}}, \bibinfo {author} {\bibfnamefont
+  {Z.}~\bibnamefont {Guan}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
+  {Gao}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Yuan}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Li}}, \bibinfo {author}
+  {\bibfnamefont {S.~Q.}\ \bibnamefont {Yao}}, \bibinfo {author} {\bibfnamefont
+  {Q.-H.}\ \bibnamefont {Xu}}, \ and\ \bibinfo {author} {\bibfnamefont {G.~Q.}\
+  \bibnamefont {Xu}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Gold
+  nanorod enhanced two-photon excitation fluorescence of photosensitizers for
+  two-photon imaging and photodynamic therapy.}}}\ }\href {\doibase
+  10.1021/am405214w} {\bibfield  {journal} {\bibinfo  {journal} {ACS Appl.
+  Mater. Interfaces}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages}
+  {2700} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zijlstra}\ and\ \citenamefont
+  {Orrit}(2011)}]{Zijlstra2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Zijlstra}}\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Orrit}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Single metal
+  nanoparticles: optical detection, spectroscopy and applications}},}\ }\href
+  {\doibase 10.1088/0034-4885/74/10/106401} {\bibfield  {journal} {\bibinfo
+  {journal} {Reports Prog. Phys.}\ }\textbf {\bibinfo {volume} {74}},\ \bibinfo
+  {pages} {106401} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Khatua}\ \emph {et~al.}(2014)\citenamefont {Khatua},
+  \citenamefont {Paulo}, \citenamefont {Yuan}, \citenamefont {Gupta},
+  \citenamefont {Zijlstra},\ and\ \citenamefont {Orrit}}]{Khatua2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Khatua}}, \bibinfo {author} {\bibfnamefont {P.~M.~R.}\ \bibnamefont
+  {Paulo}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Yuan}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Gupta}}, \bibinfo
+  {author} {\bibfnamefont {P.}~\bibnamefont {Zijlstra}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Orrit}},\ }\bibfield  {title}
+  {\textit {\bibinfo {title} {{Resonant plasmonic enhancement of
+  single-molecule fluorescence by individual gold nanorods.}}}\ }\href
+  {\doibase 10.1021/nn406434y} {\bibfield  {journal} {\bibinfo  {journal} {ACS
+  Nano}\ }\textbf {\bibinfo {volume} {8}},\ \bibinfo {pages} {4440} (\bibinfo
+  {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {McFarland}\ \emph {et~al.}(2005)\citenamefont
+  {McFarland}, \citenamefont {Young}, \citenamefont {Dieringer},\ and\
+  \citenamefont {{Van Duyne}}}]{McFarland2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~D.}\ \bibnamefont
+  {McFarland}}, \bibinfo {author} {\bibfnamefont {M.~a.}\ \bibnamefont
+  {Young}}, \bibinfo {author} {\bibfnamefont {J.~a.}\ \bibnamefont
+  {Dieringer}}, \ and\ \bibinfo {author} {\bibfnamefont {R.~P.}\ \bibnamefont
+  {{Van Duyne}}},\ }\bibfield  {title} {\textit {\bibinfo {title}
+  {{Wavelength-scanned surface-enhanced Raman excitation spectroscopy.}}}\
+  }\href {\doibase 10.1021/jp050508u} {\bibfield  {journal} {\bibinfo
+  {journal} {J. Phys. Chem. B}\ }\textbf {\bibinfo {volume} {109}},\ \bibinfo
+  {pages} {11279} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Alkilany}\ \emph {et~al.}(2012)\citenamefont
+  {Alkilany}, \citenamefont {Thompson}, \citenamefont {Boulos}, \citenamefont
+  {Sisco},\ and\ \citenamefont {Murphy}}]{Alkilany2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~M.}\ \bibnamefont
+  {Alkilany}}, \bibinfo {author} {\bibfnamefont {L.~B.}\ \bibnamefont
+  {Thompson}}, \bibinfo {author} {\bibfnamefont {S.~P.}\ \bibnamefont
+  {Boulos}}, \bibinfo {author} {\bibfnamefont {P.~N.}\ \bibnamefont {Sisco}}, \
+  and\ \bibinfo {author} {\bibfnamefont {C.~J.}\ \bibnamefont {Murphy}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Gold nanorods: Their
+  potential for photothermal therapeutics and drug delivery, tempered by the
+  complexity of their biological interactions}},}\ }\href {\doibase
+  10.1016/j.addr.2011.03.005} {\bibfield  {journal} {\bibinfo  {journal} {Adv.
+  Drug Deliv. Rev.}\ }\textbf {\bibinfo {volume} {64}},\ \bibinfo {pages} {190}
+  (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vigderman}\ \emph {et~al.}(2012)\citenamefont
+  {Vigderman}, \citenamefont {Khanal},\ and\ \citenamefont
+  {Zubarev}}]{Vigderman2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Vigderman}}, \bibinfo {author} {\bibfnamefont {B.~P.}\ \bibnamefont
+  {Khanal}}, \ and\ \bibinfo {author} {\bibfnamefont {E.~R.}\ \bibnamefont
+  {Zubarev}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Functional gold
+  nanorods: Synthesis, self-assembly, and sensing applications}},}\ }\href
+  {\doibase 10.1002/adma.201201690} {\bibfield  {journal} {\bibinfo  {journal}
+  {Adv. Mater.}\ }\textbf {\bibinfo {volume} {24}},\ \bibinfo {pages} {4811}
+  (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lal}\ \emph {et~al.}(2007)\citenamefont {Lal},
+  \citenamefont {Link},\ and\ \citenamefont {Halas}}]{Lal2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Lal}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Link}}, \ and\
+  \bibinfo {author} {\bibfnamefont {N.~J.}\ \bibnamefont {Halas}},\ }\bibfield
+  {title} {\textit {\bibinfo {title} {{Nano-optics from sensing to
+  waveguiding}},}\ }\href {\doibase 10.1038/nphoton.2007.223} {\bibfield
+  {journal} {\bibinfo  {journal} {Nat. Photonics}\ }\textbf {\bibinfo {volume}
+  {1}},\ \bibinfo {pages} {641} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hartland}(2006)}]{Hartland2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.~V.}\ \bibnamefont
+  {Hartland}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Coherent
+  Excitation of Vibrational Modes in Metallic Nanoparticles}},}\ }\href
+  {\doibase 10.1146/annurev.physchem.57.032905.104533} {\bibfield  {journal}
+  {\bibinfo  {journal} {Annu. Rev. Phys. Chem.}\ }\textbf {\bibinfo {volume}
+  {57}},\ \bibinfo {pages} {403} (\bibinfo {year} {2006})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Ruijgrok}\ \emph {et~al.}(2012)\citenamefont
+  {Ruijgrok}, \citenamefont {Zijlstra}, \citenamefont {Tchebotareva},\ and\
+  \citenamefont {Orrit}}]{Ruijgrok2012c}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~V.}\ \bibnamefont
+  {Ruijgrok}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Zijlstra}},
+  \bibinfo {author} {\bibfnamefont {A.~L.}\ \bibnamefont {Tchebotareva}}, \
+  and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Orrit}},\ }\bibfield
+   {title} {\textit {\bibinfo {title} {{Damping of acoustic vibrations of
+  single gold nanoparticles optically trapped in water.}}}\ }\href {\doibase
+  10.1021/nl204311q} {\bibfield  {journal} {\bibinfo  {journal} {Nano Lett.}\
+  }\textbf {\bibinfo {volume} {12}},\ \bibinfo {pages} {1063} (\bibinfo {year}
+  {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Butet}\ \emph {et~al.}(2010)\citenamefont {Butet},
+  \citenamefont {Duboisset}, \citenamefont {Bachelier}, \citenamefont
+  {Russier-Antoine}, \citenamefont {Benichou}, \citenamefont {Jonin},\ and\
+  \citenamefont {Brevet}}]{Butet2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Butet}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Duboisset}},
+  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Bachelier}}, \bibinfo
+  {author} {\bibfnamefont {I.}~\bibnamefont {Russier-Antoine}}, \bibinfo
+  {author} {\bibfnamefont {E.}~\bibnamefont {Benichou}}, \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Jonin}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {P.~F.}\ \bibnamefont {Brevet}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Optical second harmonic generation of single metallic
+  nanoparticles embedded in a homogeneous medium}},}\ }\href {\doibase
+  10.1021/nl1000949} {\bibfield  {journal} {\bibinfo  {journal} {Nano Lett.}\
+  }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages} {1717} (\bibinfo {year}
+  {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lippitz}\ \emph {et~al.}(2005)\citenamefont
+  {Lippitz}, \citenamefont {{Van Dijk}},\ and\ \citenamefont
+  {Orrit}}]{Lippitz2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Lippitz}}, \bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont {{Van
+  Dijk}}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Orrit}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Third-harmonic generation
+  from single gold nanoparticles}},}\ }\href {\doibase 10.1021/nl0502571}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nano Lett.}\ }\textbf {\bibinfo
+  {volume} {5}},\ \bibinfo {pages} {799} (\bibinfo {year} {2005})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Olk}\ \emph {et~al.}(2008)\citenamefont {Olk},
+  \citenamefont {Renger}, \citenamefont {Wenzel},\ and\ \citenamefont
+  {Eng}}]{Olk2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Olk}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Renger}},
+  \bibinfo {author} {\bibfnamefont {M.~T.}\ \bibnamefont {Wenzel}}, \ and\
+  \bibinfo {author} {\bibfnamefont {L.~M.}\ \bibnamefont {Eng}},\ }\bibfield
+  {title} {\textit {\bibinfo {title} {{Distance dependent spectral tuning of
+  two coupled metal nanoparticles}},}\ }\href {\doibase 10.1021/nl080044m}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nano Lett.}\ }\textbf {\bibinfo
+  {volume} {8}},\ \bibinfo {pages} {1174} (\bibinfo {year} {2008})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Kossyrev}\ \emph {et~al.}(2005)\citenamefont
+  {Kossyrev}, \citenamefont {Yin}, \citenamefont {Cloutier}, \citenamefont
+  {Cardimona}, \citenamefont {Huang}, \citenamefont {Alsing},\ and\
+  \citenamefont {Xu}}]{Kossyrev2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~A.}\ \bibnamefont
+  {Kossyrev}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Yin}},
+  \bibinfo {author} {\bibfnamefont {S.~G.}\ \bibnamefont {Cloutier}}, \bibinfo
+  {author} {\bibfnamefont {D.~a.}\ \bibnamefont {Cardimona}}, \bibinfo {author}
+  {\bibfnamefont {D.}~\bibnamefont {Huang}}, \bibinfo {author} {\bibfnamefont
+  {P.~M.}\ \bibnamefont {Alsing}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {J.~M.}\ \bibnamefont {Xu}},\ }\bibfield  {title} {\textit {\bibinfo {title}
+  {{Electric field tuning of plasmonic response of nanodot array in liquid
+  crystal matrix}},}\ }\href {\doibase 10.1021/nl0513535} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nano Lett.}\ }\textbf {\bibinfo {volume} {5}},\
+  \bibinfo {pages} {1978} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Link}\ \emph {et~al.}(2000)\citenamefont {Link},
+  \citenamefont {Burda}, \citenamefont {Nikoobakht},\ and\ \citenamefont
+  {El-Sayed}}]{Link2000}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Link}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Burda}},
+  \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Nikoobakht}}, \ and\
+  \bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont {El-Sayed}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Laser-Induced Shape Changes
+  of Colloidal Gold Nanorods Using Femtosecond and Nanosecond Laser Pulses}},}\
+  }\href {\doibase 10.1021/jp000679t} {\bibfield  {journal} {\bibinfo
+  {journal} {J. Phys. Chem. B}\ }\textbf {\bibinfo {volume} {104}},\ \bibinfo
+  {pages} {6152} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Horiguchi}\ \emph {et~al.}(2008)\citenamefont
+  {Horiguchi}, \citenamefont {Honda}, \citenamefont {Kato}, \citenamefont
+  {Nakashima},\ and\ \citenamefont {Niidome}}]{Horiguchi2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Horiguchi}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Honda}},
+  \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Kato}}, \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Nakashima}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {Y.}~\bibnamefont {Niidome}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Photothermal reshaping of gold nanorods depends on the
+  passivating layers of the nanorod surfaces}},}\ }\href {\doibase
+  10.1021/la800811j} {\bibfield  {journal} {\bibinfo  {journal} {Langmuir}\
+  }\textbf {\bibinfo {volume} {24}},\ \bibinfo {pages} {12026} (\bibinfo {year}
+  {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Carb{\'{o}}-Argibay}\ \emph
+  {et~al.}(2007)\citenamefont {Carb{\'{o}}-Argibay}, \citenamefont
+  {Rodr{\'{i}}guez-Gonz{\'{a}}lez}, \citenamefont {Pacifico}, \citenamefont
+  {Pastoriza-Santos}, \citenamefont {P{\'{e}}rez-Juste},\ and\ \citenamefont
+  {Liz-Marz{\'{a}}n}}]{Carbo-Argibay2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Carb{\'{o}}-Argibay}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Rodr{\'{i}}guez-Gonz{\'{a}}lez}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Pacifico}}, \bibinfo {author} {\bibfnamefont
+  {I.}~\bibnamefont {Pastoriza-Santos}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {P{\'{e}}rez-Juste}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Liz-Marz{\'{a}}n}},\ }\bibfield  {title}
+  {\textit {\bibinfo {title} {{Chemical Sharpening of Gold Nanorods: The
+  Rod-to-Octahedron Transition}},}\ }\href {\doibase 10.1002/ange.200703259}
+  {\bibfield  {journal} {\bibinfo  {journal} {Angew. Chemie}\ }\textbf
+  {\bibinfo {volume} {119}},\ \bibinfo {pages} {9141} (\bibinfo {year}
+  {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Rodr{\'{i}}guez-Fern{\'{a}}ndez}\ \emph
+  {et~al.}(2005)\citenamefont {Rodr{\'{i}}guez-Fern{\'{a}}ndez}, \citenamefont
+  {P{\'{e}}rez-Juste}, \citenamefont {Mulvaney},\ and\ \citenamefont
+  {Liz-Marz{\'{a}}n}}]{Rodriguez-Fernandez2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Rodr{\'{i}}guez-Fern{\'{a}}ndez}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {P{\'{e}}rez-Juste}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Mulvaney}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {L.~M.}\ \bibnamefont {Liz-Marz{\'{a}}n}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Spatially-directed oxidation of gold nanoparticles by
+  Au(III)-CTAB complexes.}}}\ }\href {\doibase 10.1021/jp052516g} {\bibfield
+  {journal} {\bibinfo  {journal} {J. Phys. Chem. B}\ }\textbf {\bibinfo
+  {volume} {109}},\ \bibinfo {pages} {14257} (\bibinfo {year}
+  {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jana}\ \emph {et~al.}(2002)\citenamefont {Jana},
+  \citenamefont {Gearheart}, \citenamefont {Obare},\ and\ \citenamefont
+  {Murphy}}]{Jana2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.~R.}\ \bibnamefont
+  {Jana}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Gearheart}},
+  \bibinfo {author} {\bibfnamefont {S.~O.}\ \bibnamefont {Obare}}, \ and\
+  \bibinfo {author} {\bibfnamefont {C.~J.}\ \bibnamefont {Murphy}},\ }\bibfield
+   {title} {\textit {\bibinfo {title} {{Anisotropic Chemical Reactivity of Gold
+  Spheroids and Nanorods}},}\ }\href {\doibase 10.1021/la0114530} {\bibfield
+  {journal} {\bibinfo  {journal} {Langmuir}\ }\textbf {\bibinfo {volume}
+  {18}},\ \bibinfo {pages} {922} (\bibinfo {year} {2002})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Tsung}\ \emph {et~al.}(2006)\citenamefont {Tsung},
+  \citenamefont {Kou}, \citenamefont {Shi}, \citenamefont {Zhang},
+  \citenamefont {Yeung}, \citenamefont {Wang},\ and\ \citenamefont
+  {Stucky}}]{Tsung2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~K.}\ \bibnamefont
+  {Tsung}}, \bibinfo {author} {\bibfnamefont {X.}~\bibnamefont {Kou}}, \bibinfo
+  {author} {\bibfnamefont {Q.}~\bibnamefont {Shi}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Zhang}}, \bibinfo {author} {\bibfnamefont
+  {M.~H.}\ \bibnamefont {Yeung}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Wang}}, \ and\ \bibinfo {author} {\bibfnamefont {G.~D.}\
+  \bibnamefont {Stucky}},\ }\bibfield  {title} {\textit {\bibinfo {title}
+  {{Selective shortening of single-crystalline gold nanorods by mild
+  oxidation}},}\ }\href {\doibase 10.1021/ja060447t} {\bibfield  {journal}
+  {\bibinfo  {journal} {J. Am. Chem. Soc.}\ }\textbf {\bibinfo {volume}
+  {128}},\ \bibinfo {pages} {5352} (\bibinfo {year} {2006})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Ni}\ \emph {et~al.}(2008)\citenamefont {Ni},
+  \citenamefont {Kou}, \citenamefont {Yang},\ and\ \citenamefont
+  {Wang}}]{Ni2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Ni}}, \bibinfo {author} {\bibfnamefont {X.}~\bibnamefont {Kou}}, \bibinfo
+  {author} {\bibfnamefont {Z.}~\bibnamefont {Yang}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Wang}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Tailoring longitudinal surface plasmon wavelengths,
+  scattering and absorption cross sections of gold nanorods}},}\ }\href
+  {\doibase 10.1021/nn7003603} {\bibfield  {journal} {\bibinfo  {journal} {ACS
+  Nano}\ }\textbf {\bibinfo {volume} {2}},\ \bibinfo {pages} {677} (\bibinfo
+  {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yuan}\ \emph {et~al.}(2015)\citenamefont {Yuan},
+  \citenamefont {Janssen}, \citenamefont {Franklin}, \citenamefont {Lu},
+  \citenamefont {Su}, \citenamefont {Gu}, \citenamefont {Uji-i}, \citenamefont
+  {Roeffaers},\ and\ \citenamefont {Hofkens}}]{Yuan2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Yuan}}, \bibinfo {author} {\bibfnamefont {K.~P.~F.}\ \bibnamefont
+  {Janssen}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Franklin}},
+  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Lu}}, \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Su}}, \bibinfo {author} {\bibfnamefont
+  {X.}~\bibnamefont {Gu}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Uji-i}}, \bibinfo {author} {\bibfnamefont {M.~B.~J.}\ \bibnamefont
+  {Roeffaers}}, \ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Hofkens}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Reshaping
+  anisotropic gold nanoparticles through oxidative etching: the role of the
+  surfactant and nanoparticle surface curvature}},}\ }\href {\doibase
+  10.1039/C4RA14237C} {\bibfield  {journal} {\bibinfo  {journal} {RSC Adv.}\
+  }\textbf {\bibinfo {volume} {5}},\ \bibinfo {pages} {6829} (\bibinfo {year}
+  {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Nikoobakht}\ and\ \citenamefont
+  {El-Sayed}(2003)}]{Nikoobakht2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Nikoobakht}}\ and\ \bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
+  {El-Sayed}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Preparation
+  and Growth Mechanism of Gold Nanorods (NRs) Using Seed-Mediated Growth
+  Method}},}\ }\href {\doibase 10.1021/cm020732l} {\bibfield  {journal}
+  {\bibinfo  {journal} {Chem. Mater.}\ }\textbf {\bibinfo {volume} {15}},\
+  \bibinfo {pages} {1957} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Funston}\ \emph {et~al.}(2009)\citenamefont
+  {Funston}, \citenamefont {Novo}, \citenamefont {Davis},\ and\ \citenamefont
+  {Mulvaney}}]{Funston2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~M.}\ \bibnamefont
+  {Funston}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Novo}},
+  \bibinfo {author} {\bibfnamefont {T.~J.}\ \bibnamefont {Davis}}, \ and\
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Mulvaney}},\ }\bibfield
+  {title} {\textit {\bibinfo {title} {{Plasmon coupling of gold nanorods at
+  short distances and in different geometries}},}\ }\href {\doibase
+  10.1021/nl900034v} {\bibfield  {journal} {\bibinfo  {journal} {Nano Lett.}\
+  }\textbf {\bibinfo {volume} {9}},\ \bibinfo {pages} {1651} (\bibinfo {year}
+  {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Snow}\ \emph {et~al.}(1985)\citenamefont {Snow},
+  \citenamefont {Qian},\ and\ \citenamefont {Chang}}]{Snow1985}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~B.}\ \bibnamefont
+  {Snow}}, \bibinfo {author} {\bibfnamefont {S.~X.}\ \bibnamefont {Qian}}, \
+  and\ \bibinfo {author} {\bibfnamefont {R.~K.}\ \bibnamefont {Chang}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Stimulated Raman scattering
+  from individual water and ethanol droplets at morphology-dependent
+  resonances.}}}\ }\href {\doibase 10.1364/OL.10.000037} {\bibfield  {journal}
+  {\bibinfo  {journal} {Opt. Lett.}\ }\textbf {\bibinfo {volume} {10}},\
+  \bibinfo {pages} {37} (\bibinfo {year} {1985})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Caswell}\ \emph {et~al.}(2003)\citenamefont
+  {Caswell}, \citenamefont {Wilson}, \citenamefont {Bunz},\ and\ \citenamefont
+  {Murphy}}]{Caswell2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.~K.}\ \bibnamefont
+  {Caswell}}, \bibinfo {author} {\bibfnamefont {J.~N.}\ \bibnamefont {Wilson}},
+  \bibinfo {author} {\bibfnamefont {U.~H.~F.}\ \bibnamefont {Bunz}}, \ and\
+  \bibinfo {author} {\bibfnamefont {C.~J.}\ \bibnamefont {Murphy}},\ }\bibfield
+   {title} {\textit {\bibinfo {title} {{Preferential end-to-end assembly of
+  gold nanorods by biotin- streptavidin connectors}},}\ }\href {\doibase
+  10.1021/ja037969i} {\bibfield  {journal} {\bibinfo  {journal} {J. Am. Chem.
+  Soc.}\ }\textbf {\bibinfo {volume} {125}},\ \bibinfo {pages} {13914}
+  (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Link}\ \emph {et~al.}(1999)\citenamefont {Link},
+  \citenamefont {Mohamed},\ and\ \citenamefont {El-Sayed}}]{Link1999}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Link}}, \bibinfo {author} {\bibfnamefont {M.~B.}\ \bibnamefont {Mohamed}}, \
+  and\ \bibinfo {author} {\bibfnamefont {M.~a.}\ \bibnamefont {El-Sayed}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Simulation of the optical
+  absorption spectra of gold nanorods as a function of their aspect ratio and
+  the effect of the medium dielectric constant}},}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {J. Phys. Chem. B}\ }\textbf {\bibinfo
+  {volume} {103}},\ \bibinfo {pages} {3073} (\bibinfo {year}
+  {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wokaun}\ \emph {et~al.}(1982)\citenamefont {Wokaun},
+  \citenamefont {Gordon},\ and\ \citenamefont {Liao}}]{Wokaun1982}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {a.}~\bibnamefont
+  {Wokaun}}, \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont {Gordon}},
+  \ and\ \bibinfo {author} {\bibfnamefont {P.~F.}\ \bibnamefont {Liao}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Radiation damping in
+  surface-enhanced Raman scattering}},}\ }\href {\doibase
+  10.1103/PhysRevLett.48.957} {\bibfield  {journal} {\bibinfo  {journal} {Phys.
+  Rev. Lett.}\ }\textbf {\bibinfo {volume} {48}},\ \bibinfo {pages} {957}
+  (\bibinfo {year} {1982})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pauling}(1947)}]{Pauling1947}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Pauling}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Atomic Radii
+  and Interatomic Distances in Metals}},}\ }\href {\doibase
+  10.1021/ja01195a024} {\bibfield  {journal} {\bibinfo  {journal} {J. Am. Chem.
+  Soc.}\ }\textbf {\bibinfo {volume} {69}},\ \bibinfo {pages} {542} (\bibinfo
+  {year} {1947})}\BibitemShut {NoStop}%
+\end{thebibliography}%
