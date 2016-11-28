@@ -1,0 +1,56 @@
+\select@language {english}
+\gdef \the@ipfilectr {@-1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Light Microscopy}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Gold Nanoparticles}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Luminescence from gold nanoparticles}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Applications of gold nanoparticles}{4}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Tuning the resonance of gold nanoparticles}{4}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Imaging through detection of anti-Stokes emission}{5}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Gold nanoparticles as nano-Thermometers}{6}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Plasmon damping as function of temperature}{6}{subsection.1.4.4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\contentsline {chapter}{\numberline {2}Cyanide Etching}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Experimental method}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Results}{12}{section.2.3}
+\contentsline {section}{\numberline {2.4}Conclusions}{17}{section.2.4}
+\contentsline {section}{\numberline {2.5}Acknowledgements}{18}{section.2.5}
+\contentsline {section}{\color {title}References}{18}{section.2.5}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\contentsline {chapter}{\numberline {3}Bacgkround Free Imaging}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Experimental method}{24}{section.3.2}
+\contentsline {section}{\numberline {3.3}Results and discussion}{26}{section.3.3}
+\contentsline {section}{\numberline {3.4}Conclusions}{30}{section.3.4}
+\contentsline {section}{\numberline {3.5}Author Contributions}{30}{section.3.5}
+\contentsline {section}{\numberline {3.6}Acknowledgements}{31}{section.3.6}
+\contentsline {section}{\color {title}References}{31}{section.3.6}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\contentsline {chapter}{\numberline {4}Gold nanoparticles as nano-thermometers}{35}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{35}{section.4.1}
+\contentsline {section}{\numberline {4.2}Experimental method}{38}{section.4.2}
+\contentsline {section}{\numberline {4.3}Results}{39}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conclusions}{45}{section.4.4}
+\contentsline {section}{\color {title}References}{46}{section.4.4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\contentsline {chapter}{\numberline {A}KCN}{51}{appendix.A}
+\contentsline {section}{\numberline {A.1}Solution Results}{51}{section.A.1}
+\contentsline {section}{\numberline {A.2}SEM Images}{52}{section.A.2}
+\contentsline {section}{\numberline {A.3}Background Spectrum}{55}{section.A.3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\contentsline {chapter}{\numberline {B}Background Free}{57}{appendix.B}
+\contentsline {section}{\numberline {B.1}Setup}{57}{section.B.1}
+\contentsline {section}{\numberline {B.2}Uv-Vis spectrum}{58}{section.B.2}
+\contentsline {section}{\numberline {B.3}Filters}{58}{section.B.3}
+\contentsline {section}{\numberline {B.4}TEM Images of rods}{59}{section.B.4}
+\contentsline {section}{\numberline {B.5}White light transmission}{59}{section.B.5}
+\contentsline {section}{\numberline {B.6}Full scan without dye}{59}{section.B.6}
+\contentsline {section}{\numberline {B.7}Full scan without dye}{61}{section.B.7}
+\gdef \the@ipfilectr {}
+\contentsfinish 
