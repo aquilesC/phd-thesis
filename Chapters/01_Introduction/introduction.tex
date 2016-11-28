@@ -319,6 +319,39 @@ reinventing the wheel more often than desired. A simple home built confocal
 microscope requires a dedicated computer program to run that can take months to
 develop. Readily available software normally lacks the flexibility that new
 research needs, limiting the creativity of researches while thinking
-experiments.
+experiments. 
 
-Throught all the chapters of this
+The computer program has been made open source and can be found on Github. It
+has been developed for simplifying repetitive tasks as refocusing on a particle
+or triggering a spectrometer. But it also evolved into a GUI for performing and
+visualizing $2$D and $3$D scans, acquiring fast timetraces, monitoring an
+optical tweezer and communicating with serial devices as well as over the
+network. The latest developments of the software allow to define API's for easy
+integration with smartphones' applications or to control several independent
+setups through a network.
+
+All the chapters of this thesis relied on a flexible computer program that
+allowed to perform tasks in an automated fashion. A direct consequence of this
+is an increase in the throughput of the setup with experiments running over
+night, for example. It also allowed to perform experiments that wouldn't have
+been possible without a computer assisted strategy. 
+
+Chapter \ref{ch:KCN} shows results where several particles were analyzed in an
+iterative way while being etched with potassium cyanide. Refocusing on the
+particles by hand is too slow for processes that happen as fast as the ones
+shown in the chapter. The program allowed to refocus on selected particles and
+trigger a spectrometer without user interaction. 
+
+Chapter \ref{ch:Imaging} shows the scanning capabilities of the software for
+imaging purposes. Moreover the specific program for acquiring the power
+dependent plots can be written in about $20$ lines of code. When varying the
+temperature of the sample as in chapters \ref{ch:AntiStokes} and
+\ref{ch:Damping} it is of utmost importance being able to refocus on a reference
+particle to compensate for the drift of the setup.  
+
+The software even if developed with an optical microscope in mind, can be easily
+extended to other configurations. Moreover the selection of Python as the
+programming language provides platform independence; it can run without
+inconvenience on several Windows versions, Mac OS and Linux. Its main objective
+is to provide a lower level layer on which to build creative solutions to
+complex problems.
