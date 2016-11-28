@@ -1,6 +1,9 @@
-/anti_stokes.aux
-/anti_stokes.log
-/anti_stokes.synctex.gz
-/paper/
+*.aux
+*.log
+*.synctex.gz
+/chapter-1
 /PDF/
 /tmp/
+.project
+.texlipse
+*.out
