@@ -9,7 +9,7 @@ This is the abstract of the introduction
 
 \section{Light Microscopy}
 \dropcap{M}{icroscopes} have become an indispensable tool in all research fields
-in which there is a need to look at small features. The first microscopes
+in which there is the need to look at small features. The first microscopes
 developed by Antoni Van Leeuwenhoek in the XVII century were aimed at studying
 fabrics; it didn't take long however to discover that nature was hiding amazing
 elements beyond what the bare human eye could see. The first microscopes focused
@@ -21,21 +21,21 @@ matter how good a lens is, there will always be a limit to how much it is
 possible to focus light. This limit is determined mainly by the wavelength of
 the employed light beam and by the maximum angle the lens is able to focus. 
 
-The diffraction limit puts a restriction to the size of the structures that can
-be resolved under an optical microscope. The use of shorter wavelengths, as
-X-Rays opened the possibility to study much smaller structures. However this was
-at an expense of observing very well defined periodic structures, such as
-crystals. Soft matter samples such as cells would therefore be out of the scope
-of these techniques. 
+The diffraction limit puts a restriction to the size of the features that can be
+studied under an optical microscope. The use of shorter wavelengths, as X-Rays
+opened the possibility to investigate much smaller structures. However this
+strategy is limited to observe very well defined periodic structures, such as
+crystals. Soft matter samples including cells and polymers would therefore be
+out of the scope of these techniques.
 
-It was at the end of the XX century however that a major breakthrough occurred
-in the field of optics: the detection of a single-molecule fluorescence by M.
-Orrit and J. Bernard. Single-molecules opened the door to studying materials 
+It was only at the end of the XX century that a major breakthrough occurred in
+the field of optics: the detection of a single-molecule fluorescence by M.
+Orrit and J. Bernard. Single-molecules opened the door to studying materials
 with unprecedented spatial resolution, but also to determine properties that
 would have been hidden by bulk broadening. The first studies were done at low
 temperature (few Kelvins) and allowed to determine properties not only of the
 fluorescent molecules but also of the hosting matrices, mainly polymers and
-crystals. 
+crystals.
 
 With a growing interest in the field, a big effort was placed in allowing the
 detection of single-molecules at room temperature. This led to the development
@@ -43,16 +43,18 @@ of new organic dyes and to establish single-molecule fluorescence microscopy as
 one of the cornerstones of many research fields. Localization of single
 fluorophores led to the development of what is now known as super resolution
 microscopy. By carefully determining the centroid of the emission pattern, it is
-possible to determine the center a molecule with higher accuracy than what the
-diffraction limit would allow. 
+possible to determine the position of a molecule with higher accuracy than what
+the diffraction limit would allow. 
 
-Molecules however show blinking and bleaching. At room temperature it is
-impossible to prevent fluorophores from going to dark states, meaning that their
-fluorescence signal will disappear either for a short period of time or for the
-remaining time of the experiment. This puts a hard limit to the experiments that
-can be performed employing single-molecules, since they cannot be observed for
-extended periods of time. Tracking is limited to few seconds, imaging is limited
-to few frames or to cleverly engineered illumination strategies. 
+Molecules however show two phenomena known as blinking and bleaching. At room
+temperature it is impossible to prevent fluorophores from going to dark states,
+meaning that their fluorescence signal will disappear. In the case of blinking
+it happens for short periods of time and hence the name. If the molecule
+undergoes a non reversible transition to a dark state, it will be called
+bleaching. This puts a hard limit to the experiments that can be performed
+employing single-molecules, since they cannot be observed for extended periods
+of time. Tracking is limited to few seconds, imaging is limited to few frames or
+to cleverly engineered illumination strategies.
 
 As single-molecule detection allowed to bridge the length mismatch between
 visible light and biologically relevant scales, new agents that can fill the gap
@@ -63,27 +65,27 @@ quantum dots and of metallic nanoparticles. The latter are the focus of this
 thesis and of the next few sections. 
 
 \section{Gold Nanoparticles}
-Metallic nanoparticles have been subject of studies for a long time. In a
-fortuitous way Romans managed to generate red-coloured glass by dispersing gold
-nanospheres into their glass mixing strategies; the beautiful Lycurgus cup is
-the only surviving example of such technique, together with some other glass
-fragments of the time. The nanoparticles in the glass preserved their optical
+Metallic nanoparticles have been utilized for a very long time. In a fortuitous
+way Romans managed to generate red-coloured glass by dispersing gold nanospheres
+into their glass mixing strategies; the beautiful Lycurgus cup is the only
+surviving complete example of such technique, together with some other glass
+fragments of the time. Nanoparticles in the glass preserved their optical
 properties for centuries, however the explanation of the phenomenon came several
 centuries later.
 
 Gustav Mie in $1908$ calculated the scattering of a plane wave incident on
 spherical particles. It relies on fully solving Maxwell equations and nowadays
 it is simply known as Mie scattering. In the original paper it is possible to
-observe the resonance of gold nanoparticles at around $550\nm$; both calculation
-and measurements show a peak in the scattering efficiency at those wavelengths.
-Because of the weaker interaction with light of longer wavelengths, the reddish
-color of colloidal gold nanoparticles can be explained.
+observe the measured and calculated scattering spectra of gold nanospheres. Both
+experiments and theory show a peak at around $550\nm$; Because of the weaker
+interaction with light of longer wavelengths, the reddish color of colloidal
+gold nanoparticles can be explained. 
 
-Metals however show another interesting property that is given by the
-oscillation of conduction electrons and is known as plasmon. For particles much
-smaller than the incident wavelength, a simplification of the Mie formalism can
-be made by considering only the first order. In this case the polarizability of
-a nanosphere is given by
+The peak observed is related to a resonance of the oscillating conduction
+electrons on the surface of the metal and is known as plasmon resonance. For
+particles much smaller than the incident wavelength, a simplification of the Mie
+formalism can be made by considering only the first order. In this case the
+polarizability of a nanosphere is given by
 \begin{equation}\label{eqn:polarizability}
 	\alpha_{\textrm{sphere}} =
 	3\epsilon_0V\frac{\epsilon(\omega)-\epsilon_m}{\epsilon(\omega)+2\epsilon_m}
@@ -102,7 +104,8 @@ particle's material properties but also on the surrounding medium's optical
 constants. In the case of elongated nanoparticles, some correction factors can
 be introduced to the polarizability. However several computer packages exist to
 calculate with a great precision absorption and extinction cross sections of
-arbitrary geometries. 
+arbitrary geometries and therefore is not worth entering into the specifics of
+the calculations.
 
 A standard procedure to obtain gold nanoparticles is through wet chemical
 methods. Even in the best of cases there will be a dispersion in shapes that
