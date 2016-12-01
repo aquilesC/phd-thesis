@@ -2,7 +2,13 @@
 \label{ch:Damping}
 
 \begin{abstract}
-This is the abstract
+The fundamental property of metallic nanoparticles is the presence of a
+localized surface plasmon resonance. This resonance gives rise to very
+intriguing and useful properties such as sub-wavelength field confinement,
+increase in the efficiency of creation of hot carriers, large absorption and
+scattering cross sections. In this work we show that the plasmon resonance width
+increases linearly with temperature. This can be used to measure temperature
+employing far field optics and can have many applications in different fields.
 \end{abstract}
 
 
@@ -12,7 +18,7 @@ biology\cite{Yang2011a}, specially when focused into the promising fields of
 photothermal\cite{Huang2006a,Hirsch2003} and photodynamic
 therapy\cite{West2003}. The first normally employs small nanoparticles to
 efficiently convert irradiation energy into heat in very localized
-environments\cite{Ma2014a}, thus allowing to address specific
+environments\cite{Ma2014a}, thus making it possible to address specific
 cells\cite{Hirsch2003,Huang2008}. The latter employs the nanoparticles as small
 antennas, utilizing the enhanced near field to produce singlet oxygen that in
 turn will induce cell apoptosis\cite{Hone2002} or to induce drug
@@ -48,7 +54,7 @@ and are currently under investigation for solar energy
 conversion\cite{Catchpole2008}. The main property for such broad range of
 applications resides in the presence of a localized surface plasmon resonance
 (LSPR) that strongly depends on the shape of the particles\cite{Zijlstra2011}.
-Normally this resonance will lie between $2.34\eV$ ($530\nm$) for spheres and
+Normally this resonance will lie between $2.34\eV$ ($530\nm$) for spheres and in 
 the near infrared for more elongated particles.
 
 The plasmon resonance on one hand is responsible for high electromagnetic field
@@ -91,7 +97,7 @@ which not all the phonon modes are occupied. For temperatures $T>\Theta_D$ and
 by following a simple model for metals it is possible to simplify eqn.
 \ref{eqn:broad1} into\cite{Kittel1996}
 \begin{equation}\label{eqn:broad2}
-\Gamma_{\textrm{e-ph}} = \lambda\pi\frac{k_\textrm{B}T}{\hbar}
+\Gamma_{\textrm{e-ph}} = \lambda\frac{k_\textrm{B}T}{\hbar}
 \end{equation}
 where $\lambda$ is a constant depending on the metal, and $k_\textrm{B}$ is
 Boltzmann's constant. Equations \ref{eqn:broad1} and \ref{eqn:broad2} are
@@ -101,18 +107,20 @@ nanoparticles with resonances at around $1.91\eV$ as the ones employed in this w
 conditions are satisfied. The coefficient $\lambda$ is assumed to be a constant
 of the metal, but it could also be an intrinsic property of each particle.
 
-Previous works done at low temperatures on bulk gold\cite{McKay1976}, gold
+Previous work done at low temperatures on bulk gold\cite{McKay1976}, gold
 nanorods\cite{Konrad2013} and gold bipyramids\cite{Liu2009b} showed a good
 agreement of the model in equation \ref{eqn:broad1} with the experimental
-results. On average it was found that the electron-phonon damping increases
-with a rate of $0.1\meV/\K$ for temperatures above the Debye temperature,
-independently of the geometry. Working with nanorods or bipyramids with
-resonances below $2\eV$ allows to discard interband damping mechanisms.
+results. On average it was found that the electron-phonon damping increases with
+a rate of $0.1\meV/\K$ for temperatures above the Debye temperature,
+independently of the geometry. Nanorods or bipyramids normally have plasmon
+resonances below $2\eV$ and therefore interband damping mechanisms can be
+discarded.
+\cite{Sundararaman2014,AlejandroManjavacasJunG.LiuVikramKulkarni2014}
 
 \begin{figure}[htp] \centering
 \includegraphics[width=8cm]{Chapters/05_WhiteLight/Figures/01_Spectra_Example/01_Spectra_Example.png}
 \caption{Normalized scattering spectra of a single gold nanorod at $293\K$ and
-at $333\K$ with corresponding lorentzian fittings. The offset between the curves is for
+at $333\K$ with corresponding lorentzian fits. The offset between the curves is for
 clarity. The FWHM increases $3.6\meV$ with a temperature change of $40\K$. The
 inset shows a SEM image of the employed nanorods. The scale bar is $50\nm$.}
 	\label{fig:spectra_rod}
@@ -143,7 +151,7 @@ intervals of approximately $10\s$}
 \end{figure}
 
 The experiments were performed in a home-built confocal microscope. The samples
-were mounted on a flowcell that allowed to increase the temperature of the
+were mounted on a flow cell that allowed to increase the temperature of the
 medium up to $60\degree$. A dry objective (Olympus $60\times$ NA$0.9$) was
 employed to avoid the presence of a heat sink close to the observed area. To
 acquire white light scattering spectra the particles were immersed in index
@@ -155,8 +163,8 @@ observed diffraction-limited bright spots.
 
 Spectra were recorded with an Acton $500\textrm{-i}$ spectrometer. Exposure
 times were in average of two seconds. This short time was possible because the
-total scattered intensity is in the order of $10^5\CPS$ with an LQNS light
-source. 
+collected scattered intensity is in the order of $10^5$ counts per second with a
+white light source (LQNS).
 
 Two different kind of experiments were performed. Firstly spectra of a single
 nanorod were acquired continuously while varying the temperature in cycles, as
@@ -167,30 +175,32 @@ in the results given by the higher temperatures. Two more particles were studied
 in the same manner, but each was subject to one thermal cycle. In every case,
 after each spectrum a background was recorded in the vicinity of the particle.
  
-Secondly many particles were analyzed to have better statistics on the results.
+Secondly many particles were analyzed to improve the statistics on the results.
 In this set of experiments, each particle's spectrum was acquired consecutively.
 Also backgrounds in different regions of the sample were recorded. After the
-iteration on all particles was finished, the temperature was changed to a
-fixed value and the operation was repeated. In this way we have recorded the
+iteration on all particles was finished, the temperature was changed to a fixed
+value and the operation was repeated. In this way we have recorded the
 scattering spectrum of more than $200$ particles at $9$ different temperatures
-spanning from $19\degree$ to $58\degree$. The first $5$ were while increasing
-the temperature, while the last $4$ when decreasing back to room temperature.
+ranging from $19\degree$ to $58\degree$. The first $5$ measurements were done
+while increasing the temperature, while the last $4$ were done when colling down
+to room temperature.
 
-In order to compensate for the drift of the setup while changing the temperature
-a special computer program to control the setup was written. In the first set of
-experiments, it continuously refocused on the studied particle and triggered the
-spectrometer. The same program monitored and recorded the temperature of the
-flowcell by measuring the resistance of a previously calibrated Pt$100$
-thermometer, placed $1\mm$ away from the observed area. Only in the first cycle
-both the warming up and cooling down were done in steps, as can be seen in the
-Fig. \ref{fig:temp-cycle}, in order to slowly test the procedure.
+In order to compensate for the drift of the setup while changing the
+temperature, a special computer program to control the setup was written. In the
+first set of experiments, it continuously refocused on the studied particle and
+triggered the spectrometer. The same program monitored and recorded the
+temperature of the flowcell by measuring the resistance of a previously
+calibrated Pt$100$ thermometer, placed $1\mm$ away from the observed area. Only
+in the first cycle both the warming up and cooling down were done in steps, as
+can be seen in the Fig. \ref{fig:temp-cycle}, in order to slowly test the
+procedure.
 
 In the second experiment, a reference particle was used for compensating the
 drift while changing temperature; the relative positions of the other particles
 were calculated accordingly. In every case an automatic refocusing procedure was
 applied before triggering the spectrometer, ensuring the correct positioning of
 the desired particle in the center of the beam. With this procedure,
-approximately $80$ particles can be studied at $9$ different temperatures every
+approximately $80$ particles can be studied at $9$ different temperatures in
 under $6$ hours. Measuring the local temperature in the vicinity of the
 particles is important since the PID loop used to control the flowcell
 temperature can have drifts of up to $4\degree$.
@@ -202,18 +212,20 @@ temperature can have drifts of up to $4\degree$.
 varying temperatures. From top to bottom, each plot represents a thermal cycle,
 going from room temperature to $60\degree$ (red circles) and cooling down
 afterwards (blue crosses). It can be seen that after the second cycle there is
-no variation of the plasmon resonance but the width increases with temperature.}
+no variation of the plasmon resonance but the width increases reproducibly with
+temperature.}
 	\label{fig:one_pcle}
 \end{figure}
 
 The particle shown in Figure \ref{fig:spectra_rod} was analyzed while
-continuously changing the temperature of the flowcell as described earlier. The
+continuously changing the temperature of the flow cell as described earlier. The
 results are displayed in Figure \ref{fig:one_pcle} where the left column shows
-the plasmon width while the right column the resonance position as function of
-temperature. Each row in the figure corresponds to every temperature cycle in
-Fig. \ref{fig:temp-cycle}, the first cycle on top and the last at the bottom.
-The red circles correspond to the temperature increase part of the cycle, while
-the blue crosses to the decreasing.
+the plasmon width while the right column shows the resonance position as a
+function of temperature. Each row in the figure corresponds to every temperature
+cycle in Fig. \ref{fig:temp-cycle}, the first cycle on top and the last at the
+bottom. In every plot, the red circles show the part of the cycle with
+an increasing temperature. The blue crosses show the results when
+colling down to room temperature. 
 
 In Fig. \ref{fig:one_pcle} it is possible to observe that during the first cycle
 there is a linear relationship between the plasmon resonance's width and
@@ -222,8 +234,8 @@ However the resonance energy also shifts with temperature, going from $1.869\eV$
 at room temperature to $1.877\eV$ at $58\degree$. More strikingly, when cooling
 down the resonance energy diminishes to $1.862\eV$. During the second cycle the
 broadening of the resonance is slightly less pronounced, at a rate of
-$0.23\meV/\K$. The plasmon resonance even if significatively more stable than
-during cycle $1$, also shows a red shift while cooling down, reaching a value of
+$0.23\meV/\K$. The plasmon resonance, even though significantly more stable
+than during cycle $1$, also shows a red shift while cooling down, reaching a value of
 $1.857\eV$. During the third cycle the broadening of the plasmon shows a rate of
 $0.15\meV/K$ while the resonance does not depend on temperature and is stable
 around $1.856\eV$.
@@ -242,7 +254,7 @@ Normally plasmon shifts are related to changes in the refractive index of the
 medium surrounding the nanoparticles. This phenomenon is used, for instance, in
 photothermal imaging\cite{Berciaud2006,Gaiduk2010b} or in
 biosensors\cite{Zijlstra2012} as described in the Introduction. The fact that in
-the first cycle there is a non-reversible plasmon shift implies that either the
+the first cycle there is a non-reversible plasmon shift suggests that either the
 medium or the surface of the particle (or both) changed in a permanent way after
 reaching higher temperatures. This can be due to a deterioration of the
 immersion oil, or to an adsorption/desorption of molecules from the particle's
@@ -250,8 +262,8 @@ surface. Discriminating from both would require further studies that are out of
 the scope of this work. Thermal reshaping of the nanoparticles can be ruled out
 since it would have induced a blue-shift of the
 resonance\cite{Liu2009,Horiguchi2008}, while we observe an overall red-shift.
-Moreover the temperatures reached in this work are much lower than the needed
-for observing changes in shape of the nanorods. It is however important to note
+Moreover, the temperatures reached in this work are much lower than those needed
+for observing changes in shape of the nanorods. However, it is important to note
 that the plasmon broadening still occurs in the third temperature cycle when no
 resonance shift is observed. Therefore the broadening is not caused by changes
 in the medium but by intrinsic properties of the nanoparticles, as proposed in
@@ -292,7 +304,7 @@ proportional to temperature, but the rates are different.}
 \begin{figure}
 \centering
 \includegraphics[width=8cm]{Chapters/05_WhiteLight/Figures/04_Many_Pcles/04_Many_Particles.png}
-\caption{Plasmon broadening rates as function of initial resonance position
+\caption{Plasmon broadening rate as function of initial resonance position
 and corresponding histograms for $220$ different particles. Top right shows an
 example of the fitting for one particle. The rates are the slopes of the
 linear fits for every particle. Red squares correspond to increasing
@@ -312,7 +324,7 @@ The FWHM of the resonances of these two particles are shown in Figure
 \ref{fig:two_pcles}. The slopes of every fit are summarized in table
 \ref{table-results} on the right columns. Particle $2$ shows a broadening rate
 higher than particle $1$ while particle $3$ shows a rate lower than expected.
-The heterogeneity in nanorod samples normally account for large variations in
+The heterogeneity in nanorod samples normally accounts for large variations in
 the observables. For instance quantum yield measurements\cite{Yorulmaz2012} or
 the rate of chemical etching\cite{Carattino2016} of the surface of the particles
 show a broad distribution of values. To further investigate the differences
@@ -328,8 +340,8 @@ temperature and the blue crosses correspond to the cooling down to room
 temperature. The linear fits have slopes of $0.14\meV/\K$ and $0.13\meV/\K$
 respectively. Compared to the results shown in Figs. \ref{fig:one_pcle} and
 \ref{fig:two_pcles}, spectra were not acquired continuously but after the
-temperature was stabilized at a certain value. At each temperature spectra
-of several nanorods was acquired.
+temperature was stabilized at a certain value. At each temperature, spectra
+of several nanorods were acquired.
 
 From the slopes of the linear fits of all the particles analyzed it is possible
 to construct the bottom left panel of Figure \ref{fig:many-pcles} and the
@@ -369,10 +381,10 @@ $4\meV$, or about $4\%$ of the FWHM of the resonance of the particles.
 
 \section{Conclusions}
 Measuring temperature at the nanoscale is challenging. Available techniques rely
-in spectral changes of fluorophores\cite{Chapman1995a} or quantum
+on spectral changes of fluorophores\cite{Chapman1995a} or quantum
 dots\cite{Tanimoto2016,Yang2011a}. Here we show that scattering properties of
 gold nanoparticles can also be used as temperature sensors. One of the main
-advantages is that the scattering cross section of gold nanoparticles is in the
+advantages is that the scattering cross section of gold nanoparticles is on the
 order of $10^3\nm^2$, and therefore the powers needed for measuring the spectrum
 as well as the integration times can be low.
 
@@ -383,14 +395,15 @@ simple linear relation for temperatures above the Debye temperature. It is
 therefore expected that the plasmon width depends linearly on temperature as was
 shown in this work. 
 
-Particles studied in detail, acquiring continuously spectra while increasing
-and decreasing the medium's temperature showed a broadening of their resonances
-with various rates. We have also shown that the resonance energy changes with
-temperature and a persistent red-shift is observed. This is attributed to
-changes in the refractive index of the medium surrounding the particles, either
-due to the immersion oil changing in a non reversible way or to some
-modification of the surface chemistry of the particles (for instance because
-of adsorption of molecules present in the oil).
+Particles studied in detail, acquiring continuously spectra while increasing and
+decreasing the immersion medium's temperature showed a broadening of their
+resonances with various rates. The electron-phonon coupling model does not allow
+us to explain this behavior; however we have also observed that the resonance
+energy changes with temperature and a persistent red-shift is observed. This is
+attributed to changes in the refractive index of the medium surrounding the
+particles, either due to the immersion oil changing in a non reversible way or
+to some modification of the surface chemistry of the particles (for instance
+because of adsorption of molecules present in the oil).
 
 To investigate the differences in the broadening rates observed from particle to
 particle and a possible relationship of these rates with the resonance position,
@@ -405,7 +418,7 @@ the distribution of values of selected quantities can be of up to one order of
 magnitude. For example, quantum yield measurements\cite{Yorulmaz2012}, surface
 chemistry\cite{Carattino2016}, plasmon induced reactions\cite{Osinkina2013} are
 some of the examples of the high variability observed from particle to particle.
-This variability also makes important single-particle studies, since many of the
+This variability also makes single-particle studies important since many of the
 phenomena can be hidden in bulk measurements\cite{Link1999b}.
 
 With the measured average broadening rate, reaching sensitivities of $1\K$ imply
