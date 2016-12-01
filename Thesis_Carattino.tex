@@ -1,9 +1,11 @@
 \documentclass[print]{dissertation}
+\usepackage{microtype}
 \newcommand{\nm}{\ensuremath{\,\textrm{nm}}}
 \newcommand{\eV}{\ensuremath{\,\textrm{eV}}}
 \newcommand{\uM}{\ensuremath{\,\mu\textrm{M}}}
 \newcommand{\uW}{\ensuremath{\,\mu\textrm{W}}}
 \newcommand{\mW}{\ensuremath{\,\textrm{mW}}}
+\newcommand{\W}{\ensuremath{\,\textrm{W}}}
 \newcommand{\meV}{\ensuremath{\,\textrm{meV}}}
 \newcommand{\um}{\ensuremath{\,\mu\textrm{m}}}
 \newcommand{\pM}{\ensuremath{\,\textrm{pM}}}
@@ -13,23 +15,25 @@
 \newcommand{\atto}{\ensuremath{\textrm{ATTO}\,647\textrm{N}}}
 \newcommand{\K}{\ensuremath{\,\textrm{K}}}
 \newcommand{\mm}{\ensuremath{\,\textrm{mm}}}
+\newcommand{\m}{\ensuremath{\,\textrm{m}}}
 \newcommand{\fs}{\ensuremath{\,\textrm{fs}}}
 \newcommand{\ps}{\ensuremath{\,\textrm{ps}}}
-
+\newcommand{\s}{\ensuremath{\,\textrm{s}}}
+\newcommand{\degree}{\ensuremath{\,^o\textrm{C}}}
 
 \begin{document}
 
 %% Specify the title and author of the thesis. This information will be used on
 %% the title page (in title/title.tex) and in the metadata of the final PDF.
-\title[From imaging to temperature sensing]{Gold Nanorods and their
-applications}
+\title[Applications to Imaging and Temperature Sensing]{Gold Nanorod
+Photoluminescence}
 \author{Aquiles}{Carattino}
 
 %% Use Roman numerals for the page numbers of the title pages and table of
 %% contents.
 \frontmatter
 
-%\include{title/title}
+\include{title/working_title}
 
 %% The (optional) dedication can be used to thank someone or display a
 %% significant quotation.
@@ -49,12 +53,14 @@ applications}
 \include{Chapters/02_KCN/index}
 \include{Chapters/03_Background_Free/BackgroundFree}
 \include{Chapters/04_Anti-Stokes/anti_stokes}
-%\include{Chapters/04_Anti-Stokes/anti_stokes}
+\include{Chapters/05_WhiteLight/WhiteLight}
+
 %% Use letters for the chapter numbers of the appendices.
 \appendix
 
 \include{Chapters/02_KCN/supporting}
 \include{Chapters/03_Background_Free/supporting}
+\include{Chapters/04_Anti-Stokes/supporting}
 
 %% Turn off thumb indices for unnumbered chapters.
 \thumbfalse

@@ -64,7 +64,7 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~W.}\ \bibnamefont
   {Lichtman}}\ and\ \bibinfo {author} {\bibfnamefont {J.-A.}\ \bibnamefont
   {Conchello}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Fluorescence
-  microscopy.}}}\ }\href {\doibase 10.1038/nmeth817} {\bibfield  {journal}
+  microscopy}},}\ }\href {\doibase 10.1038/nmeth817} {\bibfield  {journal}
   {\bibinfo  {journal} {Nat. Methods}\ }\textbf {\bibinfo {volume} {2}},\
   \bibinfo {pages} {910} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Shaner}\ \emph {et~al.}(2005)\citenamefont {Shaner},
@@ -74,7 +74,7 @@
   {Shaner}}, \bibinfo {author} {\bibfnamefont {P.~A.}\ \bibnamefont
   {Steinbach}}, \ and\ \bibinfo {author} {\bibfnamefont {R.~Y.}\ \bibnamefont
   {Tsien}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{A guide to
-  choosing fluorescent proteins.}}}\ }\href {\doibase 10.1038/nmeth819}
+  choosing fluorescent proteins}},}\ }\href {\doibase 10.1038/nmeth819}
   {\bibfield  {journal} {\bibinfo  {journal} {Nat. Methods}\ }\textbf {\bibinfo
   {volume} {2}},\ \bibinfo {pages} {905} (\bibinfo {year} {2005})}\BibitemShut
   {NoStop}%
@@ -120,17 +120,23 @@
   {NoStop}%
 \bibitem [{\citenamefont {P{\'{e}}rez-Juste}\ \emph {et~al.}(2005)\citenamefont
   {P{\'{e}}rez-Juste}, \citenamefont {Pastoriza-Santos}, \citenamefont
-  {Liz-Marz{\'{a}}n},\ and\ \citenamefont {Mulvaney}}]{PEREZJUSTE2005}%
+  {Liz-Marz{\'{a}}n}, \citenamefont {Mulvaney}, \citenamefont {Perezjuste},
+  \citenamefont {Pastorizasantos}, \citenamefont {Lizmarzan},\ and\
+  \citenamefont {Mulvaney}}]{PEREZJUSTE2005}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
   {P{\'{e}}rez-Juste}}, \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
   {Pastoriza-Santos}}, \bibinfo {author} {\bibfnamefont {L.~M.}\ \bibnamefont
-  {Liz-Marz{\'{a}}n}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Mulvaney}},\ }\bibfield  {title} {\textit {\bibinfo
-  {title} {{Gold nanorods: Synthesis, characterization and applications}},}\
-  }\href {\doibase 10.1016/j.ccr.2005.01.030} {\bibfield  {journal} {\bibinfo
-  {journal} {Coord. Chem. Rev.}\ }\textbf {\bibinfo {volume} {249}},\ \bibinfo
-  {pages} {1870} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+  {Liz-Marz{\'{a}}n}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Mulvaney}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Perezjuste}}, \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {Pastorizasantos}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Lizmarzan}}, \ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Mulvaney}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Gold nanorods:
+  Synthesis, characterization and applications}},}\ }\href {\doibase
+  10.1016/j.ccr.2005.01.030} {\bibfield  {journal} {\bibinfo  {journal} {Coord.
+  Chem. Rev.}\ }\textbf {\bibinfo {volume} {249}},\ \bibinfo {pages} {1870}
+  (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Mohamed}\ \emph {et~al.}(2000)\citenamefont
   {Mohamed}, \citenamefont {Volkov}, \citenamefont {Link},\ and\ \citenamefont
   {El-Sayed}}]{Mohamed2000}%
@@ -290,9 +296,12 @@
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
   {Link}}\ and\ \bibinfo {author} {\bibfnamefont {M.~a.}\ \bibnamefont
-  {El-Sayed}},\ }\href {\doibase 10.1080/01442350050034180} {\emph {\bibinfo
-  {title} {Int. Rev. Phys. Chem.}}},\ Vol.~\bibinfo {volume} {19}\ (\bibinfo
-  {year} {2000})\ pp.\ \bibinfo {pages} {409--453}\BibitemShut {NoStop}%
+  {El-Sayed}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Shape and size
+  dependence of radiative, non-radiative and photothermal properties of gold
+  nanocrystals}},}\ }\href {\doibase 10.1080/01442350050034180} {\bibfield
+  {journal} {\bibinfo  {journal} {Int. Rev. Phys. Chem.}\ }\textbf {\bibinfo
+  {volume} {19}},\ \bibinfo {pages} {409} (\bibinfo {year} {2000})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Rao}\ \emph {et~al.}(2015)\citenamefont {Rao},
   \citenamefont {Li}, \citenamefont {Wang}, \citenamefont {Li},\ and\
   \citenamefont {Wu}}]{Rao2015}%
@@ -388,8 +397,8 @@
   {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}}, \bibinfo {author}
   {\bibfnamefont {O.}~\bibnamefont {Wilson}}, \ and\ \bibinfo {author}
   {\bibfnamefont {P.}~\bibnamefont {Mulvaney}},\ }\bibfield  {title} {\textit
-  {\bibinfo {title} {{Drastic reduction of plasmon damping in gold
-  nanorods.}}}\ }\href {\doibase 10.1109/QELS.2002.1031051} {\bibfield
+  {\bibinfo {title} {{Drastic Reduction of Plasmon Damping in Gold
+  Nanorods}},}\ }\href {\doibase 10.1103/PhysRevLett.88.077402} {\bibfield
   {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo
   {volume} {88}},\ \bibinfo {pages} {077402} (\bibinfo {year}
   {2002})}\BibitemShut {NoStop}%
@@ -471,10 +480,14 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
   {Dussault}}\ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
   {Hoess}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Noise performance
-  comparison of ICCD with CCD and EMCCD cameras}},}\ }\bibfield  {booktitle}
-  {\emph {\bibinfo {booktitle} {Opt. Sci. Technol. SPIE 49th Annu. Meet.}},\
-  }\href {\doibase 10.1117/12.561839} {\ ,\ \bibinfo {pages} {195} (\bibinfo
-  {year} {2004})}\BibitemShut {NoStop}%
+  comparison of ICCD with CCD and EMCCD cameras}},}\ }in\ \href {\doibase
+  10.1117/12.561839} {\emph {\bibinfo {booktitle} {Opt. Sci. Technol. SPIE 49th
+  Annu. Meet.}}},\ \bibinfo {editor} {edited by\ \bibinfo {editor}
+  {\bibfnamefont {E.~L.}\ \bibnamefont {Dereniak}}, \bibinfo {editor}
+  {\bibfnamefont {R.~E.}\ \bibnamefont {Sampson}}, \ and\ \bibinfo {editor}
+  {\bibfnamefont {C.~B.}\ \bibnamefont {Johnson}}}\ (\bibinfo  {publisher}
+  {International Society for Optics and Photonics},\ \bibinfo {year} {2004})\
+  p.\ \bibinfo {pages} {195}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Sahl}\ and\ \citenamefont
   {Moerner}(2013)}]{Sahl2013}%
   \BibitemOpen
