@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{53}%
+\begin{thebibliography}{57}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,9 +50,8 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Yang}\ \emph
-  {et~al.}(2011{\natexlab{a}})\citenamefont {Yang}, \citenamefont {Yang},\ and\
-  \citenamefont {Lin}}]{Yang2011a}%
+\bibitem [{\citenamefont {Yang}\ \emph {et~al.}(2011)\citenamefont {Yang},
+  \citenamefont {Yang},\ and\ \citenamefont {Lin}}]{Yang2011a}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-M.}\ \bibnamefont
   {Yang}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Yang}}, \ and\
@@ -61,7 +60,7 @@
   Heterogeneous Local Thermogenesis in Living Cells}},}\ }\href {\doibase
   10.1021/nn201142f} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\
   }\textbf {\bibinfo {volume} {5}},\ \bibinfo {pages} {5067} (\bibinfo {year}
-  {2011}{\natexlab{a}})}\BibitemShut {NoStop}%
+  {2011})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Hrelescu}\ \emph {et~al.}(2010)\citenamefont
   {Hrelescu}, \citenamefont {Stehr}, \citenamefont {Ringler}, \citenamefont
   {Sperling}, \citenamefont {Parak}, \citenamefont {Klar},\ and\ \citenamefont
@@ -215,23 +214,12 @@
   \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Arai}}, \bibinfo {author}
   {\bibfnamefont {K.}~\bibnamefont {Oyama}}, \ and\ \bibinfo {author}
   {\bibfnamefont {S.}~\bibnamefont {Ishiwata}},\ }\bibfield  {title} {\textit
-  {\bibinfo {title} {{The $10^5$ gap issue between calculation and measurement
-  in single-cell thermometry}},}\ }\href {\doibase 10.1038/nmeth.3551}
-  {\bibfield  {journal} {\bibinfo  {journal} {Nat. Methods}\ }\textbf {\bibinfo
-  {volume} {12}},\ \bibinfo {pages} {802} (\bibinfo {year} {2015})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Yang}\ \emph
-  {et~al.}(2011{\natexlab{b}})\citenamefont {Yang}, \citenamefont {Yang},\ and\
-  \citenamefont {Lin}}]{Yang2011}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-M.}\ \bibnamefont
-  {Yang}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Yang}}, \ and\
-  \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Lin}},\ }\bibfield
-  {title} {\textit {\bibinfo {title} {{Quantum dot nano thermometers reveal
-  heterogeneous local thermogenesis in living cells.}}}\ }\href {\doibase
-  10.1021/nn201142f} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\
-  }\textbf {\bibinfo {volume} {5}},\ \bibinfo {pages} {5067} (\bibinfo {year}
-  {2011}{\natexlab{b}})}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{The
+  10{\textless}sup{\textgreater}5{\textless}/sup{\textgreater} gap issue
+  between calculation and measurement in single-cell thermometry}},}\ }\href
+  {\doibase 10.1038/nmeth.3551} {\bibfield  {journal} {\bibinfo  {journal}
+  {Nat. Methods}\ }\textbf {\bibinfo {volume} {12}},\ \bibinfo {pages} {802}
+  (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Sato}\ \emph {et~al.}(2014)\citenamefont {Sato},
   \citenamefont {Toda}, \citenamefont {Inomata}, \citenamefont {Maruyama},
   \citenamefont {Okamatsu-Ogura}, \citenamefont {Arai}, \citenamefont {Ono},
@@ -331,9 +319,9 @@
   {\doibase 10.1088/0034-4885/74/10/106401} {\bibfield  {journal} {\bibinfo
   {journal} {Reports Prog. Phys.}\ }\textbf {\bibinfo {volume} {74}},\ \bibinfo
   {pages} {106401} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Carattino}\ \emph {et~al.}(2016)\citenamefont
-  {Carattino}, \citenamefont {Khatua},\ and\ \citenamefont
-  {Orrit}}]{Carattino2016}%
+\bibitem [{\citenamefont {Carattino}\ \emph
+  {et~al.}(2016{\natexlab{a}})\citenamefont {Carattino}, \citenamefont
+  {Khatua},\ and\ \citenamefont {Orrit}}]{Carattino2016}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
   {Carattino}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Khatua}}, \
@@ -342,7 +330,7 @@
   through oxidative cyanide etching}},}\ }\href {\doibase 10.1039/C6CP01679K}
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Chem. Chem. Phys.}\
   }\textbf {\bibinfo {volume} {18}},\ \bibinfo {pages} {15619} (\bibinfo {year}
-  {2016})}\BibitemShut {NoStop}%
+  {2016}{\natexlab{a}})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Hu}\ \emph {et~al.}(2008)\citenamefont {Hu},
   \citenamefont {Novo}, \citenamefont {Funston}, \citenamefont {Wang},
   \citenamefont {Staleva}, \citenamefont {Zou}, \citenamefont {Mulvaney},
@@ -675,21 +663,6 @@
   10.1103/PhysRevLett.90.177401} {\bibfield  {journal} {\bibinfo  {journal}
   {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {90}},\ \bibinfo {pages}
   {177401} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zhao}\ \emph {et~al.}(2016)\citenamefont {Zhao},
-  \citenamefont {Jarrett}, \citenamefont {Johnson}, \citenamefont {Park},
-  \citenamefont {Vaia},\ and\ \citenamefont {Knappenberger}}]{Zhao2016}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Zhao}}, \bibinfo {author} {\bibfnamefont {J.~W.}\ \bibnamefont {Jarrett}},
-  \bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont {Johnson}}, \bibinfo
-  {author} {\bibfnamefont {K.}~\bibnamefont {Park}}, \bibinfo {author}
-  {\bibfnamefont {R.~A.}\ \bibnamefont {Vaia}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {K.~L.}\ \bibnamefont {Knappenberger}},\ }\bibfield  {title}
-  {\textit {\bibinfo {title} {{Plasmon Dephasing in Gold Nanorods Studied Using
-  Single-Nanoparticle Interferometric Nonlinear Optical Microscopy}},}\ }\href
-  {\doibase 10.1021/acs.jpcc.5b11008} {\bibfield  {journal} {\bibinfo
-  {journal} {J. Phys. Chem. C}\ }\textbf {\bibinfo {volume} {120}},\ \bibinfo
-  {pages} {4071} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {S{\"{o}}nnichsen}\ \emph {et~al.}(2002)\citenamefont
   {S{\"{o}}nnichsen}, \citenamefont {Franzl}, \citenamefont {Wilk},
   \citenamefont {von Plessen}, \citenamefont {Feldmann}, \citenamefont
@@ -702,11 +675,49 @@
   {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}}, \bibinfo {author}
   {\bibfnamefont {O.}~\bibnamefont {Wilson}}, \ and\ \bibinfo {author}
   {\bibfnamefont {P.}~\bibnamefont {Mulvaney}},\ }\bibfield  {title} {\textit
-  {\bibinfo {title} {{Drastic reduction of plasmon damping in gold
-  nanorods.}}}\ }\href {\doibase 10.1109/QELS.2002.1031051} {\bibfield
+  {\bibinfo {title} {{Drastic Reduction of Plasmon Damping in Gold
+  Nanorods}},}\ }\href {\doibase 10.1103/PhysRevLett.88.077402} {\bibfield
   {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo
   {volume} {88}},\ \bibinfo {pages} {077402} (\bibinfo {year}
   {2002})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sundararaman}\ \emph {et~al.}(2014)\citenamefont
+  {Sundararaman}, \citenamefont {Narang}, \citenamefont {Jermyn}, \citenamefont
+  {{Goddard III}},\ and\ \citenamefont {Atwater}}]{Sundararaman2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Sundararaman}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Narang}}, \bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont {Jermyn}},
+  \bibinfo {author} {\bibfnamefont {W.~a.}\ \bibnamefont {{Goddard III}}}, \
+  and\ \bibinfo {author} {\bibfnamefont {H.~a.}\ \bibnamefont {Atwater}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Theoretical predictions for
+  hot-carrier generation from surface plasmon decay}},}\ }\href {\doibase
+  10.1038/ncomms6788} {\bibfield  {journal} {\bibinfo  {journal} {Nat.
+  Commun.}\ }\textbf {\bibinfo {volume} {5}},\ \bibinfo {pages} {5788}
+  (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Brongersma}\ \emph {et~al.}(2015)\citenamefont
+  {Brongersma}, \citenamefont {Halas},\ and\ \citenamefont
+  {Nordlander}}]{Brongersma2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~L.}\ \bibnamefont
+  {Brongersma}}, \bibinfo {author} {\bibfnamefont {N.~J.}\ \bibnamefont
+  {Halas}}, \ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Nordlander}},\ }\bibfield  {title} {\textit {\bibinfo {title}
+  {{Plasmon-induced hot carrier science and technology}},}\ }\href {\doibase
+  10.1038/nnano.2014.311} {\bibfield  {journal} {\bibinfo  {journal} {Nat.
+  Nanotechnol.}\ }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages} {25}
+  (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Manjavacas}\ \emph {et~al.}(2014)\citenamefont
+  {Manjavacas}, \citenamefont {Liu}, \citenamefont {Kulkarni},\ and\
+  \citenamefont {Nordlander}}]{AlejandroManjavacasJunG.LiuVikramKulkarni2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Manjavacas}}, \bibinfo {author} {\bibfnamefont {J.~G.}\ \bibnamefont {Liu}},
+  \bibinfo {author} {\bibfnamefont {V.}~\bibnamefont {Kulkarni}}, \ and\
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Nordlander}},\ }\bibfield
+   {title} {\textit {\bibinfo {title} {{Plasmon-Induced Hot Carriers in
+  Metallic Nanoparticles}},}\ }\href {\doibase 10.1021/nn502445f} {\bibfield
+  {journal} {\bibinfo  {journal} {ACS Nano}\ }\textbf {\bibinfo {volume} {8}},\
+  \bibinfo {pages} {7630} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Pustovalov}(2005)}]{Pustovalov2005}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.~K.}\ \bibnamefont
@@ -750,6 +761,21 @@
   10.1039/C4NR04879B} {\bibfield  {journal} {\bibinfo  {journal} {Nanoscale}\
   }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {577} (\bibinfo {year}
   {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Brown}\ \emph {et~al.}(2016)\citenamefont {Brown},
+  \citenamefont {Sundararaman}, \citenamefont {Narang}, \citenamefont
+  {Goddard},\ and\ \citenamefont {Atwater}}]{Brown2016}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~M.}\ \bibnamefont
+  {Brown}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Sundararaman}},
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Narang}}, \bibinfo
+  {author} {\bibfnamefont {W.~A.}\ \bibnamefont {Goddard}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {H.~A.}\ \bibnamefont {Atwater}},\ }\bibfield
+  {title} {\textit {\bibinfo {title} {{Ab initio phonon coupling and optical
+  response of hot electrons in plasmonic metals}},}\ }\href {\doibase
+  10.1103/PhysRevB.94.075120} {\bibfield  {journal} {\bibinfo  {journal} {Phys.
+  Rev. B}\ }\textbf {\bibinfo {volume} {94}},\ \bibinfo {pages} {075120}
+  (\bibinfo {year} {2016})},\ \Eprint {http://arxiv.org/abs/1602.00625}
+  {arXiv:1602.00625} \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Nikoobakht}\ and\ \citenamefont
   {El-Sayed}(2003)}]{Nikoobakht2003}%
   \BibitemOpen
@@ -760,6 +786,17 @@
   Method}},}\ }\href {\doibase 10.1021/cm020732l} {\bibfield  {journal}
   {\bibinfo  {journal} {Chem. Mater.}\ }\textbf {\bibinfo {volume} {15}},\
   \bibinfo {pages} {1957} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Liu}\ \emph {et~al.}(2009)\citenamefont {Liu},
+  \citenamefont {Mills},\ and\ \citenamefont {Composto}}]{Liu2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Liu}}, \bibinfo {author} {\bibfnamefont {E.~N.}\ \bibnamefont {Mills}}, \
+  and\ \bibinfo {author} {\bibfnamefont {R.~J.}\ \bibnamefont {Composto}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Tuning optical properties of
+  gold nanorods in polymer films through thermal reshaping}},}\ }\href
+  {\doibase 10.1039/b901782h} {\bibfield  {journal} {\bibinfo  {journal} {J.
+  Mater. Chem.}\ }\textbf {\bibinfo {volume} {19}},\ \bibinfo {pages} {2704}
+  (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Boyd}\ \emph {et~al.}(1986)\citenamefont {Boyd},
   \citenamefont {Yu},\ and\ \citenamefont {Shen}}]{Boyd1986}%
   \BibitemOpen
@@ -771,6 +808,21 @@
   10.1103/PhysRevB.33.7923} {\bibfield  {journal} {\bibinfo  {journal} {Phys.
   Rev. B}\ }\textbf {\bibinfo {volume} {33}},\ \bibinfo {pages} {7923}
   (\bibinfo {year} {1986})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Carattino}\ \emph
+  {et~al.}(2016{\natexlab{b}})\citenamefont {Carattino}, \citenamefont
+  {Keizer}, \citenamefont {Schaaf},\ and\ \citenamefont
+  {Orrit}}]{Carattino2016a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Carattino}}, \bibinfo {author} {\bibfnamefont {V.~I.~P.}\ \bibnamefont
+  {Keizer}}, \bibinfo {author} {\bibfnamefont {M.~J.~M.}\ \bibnamefont
+  {Schaaf}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Orrit}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Background
+  Suppression in Imaging Gold Nanorods through Detection of Anti-Stokes
+  Emission}},}\ }\href {\doibase 10.1016/j.bpj.2016.10.035} {\bibfield
+  {journal} {\bibinfo  {journal} {Biophys. J.}\ }\textbf {\bibinfo {volume}
+  {111}} (\bibinfo {year} {2016}{\natexlab{b}}),\
+  10.1016/j.bpj.2016.10.035}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Konrad}\ \emph {et~al.}(2013)\citenamefont {Konrad},
   \citenamefont {Wackenhut}, \citenamefont {Hussels}, \citenamefont {Meixner},\
   and\ \citenamefont {Brecht}}]{Konrad2013}%
