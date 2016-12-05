@@ -226,12 +226,12 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
   {Link}}, \bibinfo {author} {\bibfnamefont {M.~B.}\ \bibnamefont {Mohamed}}, \
   and\ \bibinfo {author} {\bibfnamefont {M.~a.}\ \bibnamefont {El-Sayed}},\
-  }\bibfield  {title} {\textit {\bibinfo {title} {{Simulation of the optical
-  absorption spectra of gold nanorods as a function of their aspect ratio and
-  the effect of the medium dielectric constant}},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {J. Phys. Chem. B}\ }\textbf {\bibinfo
-  {volume} {103}},\ \bibinfo {pages} {3073} (\bibinfo {year}
-  {1999})}\BibitemShut {NoStop}%
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Simulation of the Optical
+  Absorption Spectra of Gold Nanorods as a Function of Their Aspect Ratio and
+  the Effect of the Medium Dielectric Constant}},}\ }\href {\doibase
+  10.1021/jp990183f} {\bibfield  {journal} {\bibinfo  {journal} {J. Phys. Chem.
+  B}\ }\textbf {\bibinfo {volume} {103}},\ \bibinfo {pages} {3073} (\bibinfo
+  {year} {1999})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Berciaud}\ \emph {et~al.}(2006)\citenamefont
   {Berciaud}, \citenamefont {Lasne}, \citenamefont {Blab}, \citenamefont
   {Cognet},\ and\ \citenamefont {Lounis}}]{Berciaud2006}%
@@ -274,23 +274,22 @@
   {267405} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Dulkeith}\ \emph {et~al.}(2004)\citenamefont
   {Dulkeith}, \citenamefont {Niedereichholz}, \citenamefont {Klar},
-  \citenamefont {Feldmann}, \citenamefont {{Von Plessen}}, \citenamefont
+  \citenamefont {Feldmann}, \citenamefont {von Plessen}, \citenamefont
   {Gittins}, \citenamefont {Mayya},\ and\ \citenamefont
   {Caruso}}]{Dulkeith2004}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
   {Dulkeith}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Niedereichholz}}, \bibinfo {author} {\bibfnamefont {T.~a.}\ \bibnamefont
+  {Niedereichholz}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
   {Klar}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}},
-  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {{Von Plessen}}}, \bibinfo
-  {author} {\bibfnamefont {D.~I.}\ \bibnamefont {Gittins}}, \bibinfo {author}
-  {\bibfnamefont {K.~S.}\ \bibnamefont {Mayya}}, \ and\ \bibinfo {author}
+  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {von Plessen}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Gittins}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Mayya}}, \ and\ \bibinfo {author}
   {\bibfnamefont {F.}~\bibnamefont {Caruso}},\ }\bibfield  {title} {\textit
   {\bibinfo {title} {{Plasmon emission in photoexcited gold nanoparticles}},}\
   }\href {\doibase 10.1103/PhysRevB.70.205424} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Rev. B - Condens. Matter Mater. Phys.}\ }\textbf {\bibinfo
-  {volume} {70}},\ \bibinfo {pages} {1} (\bibinfo {year} {2004})}\BibitemShut
-  {NoStop}%
+  {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {70}},\ \bibinfo
+  {pages} {205424} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Link}\ and\ \citenamefont
   {El-Sayed}(2000)}]{Link2000a}%
   \BibitemOpen
@@ -380,10 +379,10 @@
   \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Qian}}, \bibinfo {author}
   {\bibfnamefont {S.}~\bibnamefont {He}}, \ and\ \bibinfo {author}
   {\bibfnamefont {T.}~\bibnamefont {Huser}},\ }\bibfield  {title} {\textit
-  {\bibinfo {title} {{Coherent anti-Stokes emission from gold nanorods and its
-  potential for imaging applications.}}}\ }\href {\doibase
+  {\bibinfo {title} {{Coherent Anti-Stokes Emission from Gold Nanorods and its
+  Potential for Imaging Applications}},}\ }\href {\doibase
   10.1002/cphc.201300091} {\bibfield  {journal} {\bibinfo  {journal}
-  {Chemphyschem}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {1951}
+  {ChemPhysChem}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {1951}
   (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {S{\"{o}}nnichsen}\ \emph {et~al.}(2002)\citenamefont
   {S{\"{o}}nnichsen}, \citenamefont {Franzl}, \citenamefont {Wilk},

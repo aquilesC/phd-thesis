@@ -145,9 +145,10 @@
   {author} {\bibfnamefont {Z.}~\bibnamefont {Hu}}, \ and\ \bibinfo {author}
   {\bibfnamefont {X.-J.}\ \bibnamefont {Liang}},\ }\bibfield  {title} {\textit
   {\bibinfo {title} {{Ultrasmall Gold Nanoparticles as Carriers for
-  Nucleus-Based Gene Therapy Due to Size-Dependent Nuclear Entry.}}}\ }\href
+  Nucleus-Based Gene Therapy Due to Size-Dependent Nuclear Entry}},}\ }\href
   {\doibase 10.1021/nn5008572} {\bibfield  {journal} {\bibinfo  {journal} {ACS
-  Nano}\ } (\bibinfo {year} {2014}),\ 10.1021/nn5008572}\BibitemShut {NoStop}%
+  Nano}\ }\textbf {\bibinfo {volume} {8}},\ \bibinfo {pages} {5852} (\bibinfo
+  {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Ebrahimi}\ \emph {et~al.}(2014)\citenamefont
   {Ebrahimi}, \citenamefont {Akhlaghi}, \citenamefont {Kompany-Zareh},\ and\
   \citenamefont {Rinnan}}]{Ebrahimi2014}%
@@ -214,12 +215,11 @@
   \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Arai}}, \bibinfo {author}
   {\bibfnamefont {K.}~\bibnamefont {Oyama}}, \ and\ \bibinfo {author}
   {\bibfnamefont {S.}~\bibnamefont {Ishiwata}},\ }\bibfield  {title} {\textit
-  {\bibinfo {title} {{The
-  10{\textless}sup{\textgreater}5{\textless}/sup{\textgreater} gap issue
-  between calculation and measurement in single-cell thermometry}},}\ }\href
-  {\doibase 10.1038/nmeth.3551} {\bibfield  {journal} {\bibinfo  {journal}
-  {Nat. Methods}\ }\textbf {\bibinfo {volume} {12}},\ \bibinfo {pages} {802}
-  (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{The $10^5$ gap issue between calculation and measurement
+  in single-cell thermometry}},}\ }\href {\doibase 10.1038/nmeth.3551}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nat. Methods}\ }\textbf {\bibinfo
+  {volume} {12}},\ \bibinfo {pages} {802} (\bibinfo {year} {2015})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Sato}\ \emph {et~al.}(2014)\citenamefont {Sato},
   \citenamefont {Toda}, \citenamefont {Inomata}, \citenamefont {Maruyama},
   \citenamefont {Okamatsu-Ogura}, \citenamefont {Arai}, \citenamefont {Ono},
@@ -258,7 +258,7 @@
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.~R.}\ \bibnamefont
   {Hirsch}}, \bibinfo {author} {\bibfnamefont {R.~J.}\ \bibnamefont
-  {Stafford}}, \bibinfo {author} {\bibfnamefont {J.~a.}\ \bibnamefont
+  {Stafford}}, \bibinfo {author} {\bibfnamefont {J.~A.}\ \bibnamefont
   {Bankson}}, \bibinfo {author} {\bibfnamefont {S.~R.}\ \bibnamefont
   {Sershen}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Rivera}},
   \bibinfo {author} {\bibfnamefont {R.~E.}\ \bibnamefont {Price}}, \bibinfo
@@ -288,11 +288,11 @@
   {\bibfnamefont {S.~Q.}\ \bibnamefont {Yao}}, \bibinfo {author} {\bibfnamefont
   {Q.-H.}\ \bibnamefont {Xu}}, \ and\ \bibinfo {author} {\bibfnamefont {G.~Q.}\
   \bibnamefont {Xu}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Gold
-  Nanorod Enhanced Two-photon Excitation Fluorescence of Photosensitizers for
-  Two-Photon Imaging and Photodynamic Therapy.}}}\ }\href {\doibase
+  Nanorod Enhanced Two-Photon Excitation Fluorescence of Photosensitizers for
+  Two-Photon Imaging and Photodynamic Therapy}},}\ }\href {\doibase
   10.1021/am405214w} {\bibfield  {journal} {\bibinfo  {journal} {ACS Appl.
-  Mater. Interfaces}\ } (\bibinfo {year} {2014}),\
-  10.1021/am405214w}\BibitemShut {NoStop}%
+  Mater. Interfaces}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages}
+  {2700} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Donner}\ \emph {et~al.}(2013)\citenamefont {Donner},
   \citenamefont {Thompson}, \citenamefont {Alonso-Ortega}, \citenamefont
   {Morales}, \citenamefont {Rico}, \citenamefont {Santos},\ and\ \citenamefont
@@ -305,8 +305,8 @@
   {Morales}}, \bibinfo {author} {\bibfnamefont {L.~G.}\ \bibnamefont {Rico}},
   \bibinfo {author} {\bibfnamefont {S.~I. C.~O.}\ \bibnamefont {Santos}}, \
   and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Quidant}},\
-  }\bibfield  {title} {\textit {\bibinfo {title} {{Imaging of plasmonic heating
-  in a living organism.}}}\ }\href {\doibase 10.1021/nn403659n} {\bibfield
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Imaging of Plasmonic Heating
+  in a Living Organism}},}\ }\href {\doibase 10.1021/nn403659n} {\bibfield
   {journal} {\bibinfo  {journal} {ACS Nano}\ }\textbf {\bibinfo {volume} {7}},\
   \bibinfo {pages} {8666} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Zijlstra}\ and\ \citenamefont
@@ -521,23 +521,22 @@
   {NoStop}%
 \bibitem [{\citenamefont {Dulkeith}\ \emph {et~al.}(2004)\citenamefont
   {Dulkeith}, \citenamefont {Niedereichholz}, \citenamefont {Klar},
-  \citenamefont {Feldmann}, \citenamefont {{Von Plessen}}, \citenamefont
+  \citenamefont {Feldmann}, \citenamefont {von Plessen}, \citenamefont
   {Gittins}, \citenamefont {Mayya},\ and\ \citenamefont
   {Caruso}}]{Dulkeith2004}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
   {Dulkeith}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Niedereichholz}}, \bibinfo {author} {\bibfnamefont {T.~a.}\ \bibnamefont
+  {Niedereichholz}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
   {Klar}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}},
-  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {{Von Plessen}}}, \bibinfo
-  {author} {\bibfnamefont {D.~I.}\ \bibnamefont {Gittins}}, \bibinfo {author}
-  {\bibfnamefont {K.~S.}\ \bibnamefont {Mayya}}, \ and\ \bibinfo {author}
+  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {von Plessen}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Gittins}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Mayya}}, \ and\ \bibinfo {author}
   {\bibfnamefont {F.}~\bibnamefont {Caruso}},\ }\bibfield  {title} {\textit
   {\bibinfo {title} {{Plasmon emission in photoexcited gold nanoparticles}},}\
   }\href {\doibase 10.1103/PhysRevB.70.205424} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Rev. B - Condens. Matter Mater. Phys.}\ }\textbf {\bibinfo
-  {volume} {70}},\ \bibinfo {pages} {1} (\bibinfo {year} {2004})}\BibitemShut
-  {NoStop}%
+  {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {70}},\ \bibinfo
+  {pages} {205424} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Link}\ and\ \citenamefont
   {El-Sayed}(2000)}]{Link2010}%
   \BibitemOpen
@@ -587,18 +586,18 @@
   {pages} {687} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Fedoruk}\ \emph {et~al.}(2013)\citenamefont
   {Fedoruk}, \citenamefont {Meixner}, \citenamefont {Carretero-Palacios},
-  \citenamefont {Lohm{\"{u}}ller},\ and\ \citenamefont
-  {Feldmann}}]{Fedoruk2013}%
+  \citenamefont {Lohmuller},\ and\ \citenamefont {Feldmann}}]{Fedoruk2013}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
   {Fedoruk}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Meixner}},
   \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Carretero-Palacios}},
-  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Lohm{\"{u}}ller}}, \ and\
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Lohmuller}}, \ and\
   \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}},\ }\bibfield
   {title} {\textit {\bibinfo {title} {{Nanolithography by Plasmonic Heating and
-  Optical Manipulation of Gold Nanoparticles.}}}\ }\href {\doibase
-  10.1021/nn402124p} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\ }
-  (\bibinfo {year} {2013}),\ 10.1021/nn402124p}\BibitemShut {NoStop}%
+  Optical Manipulation of Gold Nanoparticles}},}\ }\href {\doibase
+  10.1021/nn402124p} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\
+  }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {7648} (\bibinfo {year}
+  {2013})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Zijlstra}\ \emph
   {et~al.}(2009{\natexlab{a}})\citenamefont {Zijlstra}, \citenamefont {Chon},\
   and\ \citenamefont {Gu}}]{Zijlstra2009}%
@@ -817,11 +816,11 @@
   {Carattino}}, \bibinfo {author} {\bibfnamefont {V.~I.~P.}\ \bibnamefont
   {Keizer}}, \bibinfo {author} {\bibfnamefont {M.~J.~M.}\ \bibnamefont
   {Schaaf}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Orrit}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{Background
-  Suppression in Imaging Gold Nanorods through Detection of Anti-Stokes
-  Emission}},}\ }\href {\doibase 10.1016/j.bpj.2016.10.035} {\bibfield
-  {journal} {\bibinfo  {journal} {Biophys. J.}\ }\textbf {\bibinfo {volume}
-  {111}} (\bibinfo {year} {2016}{\natexlab{b}}),\
+  {Orrit}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{(In Press)
+  Background Suppression in Imaging Gold Nanorods through Detection of
+  Anti-Stokes Emission}},}\ }\href {\doibase 10.1016/j.bpj.2016.10.035}
+  {\bibfield  {journal} {\bibinfo  {journal} {Biophys. J.}\ }\textbf {\bibinfo
+  {volume} {111}} (\bibinfo {year} {2016}{\natexlab{b}}),\
   10.1016/j.bpj.2016.10.035}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Konrad}\ \emph {et~al.}(2013)\citenamefont {Konrad},
   \citenamefont {Wackenhut}, \citenamefont {Hussels}, \citenamefont {Meixner},\

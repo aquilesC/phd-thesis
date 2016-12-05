@@ -1,6 +1,6 @@
 \chapter[Smart Scan]{Smart Scan: A Python program to control scanning
 microscopes}
-\label{ch:Damping}
+\label{ch:SmartScan}
 
 \begin{abstract}
 This is the abstract for the computer program
@@ -36,13 +36,13 @@ This is the abstract for the computer program
 
 
 \section{Why another computer package}
-Computers became an indispensable tool in almost every aspect of life. Research
-labs are not an exception; even the simplest measurement with a digital scale
-depends on electronics. When dealing with more complex setups and experiments
-also the complexity of the acquisition devices grows. Nowadays digitizing an
-analog signal or generating an analog output from a digital controller is a
-standard procedure that doesn't require really expensive equipment nor a
-highly specialized training. 
+\dropcap{C}{omputers} became an indispensable tool in almost every aspect of
+life. Research labs are not an exception; even the simplest measurement with a
+digital scale depends on electronics. When dealing with more complex setups and
+experiments also the complexity of the acquisition devices grows. Nowadays
+digitizing an analog signal or generating an analog output from a digital
+controller is a standard procedure that doesn't require really expensive
+equipment nor a highly specialized training.
 
 In research labs however, there is a big gap between the experiments that have
 to be performed and the use of computers to simplify those tasks. Good
@@ -161,4 +161,20 @@ ADwin box and from the PC.
 The name Smart Scan has its origin in the original purpose of the code written.
 SM stands for single-molecule and AR for Automatic Refocusing. The initial idea
 was to develop a simple program that could automatically refocus a confocal
-microscope on a single gold nanorod after it drifted away some micrometers. 
+microscope on a single gold nanorod after it drifted away some micrometers. This
+simple initial program was used in chapter \ref{ch:KCN}; when flowing the
+cyanide solution through the flow cell the sample would shift some micrometers
+and it was crucial to find as fast as possible the same nanorods that were
+initially characterized. 
+
+Refocusing on a particle in a confocal microscope can be achieved by a sequence
+of linear scans. After each scan the stage would position where the maximum
+intensity was observed. The program takes care of the linear scans and finding
+the maximum value, thus for refocusing one can simply write 
+
+\textttt{position = adw.focus_full(counter,devs,center,dims,accuracy)}
+
+\noindent where \textttt{adw} is the class controlling the ADwin box, the input
+variables are the detector used for maximizing the signal, the devices that
+should be scanned, the center and the length of each scan with a given accuracy.
+The output is 

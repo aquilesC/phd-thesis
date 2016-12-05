@@ -462,12 +462,12 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
   {Link}}, \bibinfo {author} {\bibfnamefont {M.~B.}\ \bibnamefont {Mohamed}}, \
   and\ \bibinfo {author} {\bibfnamefont {M.~a.}\ \bibnamefont {El-Sayed}},\
-  }\bibfield  {title} {\textit {\bibinfo {title} {{Simulation of the optical
-  absorption spectra of gold nanorods as a function of their aspect ratio and
-  the effect of the medium dielectric constant}},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {J. Phys. Chem. B}\ }\textbf {\bibinfo
-  {volume} {103}},\ \bibinfo {pages} {3073} (\bibinfo {year}
-  {1999})}\BibitemShut {NoStop}%
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Simulation of the Optical
+  Absorption Spectra of Gold Nanorods as a Function of Their Aspect Ratio and
+  the Effect of the Medium Dielectric Constant}},}\ }\href {\doibase
+  10.1021/jp990183f} {\bibfield  {journal} {\bibinfo  {journal} {J. Phys. Chem.
+  B}\ }\textbf {\bibinfo {volume} {103}},\ \bibinfo {pages} {3073} (\bibinfo
+  {year} {1999})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Wokaun}\ \emph {et~al.}(1982)\citenamefont {Wokaun},
   \citenamefont {Gordon},\ and\ \citenamefont {Liao}}]{Wokaun1982}%
   \BibitemOpen
