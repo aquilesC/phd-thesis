@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{34}%
+\begin{thebibliography}{42}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -463,6 +463,36 @@
   {\doibase 10.1088/0034-4885/74/10/106401} {\bibfield  {journal} {\bibinfo
   {journal} {Reports Prog. Phys.}\ }\textbf {\bibinfo {volume} {74}},\ \bibinfo
   {pages} {106401} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Cheng}\ \emph {et~al.}(2015)\citenamefont {Cheng},
+  \citenamefont {Lu}, \citenamefont {He}, \citenamefont {Shen}, \citenamefont
+  {Zhao}, \citenamefont {Xia},\ and\ \citenamefont {Gong}}]{Cheng2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Cheng}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Lu}}, \bibinfo
+  {author} {\bibfnamefont {Y.}~\bibnamefont {He}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Shen}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Zhao}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Xia}}, \ and\ \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Gong}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Luminescence Quantum Yields
+  of Gold Nanoparticles Varying with Excitation Wavelength}},}\ }\href
+  {\doibase 10.1039/C5NR07343J} {\bibfield  {journal} {\bibinfo  {journal}
+  {Nanoscale}\ ,\ \bibinfo {pages} {2188}} (\bibinfo {year}
+  {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fang}\ \emph {et~al.}(2012)\citenamefont {Fang},
+  \citenamefont {Chang}, \citenamefont {Willingham}, \citenamefont {Swanglap},
+  \citenamefont {Dominguez-Medina},\ and\ \citenamefont {Link}}]{Fang2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Fang}}, \bibinfo {author} {\bibfnamefont {W.-S.}\ \bibnamefont {Chang}},
+  \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Willingham}}, \bibinfo
+  {author} {\bibfnamefont {P.}~\bibnamefont {Swanglap}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Dominguez-Medina}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Link}},\ }\bibfield  {title}
+  {\textit {\bibinfo {title} {{Plasmon emission quantum yield of single gold
+  nanorods as a function of aspect ratio.}}}\ }\href {\doibase
+  10.1021/nn3022469} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\
+  }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages} {7177} (\bibinfo {year}
+  {2012})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Liu}\ \emph {et~al.}(2009)\citenamefont {Liu},
   \citenamefont {Mills},\ and\ \citenamefont {Composto}}]{Liu2009}%
   \BibitemOpen
@@ -474,6 +504,82 @@
   {\doibase 10.1039/b901782h} {\bibfield  {journal} {\bibinfo  {journal} {J.
   Mater. Chem.}\ }\textbf {\bibinfo {volume} {19}},\ \bibinfo {pages} {2704}
   (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Huang}\ \emph {et~al.}(2008)\citenamefont {Huang},
+  \citenamefont {Jain}, \citenamefont {El-Sayed},\ and\ \citenamefont
+  {El-Sayed}}]{Huang2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.}~\bibnamefont
+  {Huang}}, \bibinfo {author} {\bibfnamefont {P.~K.}\ \bibnamefont {Jain}},
+  \bibinfo {author} {\bibfnamefont {I.~H.}\ \bibnamefont {El-Sayed}}, \ and\
+  \bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont {El-Sayed}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Plasmonic photothermal
+  therapy (PPTT) using gold nanoparticles}},}\ }\href {\doibase
+  10.1007/s10103-007-0470-x} {\bibfield  {journal} {\bibinfo  {journal} {Lasers
+  Med. Sci.}\ }\textbf {\bibinfo {volume} {23}},\ \bibinfo {pages} {217}
+  (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yurkin}\ and\ \citenamefont
+  {Hoekstra}(2011)}]{Yurkin2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
+  {Yurkin}}\ and\ \bibinfo {author} {\bibfnamefont {A.~G.}\ \bibnamefont
+  {Hoekstra}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{The
+  discrete-dipole-approximation code ADDA: Capabilities and known
+  limitations}},}\ }\href {\doibase 10.1016/j.jqsrt.2011.01.031} {\bibfield
+  {journal} {\bibinfo  {journal} {J. Quant. Spectrosc. Radiat. Transf.}\
+  }\textbf {\bibinfo {volume} {112}},\ \bibinfo {pages} {2234} (\bibinfo {year}
+  {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Huang}\ \emph
+  {et~al.}(2006{\natexlab{a}})\citenamefont {Huang}, \citenamefont {Jain},
+  \citenamefont {El-Sayed},\ and\ \citenamefont {El-Sayed}}]{Huang2006a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.}~\bibnamefont
+  {Huang}}, \bibinfo {author} {\bibfnamefont {P.~K.}\ \bibnamefont {Jain}},
+  \bibinfo {author} {\bibfnamefont {I.~H.}\ \bibnamefont {El-Sayed}}, \ and\
+  \bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont {El-Sayed}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Determination of the Minimum
+  Temperature Required for Selective Photothermal Destruction of Cancer Cells
+  with the Use of Immunotargeted Gold Nanoparticles}},}\ }\href {\doibase
+  10.1562/2005-12-14-RA-754} {\bibfield  {journal} {\bibinfo  {journal}
+  {Photochem. Photobiol.}\ }\textbf {\bibinfo {volume} {82}},\ \bibinfo {pages}
+  {412} (\bibinfo {year} {2006}{\natexlab{a}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Huang}\ \emph
+  {et~al.}(2006{\natexlab{b}})\citenamefont {Huang}, \citenamefont {El-Sayed},
+  \citenamefont {Qian},\ and\ \citenamefont {El-Sayed}}]{Huang2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.~H.}\ \bibnamefont
+  {Huang}}, \bibinfo {author} {\bibfnamefont {I.~H.}\ \bibnamefont {El-Sayed}},
+  \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Qian}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {M.~a.}\ \bibnamefont {El-Sayed}},\ }\bibfield
+  {title} {\textit {\bibinfo {title} {{Cancer cell imaging and photothermal
+  therapy in the near-infrared region by using gold nanorods}},}\ }\href
+  {\doibase 10.1021/ja057254a} {\bibfield  {journal} {\bibinfo  {journal} {J.
+  Am. Chem. Soc.}\ }\textbf {\bibinfo {volume} {128}},\ \bibinfo {pages} {2115}
+  (\bibinfo {year} {2006}{\natexlab{b}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sturesson}\ and\ \citenamefont
+  {Andersson-Engels}(1995)}]{Sturesson1995}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Sturesson}}\ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Andersson-Engels}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{A
+  mathematical model for predicting the temperature distribution in
+  laser-induced hyperthermia. Experimental evaluation and applications}},}\
+  }\href {\doibase 10.1088/0031-9155/40/12/003} {\bibfield  {journal} {\bibinfo
+   {journal} {Phys. Med. Biol.}\ }\textbf {\bibinfo {volume} {40}},\ \bibinfo
+  {pages} {2037} (\bibinfo {year} {1995})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {O'Neal}\ \emph {et~al.}(2004)\citenamefont {O'Neal},
+  \citenamefont {Hirsch}, \citenamefont {Halas}, \citenamefont {Payne},\ and\
+  \citenamefont {West}}]{ONeal2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {O'Neal}}, \bibinfo {author} {\bibfnamefont {L.~R.}\ \bibnamefont {Hirsch}},
+  \bibinfo {author} {\bibfnamefont {N.~J.}\ \bibnamefont {Halas}}, \bibinfo
+  {author} {\bibfnamefont {J.}~\bibnamefont {Payne}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {J.~L.}\ \bibnamefont {West}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Photo-thermal tumor ablation in mice using near
+  infrared-absorbing nanoparticles}},}\ }\href {\doibase
+  10.1016/j.canlet.2004.02.004} {\bibfield  {journal} {\bibinfo  {journal}
+  {Cancer Lett.}\ }\textbf {\bibinfo {volume} {209}},\ \bibinfo {pages} {171}
+  (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Dussault}\ and\ \citenamefont
   {Hoess}(2004)}]{Dussault2004}%
   \BibitemOpen

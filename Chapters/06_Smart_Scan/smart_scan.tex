@@ -1,0 +1,164 @@
+\chapter[Smart Scan]{Smart Scan: A Python program to control scanning
+microscopes}
+\label{ch:Damping}
+
+\begin{abstract}
+This is the abstract for the computer program
+\end{abstract}
+
+\newpage
+
+\section{Scheme of the chapter}
+* Motivations (why another program)
+  * Research greatly depends on computer power
+  * Computers have to be considered tools
+  * Reinventing the wheel
+  * Commercial systems are normally closed
+  * General programming languages have a steep learning curve
+  * Our niche: Flexible but low level
+* MVC Design pattern
+  * What is a design pattern for a computer program
+  * Reusability of code
+  * MVC in the lab
+  * The ADwin box
+* The program itself
+  * Going from low-level adq class
+  * To high level keep track of a particle
+  * Building a GUI
+  * Interfacing with serial devices
+  * Interfacing with an Arduino
+  * Interfacing through the network
+  * Building an API
+  * Starting the program from a web page
+* Next steps
+  * New applications
+  * Building a company around the program
+
+
+\section{Why another computer package}
+Computers became an indispensable tool in almost every aspect of life. Research
+labs are not an exception; even the simplest measurement with a digital scale
+depends on electronics. When dealing with more complex setups and experiments
+also the complexity of the acquisition devices grows. Nowadays digitizing an
+analog signal or generating an analog output from a digital controller is a
+standard procedure that doesn't require really expensive equipment nor a
+highly specialized training. 
+
+In research labs however, there is a big gap between the experiments that have
+to be performed and the use of computers to simplify those tasks. Good
+researches may not have advance training in computer science and therefore the
+computer may look as an obstacle between their research and themselves. In
+laboratories that don't have their focus in advanced instrumentation a lot of
+repetitive, non creative tasks are performed by people instead of being
+automatized. Computers have to be thought as tools that can greatly simplify 
+researchers work, and this chapter focuses on how to achieve it. 
+
+The risk when implementing a new solution is to reinvent the wheel. Sometimes
+building a program from scratch gives insight into all the steps involved into
+making the setup work, but how deep one should dig depends on the focus of the
+research. When the field is not instrumentation in itself, most likely there
+have been groups already working in similar techniques. For example performing a
+confocal scan in an optical microscope should be a routine work. However the
+development of a computer program to control all the involved pieces, namely a
+piezo stage and a detector, can take longer than setting up and aligning all the
+optics. 
+
+It would be expected that computer packages already exist to solve this common
+problem. However the majority of them can be installed only into very specific
+hardware configurations. The diversity that exists between setups is so large
+that being able to cover all possible configurations is not a realistic task.
+Therefore being able to build a computer program on top of accumulated knowledge
+can be of great use in a variety of research fields, including but not limited
+to optical setups. This lower level program should be therefore transparent to
+the user; in case of need it should provide easy ways of customization but it
+should also seamlessly interface with higher level needs. 
+
+One of the key requisites of computer packages aimed to scientific research is
+that they should be open source for anybody to inspect and improve. Even if
+the software is propietary its source code can be released in order to provide
+all the flexibility researchers need. Moreover computer tools used for
+acquiring, simulating or analyzing data could in principle be the object of a
+peer review process before accepting a publication. 
+
+In the scientific community Python has gained a lot of attention; on one hand it
+is an open source language, that can be installed in any operating system
+without the need of expensive licenses. On the other hand it posses extensions
+that are ideal for scientific data analysis, simulations and for building
+complex applications. Python is an interpreted language, meaning that it does
+not need to be compiled prior to execution. This shortens the development time
+of new programs, while maintains a high versatility. Moreover Python counts
+with an active community that makes relatively easy to find answers to common
+questions online.
+
+Learning a computer language can take more time than available. Experimentalists
+can find themselves in the crossroad of choosing if investing time in learning
+to code or to focus into the experiments themselves. Learning to code may a be a
+good long term strategy, but probably the impact in the research is too long
+term for the current scientific output needs. Learning from examples however can
+shorten the learning curve significantly. A computer package that can already
+perform experiments similar to the ones planned can be easily adapted. In this
+thesis for example, the code used in chapter \ref{ch:KCN} for refocusing onto
+the particles was the same employed in chapters \ref{ch:AntiStokes} and
+\ref{ch:Damping} for tracking the displacement of a reference particle with
+increasing temperature. 
+
+The package that we have developed follows all the guidelines stated above. It
+is open source, built on an open source language. It provides a low level layer
+responsible of interacting with the devices and several upper level examples on
+how to operate with it. Lower level features can be added to the base code, but
+at the same time new experiments can be planned without having to worry about
+how to exactly interface with individual devices. This puts our computer package
+into a specific niche that is not covered by others: it provides a low level
+layer and at a same time maintains a great extent of flexibility. 
+
+\section{The MVC design pattern}
+The model-view-controller (MVC) design pattern is a standard strategy at the
+time of planning code for ensuring its reusability. Each layer will deal with
+different parts of the process, meaning that the model will be responsible for
+managing the data, analyzing it. The data is then passed to the view layer that
+is responsible for presenting it to the user with its own set of rules. The user
+can send instructions through the controller to update the model, for instance
+by acquiring more data. 
+
+The MVC design patter allows to split the different programming tasks in such a
+way that different programmers can focus into specific tasks. It also allows to
+interchange different pieces of code, for example it is possible to use the same
+controller but to change the view layer. In the case of a microscope, same
+controller can have the ability to perform scans, i.e. acquiring a signal while
+varying one or more outputs, and to acquire timetraces. However the way data is
+presented to the user is significatively different: it can range from a 3D model
+to a 1D plot. The model layer is responsible for interpreting the acquired data,
+for example by converting it from a digital value to a physical quantity. 
+
+In the lab the MVC design pattern arises naturally when thinking in the
+different steps involved in an experiment. First there is the experimentalist,
+or the user who needs to interact with the computer to instruct what measurement
+to perform. This triggers a device that can digitize a signal, output a
+voltage, etc. In turn the acquired data is transformed into something that can
+be easily interpreted by the user, such as a value on the screen or a plot. In
+this simple description the three layers of the MVC pattern have a clear
+function. 
+
+The reusability of code is especially useful for scientific applications. It
+does not only shorten the development time it also allows less experienced users
+to build complex software. The main characteristic of reusable code besides
+the design pattern is its documentation. In such regard Python allows to build
+documentation pages based on the information supplied in the code.
+Automatically generated manual pages, even if not pleasant to read, allow to
+search for features, avoid errors and bugs and to continue building on top of
+others experience. 
+
+One of the key elements in the acquisition scheme is the hardware able to
+digitize signals and to generate outputs. In our case we employed an ADwin box,
+capable of handling several inputs and outputs both analog and digital. The
+ADwin box can run dedicated tasks with high time accuracy in principle without
+interacting with a PC. The tasks are written in a specific language similar to
+Basic, compiled and loaded into the box. The interaction with the computer is
+achieved through specific variables that can be read and written both from the
+ADwin box and from the PC.
+
+\section{SMART Scan}
+The name Smart Scan has its origin in the original purpose of the code written.
+SM stands for single-molecule and AR for Automatic Refocusing. The initial idea
+was to develop a simple program that could automatically refocus a confocal
+microscope on a single gold nanorod after it drifted away some micrometers. 
