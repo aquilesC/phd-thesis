@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="09_Viability.svg"
-   inkscape:export-filename="C:\Users\aquiles\Documents\background-free\Figures\Supplementary\09_Viability\09_Viability.png"
-   inkscape:export-xdpi="1200"
-   inkscape:export-ydpi="1200">
+   inkscape:export-filename="C:\Users\aquiles\Documents\Thesis\Chapters\03_Background_Free\Figures\Supplementary\09_Viability\09_Viability.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs4454">
     <color-profile
@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4003301"
-     inkscape:cx="182.22183"
-     inkscape:cy="16.592783"
+     inkscape:zoom="0.85577332"
+     inkscape:cx="143.18709"
+     inkscape:cy="67.898447"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -44,7 +44,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1672"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -80,14 +80,14 @@
      transform="translate(0.16751404,2.4832048)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\aquiles\Documents\background-free\Figures\Supplementary\09_Viability\Background_Free.xlef_Series015_z0.tif"
+       sodipodi:absref="C:\Users\aquiles\Documents\Thesis\Chapters\03_Background_Free\Figures\Supplementary\09_Viability\Background_Free.xlef_Series015_z0.tif"
        xlink:href="Background_Free.xlef_Series015_z0.tif"
-       y="0.45213875"
-       x="-0.16751404"
-       id="image5017"
-       preserveAspectRatio="none"
+       width="188.76758"
        height="188.76758"
-       width="188.76758" />
+       preserveAspectRatio="none"
+       id="image5017"
+       x="-0.16751404"
+       y="0.45213875" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -96,14 +96,14 @@
      transform="translate(0.16751404,2.4832048)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\aquiles\Documents\background-free\Figures\Supplementary\09_Viability\Background_Free.xlef_Series020_z0.tif"
+       sodipodi:absref="C:\Users\aquiles\Documents\Thesis\Chapters\03_Background_Free\Figures\Supplementary\09_Viability\Background_Free.xlef_Series020_z0.tif"
        xlink:href="Background_Free.xlef_Series020_z0.tif"
-       y="0.45213875"
-       x="215.98578"
-       id="image5028"
-       preserveAspectRatio="none"
+       width="188.76758"
        height="188.76758"
-       width="188.76758" />
+       preserveAspectRatio="none"
+       id="image5028"
+       x="215.98578"
+       y="0.45213875" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -112,14 +112,14 @@
      transform="translate(0.16751404,2.4832048)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\aquiles\Documents\background-free\Figures\Supplementary\09_Viability\Background_Free.xlef_Series054_z0.tif"
+       sodipodi:absref="C:\Users\aquiles\Documents\Thesis\Chapters\03_Background_Free\Figures\Supplementary\09_Viability\Background_Free.xlef_Series054_z0.tif"
        xlink:href="Background_Free.xlef_Series054_z0.tif"
-       y="0.85267437"
-       x="432.53961"
-       id="image5050"
-       preserveAspectRatio="none"
+       width="187.96651"
        height="187.96651"
-       width="187.96651" />
+       preserveAspectRatio="none"
+       id="image5050"
+       x="432.53961"
+       y="0.85267437" />
   </g>
   <g
      inkscape:groupmode="layer"
