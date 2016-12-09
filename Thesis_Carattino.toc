@@ -22,7 +22,7 @@
 \contentsline {section}{\numberline {2.2}Experimental method}{17}{section.2.2}
 \contentsline {section}{\numberline {2.3}Results}{18}{section.2.3}
 \contentsline {section}{\numberline {2.4}Conclusions}{23}{section.2.4}
-\contentsline {section}{\color {title}References}{24}{section.2.4}
+\contentsline {section}{\color {title}References}{23}{section.2.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-5}
 \contentsline {chapter}{\numberline {3}Background-Free Imaging}{27}{chapter.3}
@@ -49,30 +49,40 @@
 \contentsline {section}{\color {title}References}{68}{section.5.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-8}
-\contentsline {chapter}{\numberline {A}Cyanide Etching}{73}{appendix.A}
-\contentsline {section}{\numberline {A.1}Solution Results}{74}{section.A.1}
-\contentsline {section}{\numberline {A.2}SEM Images}{75}{section.A.2}
-\contentsline {section}{\numberline {A.3}Background Spectrum}{76}{section.A.3}
+\contentsline {chapter}{\numberline {6}Conclusions \& Outlook}{73}{chapter.6}
+\contentsline {section}{\numberline {6.1}General conclusions}{73}{section.6.1}
+\contentsline {section}{\numberline {6.2}Outlook}{73}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Cyanide etching}{74}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Background suppression}{74}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Temperature sensing with anti-Stokes luminescence}{74}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Plasmon Damping}{75}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Building on software}{75}{section.6.3}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-9}
-\contentsline {chapter}{\numberline {B}Bacgkround-Free Imaging}{77}{appendix.B}
-\contentsline {section}{\numberline {B.1}Setup}{78}{section.B.1}
-\contentsline {section}{\numberline {B.2}Uv-Vis spectrum}{79}{section.B.2}
-\contentsline {section}{\numberline {B.3}Filters}{80}{section.B.3}
-\contentsline {section}{\numberline {B.4}TEM Images of rods}{81}{section.B.4}
-\contentsline {section}{\numberline {B.5}White light transmission}{81}{section.B.5}
-\contentsline {section}{\numberline {B.6}Full scan without dye}{81}{section.B.6}
-\contentsline {section}{\numberline {B.7}Full scan without dye}{82}{section.B.7}
-\contentsline {section}{\numberline {B.8}Signal-to-background of several particles}{83}{section.B.8}
-\contentsline {section}{\numberline {B.9}Viability test}{83}{section.B.9}
-\contentsline {section}{\color {title}References}{84}{figure.caption.37}
+\contentsline {chapter}{\numberline {A}Cyanide Etching}{77}{appendix.A}
+\contentsline {section}{\numberline {A.1}Solution Results}{78}{section.A.1}
+\contentsline {section}{\numberline {A.2}SEM Images}{79}{section.A.2}
+\contentsline {section}{\numberline {A.3}Background Spectrum}{80}{section.A.3}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-10}
-\contentsline {chapter}{\numberline {C}Gold nanorods as nano-thermometers}{85}{appendix.C}
-\contentsline {section}{\numberline {C.1}Comparing Comsol and Simple approximation for temperature calculation}{86}{section.C.1}
-\contentsline {section}{\numberline {C.2}Luminescence power dependence}{87}{section.C.2}
+\contentsline {chapter}{\numberline {B}Bacgkround-Free Imaging}{81}{appendix.B}
+\contentsline {section}{\numberline {B.1}Setup}{82}{section.B.1}
+\contentsline {section}{\numberline {B.2}Uv-Vis spectrum}{83}{section.B.2}
+\contentsline {section}{\numberline {B.3}Filters}{84}{section.B.3}
+\contentsline {section}{\numberline {B.4}TEM Images of rods}{85}{section.B.4}
+\contentsline {section}{\numberline {B.5}White light transmission}{85}{section.B.5}
+\contentsline {section}{\numberline {B.6}Full scan without dye}{85}{section.B.6}
+\contentsline {section}{\numberline {B.7}Full scan without dye}{86}{section.B.7}
+\contentsline {section}{\numberline {B.8}Signal-to-background of several particles}{87}{section.B.8}
+\contentsline {section}{\numberline {B.9}Viability test}{87}{section.B.9}
+\contentsline {section}{\color {title}References}{88}{figure.caption.37}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-11}
-\contentsline {chapter}{List of Publications}{89}{appendix*.40}
+\contentsline {chapter}{\numberline {C}Gold nanorods as nano-thermometers}{89}{appendix.C}
+\contentsline {section}{\numberline {C.1}Comparing Comsol and Simple approximation for temperature calculation}{90}{section.C.1}
+\contentsline {section}{\numberline {C.2}Luminescence power dependence}{91}{section.C.2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-12}
+\contentsline {chapter}{List of Publications}{93}{appendix*.40}
 \gdef \the@ipfilectr {}
 \contentsfinish 
