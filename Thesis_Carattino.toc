@@ -22,7 +22,7 @@
 \contentsline {section}{\numberline {2.2}Experimental method}{17}{section.2.2}
 \contentsline {section}{\numberline {2.3}Results}{18}{section.2.3}
 \contentsline {section}{\numberline {2.4}Conclusions}{23}{section.2.4}
-\contentsline {section}{\color {title}References}{23}{section.2.4}
+\contentsline {section}{\color {title}References}{24}{section.2.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-5}
 \contentsline {chapter}{\numberline {3}Background-Free Imaging}{27}{chapter.3}
