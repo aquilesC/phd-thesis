@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="luminescence_v2.svg"
    inkscape:export-filename="C:\Users\aquiles\Documents\Thesis\Chapters\03_Background_Free\Figures\02_Scheme\luminescence_all_AS.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600">
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <pattern
@@ -852,15 +852,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2437789"
-     inkscape:cx="379.41561"
-     inkscape:cy="-8.7672193"
+     inkscape:zoom="1.4686704"
+     inkscape:cx="311.74007"
+     inkscape:cy="23.804155"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1672"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -883,7 +883,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
