@@ -296,9 +296,7 @@ lorentzian since there is a broadband contribution to the luminescence arising
 between the excitation wavelength and the plasmon peak\cite{Boyd1986}. This
 appears as an asymmetry in the emission spectrum, particularly visible for
 wavelengths smaller than $625\nm$. The results of this fitting will be employed
-for the SPR function defined in equation \ref{eqn:fitting}. A lengthier
-discussion on the effects of this procedure is given in the Supporting
-Information.
+for the $I_\textrm{SPR}$ function defined in equation \ref{eqn:fitting}. 
 
 The other curves in Fig. \ref{fig:spectra_rod} show the luminescence emission of
 the same nanorod while irradiating with a $633\nm$ laser at different powers,
@@ -398,18 +396,16 @@ is also possible to calculate the temperature at $0\uW$ excitation power, i.e.
 room temperature, by extrapolating the results of a linear fit. The value we
 obtained in this case is $293\pm 6 \K$, while room temperature was $296\K$. 
 
-The accuracy of the obtained values depends to a great extent on the plasmon
-resonance. The first step in the temperature extraction is the determination of
-the term $I_\textrm{SPR}$ in equation \ref{eqn:fitting}. This is achieved by
+The accuracy of the obtained temperature depends to a great extent on the
+plasmon resonance. The first step in the fitting of spectra is the determination
+of the term $I_\textrm{SPR}$ in equation \ref{eqn:fitting}. This is achieved by
 fitting a lorentzian to the emission spectrum obtained while irradiating with a
 $532\nm$ laser. In figure \ref{fig:spectra_rod} it is possible to observe that
 the emission spectrum is not perfectly lorentzian and therefore the fitting
-results will be sensitive to the portion of the spectrum selected. The asymmetry
-in the luminescence is mainly due to a broadband emission arising from gold
-between the excitation energy and the plasmon energy, as was discussed in the
-introduction. Depending on the wavelength range selected, the parameters of the
-lorentzian fit (mainly its width and peak position) can slightly change and this
-will give rise to different extracted temperatures.
+results will be sensitive to the portion of the spectrum selected. Depending on
+the wavelength range selected, the parameters of the lorentzian fit (its
+width and peak position) can slightly change and this will give rise to
+different temperatures when fitting the anti-Stokes emission spectrum.
 
 Equation \ref{eqn:fitting} shows that if the particle plasmon resonance is red
 shifted with respect to the $633\nm$ laser, the term $I_\textrm{SPR}$ will have
@@ -421,10 +417,11 @@ However, particles that are not in resonance with the excitation laser will
 present a lower emission due to a smaller absorption cross section and to a
 lower enhancement of the anti-Stokes emission (see for example figure
 \ref{fig:ASS-ratio}). A balance between the amount of collected light and the
-uncertainty induced by the plasmon resonance has to be reached depending on
-each application. The error bar in figure \ref{fig:AS_in_Log} and in the
-following figures is the result of the estimation of the temperature uncertainty
-because of variations in the plasmon resonance.
+uncertainty produced by the correct determination of the plasmon resonance has
+to be reached depending on each application. The error bar in figure
+\ref{fig:AS_in_Log} and in the following figures is the result of the estimation
+of the temperature uncertainty because of variations in the plasmon resonance
+fit.
 
 % To check that the temperature values obtained with this procedure are
 % reasonable, we performed finite element analysis using Comsol. The cross section
@@ -500,16 +497,18 @@ particle in focus during the spectra acquisition time. Longer exposure times and
 therefore lower excitation intensities can be employed if particles are actively
 maintained in focus.
 
-It would be beneficial therefore to have particles that can withstand higher
-excitation powers and that have a well defined plasmon resonance. In this way it
-would be possible to use a single wavelength and to reduce the exposure times to
-record the spectra. In principle gold nanospheres fulfill these requirements.
-They are known to withstand much higher excitation powers without reshaping nor
-melting\cite{Hou2015}. Moreover the plasmon resonance of spheres shifts only
-slightly with radius, therefore it is possible to predict it using Mie theory
-and to eliminate the need of a second laser beam. Sphere samples however
-always show a shape distribution that cannot be neglected\cite{Lee2013} and that
-induces deviations of the observed resonance from Mie's model.
+Particles that can withstand higher excitation powers and that have a well
+defined plasmon resonance are of great interest, because they would allow to
+employ a single wavelength and also to reduce the exposure times to record the
+spectra. A well defined plasmon resonance also lowers the uncertainties
+associated with the initial lorentzian fit needed for the term $I_\textrm{SPR}$
+in equation \ref{eqn:fitting}. In principle gold nanospheres fulfill these
+requirements. They are known to withstand much higher excitation powers without
+reshaping nor melting\cite{Hou2015}. Moreover the plasmon resonance of spheres
+shifts only slightly with radius, therefore it is possible to predict it using
+Mie theory and to eliminate the need of a second laser beam. Sphere samples
+however always show a shape distribution that cannot be neglected\cite{Lee2013}
+and that induces deviations of the observed resonance from Mie's model.
 
 \begin{figure}[tp] \centering
 \includegraphics[width=85.2mm]{Chapters/04_Anti-Stokes/Figures/07_Spheres/07_spheres.png}
@@ -521,7 +520,6 @@ particles were $1.2\mW$, $2.0\mW$ and $3.6\mW$ respectively. b) Extracted
 temperature from these particles while increasing the medium temperature.}
 	\label{fig:spheres}
 \end{figure}
-
 
 Figure \ref{fig:spheres} shows the normalized luminescence spectra of three
 nanospheres of diameters $60\nm$, $40\nm$ and $30\nm$ under $532\nm$ excitation.
@@ -568,14 +566,14 @@ would be expected from the heat equation, considering the absorption cross
 section given by Mie theory. 
 
 As explained earlier for nanorods, the fitting of the anti-Stokes emission is
-highly dependent on the plasmon position and the laser employed. In the case of
-nanospheres, the resonance is slightly shifted to the red from the $532\nm$
-laser. Small errors in the determination of the plasmon position will
+highly sensitive to the plasmon position relative to the laser employed. In the
+case of nanospheres, the resonance is slightly shifted to the red from the
+$532\nm$ laser. Small errors in the determination of the plasmon resonance will
 generate larger errors in the temperature extracted. The discrepancy between the
 plasmon observed in fig. \ref{fig:spheres} and the results of Mie scattering
 calculations most likely are due to particles that are not perfectly spherical.
 If this was the case, the calculated cross section and plasmon resonance will
-not coincide with the particles under study, leading to systematic errors.
+not coincide with the particles under study, leading to larger errors.
 
 The use of spheres would be beneficial for some applications that require higher
 excitation powers or smaller particles. The intrinsic heterogeneity of the
