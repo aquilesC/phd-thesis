@@ -219,39 +219,27 @@ temperature.}
 	\label{fig:one_pcle}
 \end{figure}
 
-
 The particle shown in Figure \ref{fig:scattering_spectra} was analyzed while
-continuously changing the temperature of the flow cell as described earlier. The
-results are displayed in Figure \ref{fig:one_pcle} where the left column shows
-the plasmon width while the right column shows the resonance position as a
-function of temperature. Each row in the figure corresponds to every temperature
-cycle in Fig. \ref{fig:temp-cycle}, the first cycle on top and the last at the
-bottom. In every plot, the red circles show the part of the cycle with
-an increasing temperature. The blue crosses show the results when
-colling down to room temperature. 
+continuously changing the temperature of the flow cell as described earlier.
+Figure \ref{fig:one_pcle} shows The FWHM (full width at half maximum) of the
+plasmon resonance as a function of temperature. Each row in the figure
+corresponds to every temperature cycle in Fig. \ref{fig:temp-cycle}, the first
+cycle on top and the last at the bottom. In every plot, the red circles show the
+part of the cycle with an increasing temperature. The blue crosses show the
+results when colling down to room temperature.
 
 In Fig. \ref{fig:one_pcle} it is possible to observe that during the first cycle
 there is a linear relationship between the plasmon resonance's width and
 temperature. In this cycle the plasmon broadens at a rate of $0.34\meV/\K$.
-However the resonance energy also shifts with temperature, going from $1.869\eV$
-at room temperature to $1.877\eV$ at $58\degree$. More strikingly, when cooling
-down the resonance energy diminishes to $1.862\eV$. During the second cycle the
-broadening of the resonance is slightly less pronounced, at a rate of
-$0.23\meV/\K$. The plasmon resonance, even though significantly more stable
-than during cycle $1$, also shows a red shift while cooling down, reaching a value of
-$1.857\eV$. During the third cycle the broadening of the plasmon shows a rate of
-$0.15\meV/K$ while the resonance does not depend on temperature and is stable
-around $1.856\eV$.
-
-The results of the linear fittings of the FWHM of the plasmon while changing
-temperature are summarized in table \ref{table-results}. The values correspond
-to the slope of the line for the increasing and the decreasing part of the cycle
-separately. The first cycle shows the maximum slope of $0.34\meV/\K$, while the
-cooling down of the third cycle the minimum at a rate of $0.09\meV/\K$. This
-last value is in good agreement with the expected broadening rate of
-$0.1\meV/\K$ reported earlier\cite{Liu2009b,Konrad2013} and expected from bulk gold
-measurements. However the changes in the resonance energy have to be addressed
-independently.
+During the second cycle the broadening of the resonance is slightly less
+pronounced, at a rate of $0.23\meV/\K$. During the third cycle the broadening of
+the plasmon shows a rate of $0.15\meV/K$. The results of the linear fittings of
+the FWHM of the plasmon while changing temperature are summarized in table
+\ref{table-results}. The values correspond to the slope of the line for the
+increasing and the decreasing part of the cycle separately. The cooling down
+part of the third cycle the measured rate is $0.09\meV/\K$. This value is in
+good agreement with the expected broadening rate of $0.1\meV/\K$ reported
+earlier\cite{Liu2009b,Konrad2013} and expected from bulk gold measurements.
 
 \begin{figure}[tp] \centering
 \includegraphics[width=78.2mm]{Chapters/05_WhiteLight/Figures/02_One_Pcle/02_One_Pcle_02.png}
@@ -263,6 +251,15 @@ position.}
 	\label{fig:one_pcle_spr}
 \end{figure}
 
+However the resonance damping rate is not the only parameter changing with
+temperature. Figure \ref{fig:one_pcle_spr} shows that the resonance energy also
+shifts when changing the temperature of the immersion oil. The resonance goes
+from $1.869\eV$ at room temperature to $1.877\eV$ at $58\degree$. More
+strikingly, when cooling down the resonance energy diminishes to $1.862\eV$. The
+second cycle presents the same behavior but much less pronounced than during
+the first. In the third cycle the resonance does not depend on temperature and
+is stable around $1.856\eV$.
+
 Normally plasmon shifts are related to changes in the refractive index of the
 medium surrounding the nanoparticles. This phenomenon is used, for instance, in
 photothermal imaging\cite{Berciaud2006,Gaiduk2010b} or in
@@ -271,16 +268,18 @@ the first cycle there is a non-reversible plasmon shift suggests that either the
 medium or the surface of the particle (or both) changed in a permanent way after
 reaching higher temperatures. This can be due to a deterioration of the
 immersion oil, or to an adsorption/desorption of molecules from the particle's
-surface. Discriminating from both would require further studies that are out of
-the scope of this work. Thermal reshaping of the nanoparticles can be ruled out
-since it would have induced a blue-shift of the
-resonance\cite{Liu2009,Horiguchi2008}, while we observe an overall red-shift.
-Moreover, the temperatures reached in this work are much lower than those needed
-for observing changes in shape of the nanorods. However, it is important to note
-that the plasmon broadening still occurs in the third temperature cycle when no
-resonance shift is observed. Therefore the broadening is not caused by changes
-in the medium but by intrinsic properties of the nanoparticles, as proposed in
-the introduction.
+surface, effectively changing the refractive index in the surroundings of the
+nanorod. Discriminating from both would require further studies that are out of
+the scope of this work. 
+
+Thermal reshaping of the nanoparticles can be ruled out since it would have
+induced a blue-shift of the resonance\cite{Liu2009,Horiguchi2008}, while we
+observe an overall red-shift. Moreover, the temperatures reached in this work
+are much lower than those needed for observing changes in shape of the nanorods.
+However, it is important to note that the plasmon broadening still occurs in the
+third temperature cycle when no resonance shift is observed. Therefore the
+broadening is not caused by changes in the medium but by intrinsic properties of
+the nanoparticles, as proposed in the introduction.
 
 \begin{table}
 \begin{tabular}{ c | c c || c | c | c}
@@ -334,14 +333,15 @@ between particles and to study if there is a relationship between the broadening
 rates and the plasmon resonance, we performed the same analysis on $220$
 different particles.
 
-\begin{figure}[tp]
-\centering
+\begin{figure}[tp] \centering
 \includegraphics[width=8cm]{Chapters/05_WhiteLight/Figures/04_Many_Pcles/04_Many_Particles.png}
-\caption{Plasmon broadening rate as function of initial resonance position
-and corresponding histograms for $220$ different particles. Top right shows an
-example of the fitting for one particle. The rates are the slopes of the
-linear fits for every particle. Red squares correspond to increasing
-temperatures while blue crosses correspond to the decreasing.}
+\caption{Plasmon broadening rate as function of initial resonance position. Main
+panel shows the results for $220$ different nanorods. Panel (i) is the histogram
+of the distribution of resonance energies found. Panel (ii) shows the
+distribution of broadening rates for all the particles and its fit by a gaussian
+as a solid red curve. Panel (iii) shows an example of the fitting for one
+particle; red squares correspond to increasing temperatures while blue crosses
+correspond to the decreasing.}
 		\label{fig:many-pcles}
 \end{figure}
 
@@ -357,21 +357,24 @@ temperature was stabilized at a certain value. At each temperature, spectra
 of several nanorods were acquired.
 
 From the slopes of the linear fits of all the particles analyzed it is possible
-to construct the bottom left panel of Figure \ref{fig:many-pcles} and the
-corresponding histograms. The particles analyzed had resonances varying from
-$1.6\eV$ to $2\eV$, as shown in the top left histogram of
-Fig.\ref{fig:many-pcles}. It is possible to observe that the most frequent
-resonance is around $1.81\eV$. The distribution of resonance energies is also an
-indication of the dispersion of shapes of the samples and is inherent to the wet
-chemical synthesis methods.
+to construct the scatter plot of broadening rates and resonance energy for all
+the nanoparticles. This is shown in the bottom left panel of Figure
+\ref{fig:many-pcles}. The particles analyzed had resonances varying from
+$1.6\eV$ to $2\eV$, and the distribution of energies is shown in the top left
+histogram of Fig.\ref{fig:many-pcles}. The most frequent resonance is around
+$1.81\eV$. The distribution of resonance energies is also an indication of the
+dispersion of shapes of the samples and is inherent to wet chemical synthesis
+methods.
 
 The broadening rates of the $220$ studied particles are summarized in the
-histogram at the bottom right. The gaussian fit of the distribution has the
-center at $0.08 \meV/\K$ with a standard deviation of $0.3 \meV/\K$. This is in
-good agreement with the expected broadening rate of $0.1\meV/\K$. In this
-experiments care was taken in studying the particles after some thermal cycles,
-in order to avoid changes in the surface plasmon resonance, as were shown in
-Fig. \ref{fig:one_pcle}. 
+histogram at the bottom right in fig. \ref{fig:many-pcles}. The gaussian fit of
+the distribution has the center at $0.08 \meV/\K$ with a standard deviation of
+$0.3 \meV/\K$. This is in good agreement with the expected broadening rate of
+$0.1\meV/\K$. The measurements were performed after some thermal cycles and no
+change in the plasmon resonance energy was observed while increasing or
+decreasing the temperature. This implies that the broadening rates differ from
+particle to particle because of inherent properties and not because of
+differences generated by the immersion oil used. 
 
 From Figure \ref{fig:many-pcles} it is possible to discard any dependence of the
 plasmon broadening rate on the plasmon's resonance position if this is kept
@@ -390,7 +393,7 @@ work does not account for this phenomenon, nor for the different broadening
 rates for different particles. It is possible that the uncertainty in the
 determination of the plasmon width is responsible in part for this. The expected
 plasmon resonance width change with a temperature increase of $40\K$ is of about
-$4\meV$, or about $4\%$ of the FWHM of the resonance of the particles. 
+$4\meV$, or $4\%$ of the FWHM of the resonance of the particles. 
 
 \section{Conclusions}
 Measuring temperature at the nanoscale is challenging. Available techniques rely
@@ -416,14 +419,18 @@ energy changes with temperature and a persistent red-shift is observed. This is
 attributed to changes in the refractive index of the medium surrounding the
 particles, either due to the immersion oil changing in a non reversible way or
 to some modification of the surface chemistry of the particles (for instance
-because of adsorption of molecules present in the oil).
+because of adsorption of molecules present in the oil). The plasmon shift
+however disappears after some thermal cycles, but the plasmon broadening
+remains.
 
-To investigate the differences in the broadening rates observed from particle to
-particle and a possible relationship of these rates with the resonance position,
-spectra of more than $200$ nanorods were studied. It was found that the
-broadening rates have a distribution centered around $0.08\meV/\K$, while the
-value expected from bulk measurements is $0.1\meV/\K$\cite{McKay1976}. The
-standard deviation of the distribution of rates is $0.3\meV/\K$.
+In the situation when no resonance shift with increasing or decreasing
+temperature is observed, we have investigated the differences in the broadening
+rates from particle to particle. Spectra of more than $200$ nanorods were
+studied, allowing us to discard a possible relationship of the rates with the
+resonance position. It was found that the broadening rates have a distribution
+centered around $0.08\meV/\K$, while the value expected from bulk measurements
+is $0.1\meV/\K$\cite{McKay1976}. The standard deviation of the distribution of
+rates is $0.3\meV/\K$.
 
 The model proposed in this work cannot account for the distribution of rates
 observed. However it has to be noted that when working with gold nanoparticles,
