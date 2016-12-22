@@ -9,7 +9,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: Chapters/04_Anti-Stokes/anti_stokes.bib
+Database file #1: dissertation.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
 Control: key (0) 
@@ -21,42 +21,42 @@ Control: year (1) truncated
 Control: production of eprint (0) enabled
 You've used 57 entries,
             5847 wiz_defined-function locations,
-            2123 strings with 32562 characters,
-and the built_in function-call counts, 74648 in all, are:
-= -- 4234
-> -- 2508
-< -- 492
+            2124 strings with 32585 characters,
+and the built_in function-call counts, 74755 in all, are:
+= -- 4239
+> -- 2509
+< -- 493
 + -- 738
 - -- 620
-* -- 12836
-:= -- 6795
+* -- 12861
+:= -- 6799
 add.period$ -- 114
 call.type$ -- 57
 change.case$ -- 285
 chr.to.int$ -- 55
 cite$ -- 57
-duplicate$ -- 6881
-empty$ -- 5392
+duplicate$ -- 6888
+empty$ -- 5401
 format.name$ -- 1415
-if$ -- 14926
+if$ -- 14948
 int.to.chr$ -- 3
 int.to.str$ -- 65
-missing$ -- 876
+missing$ -- 877
 newline$ -- 223
 num.names$ -- 171
-pop$ -- 2495
+pop$ -- 2496
 preamble$ -- 1
 purify$ -- 285
 quote$ -- 0
-skip$ -- 2467
+skip$ -- 2472
 stack$ -- 0
-substring$ -- 1531
-swap$ -- 7135
+substring$ -- 1544
+swap$ -- 7147
 text.length$ -- 310
 text.prefix$ -- 0
 top$ -- 8
 type$ -- 937
 warning$ -- 0
-while$ -- 169
+while$ -- 170
 width$ -- 0
 write$ -- 567

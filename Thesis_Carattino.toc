@@ -8,8 +8,8 @@
 \contentsline {section}{\numberline {1.1}Light Microscopy}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}Gold Nanoparticles}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}Luminescence from gold nanoparticles}{5}{section.1.3}
-\contentsline {section}{\numberline {1.4}Applications of gold nanoparticles}{6}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Tuning the resonance of gold nanoparticles}{6}{subsection.1.4.1}
+\contentsline {section}{\numberline {1.4}Applications of gold nanoparticles}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Tuning the resonance of gold nanoparticles}{7}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Imaging through detection of anti-Stokes emission}{7}{subsection.1.4.2}
 \contentsline {subsection}{\numberline {1.4.3}Gold nanoparticles as nano-Thermometers}{8}{subsection.1.4.3}
 \contentsline {subsection}{\numberline {1.4.4}Plasmon damping as a function of temperature}{9}{subsection.1.4.4}
@@ -21,68 +21,68 @@
 \contentsline {section}{\numberline {2.1}Introduction}{16}{section.2.1}
 \contentsline {section}{\numberline {2.2}Experimental method}{17}{section.2.2}
 \contentsline {section}{\numberline {2.3}Results}{18}{section.2.3}
-\contentsline {section}{\numberline {2.4}Conclusions}{23}{section.2.4}
-\contentsline {section}{\color {title}References}{24}{section.2.4}
+\contentsline {section}{\numberline {2.4}Conclusions}{24}{section.2.4}
+\contentsline {section}{\color {title}References}{25}{section.2.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-5}
-\contentsline {chapter}{\numberline {3}Background-Free Imaging}{27}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{28}{section.3.1}
-\contentsline {section}{\numberline {3.2}Experimental method}{31}{section.3.2}
-\contentsline {section}{\numberline {3.3}Results and discussion}{33}{section.3.3}
-\contentsline {section}{\numberline {3.4}Conclusions}{37}{section.3.4}
-\contentsline {section}{\color {title}References}{38}{section.3.4}
+\contentsline {chapter}{\numberline {3}Background-Free Imaging}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{30}{section.3.1}
+\contentsline {section}{\numberline {3.2}Experimental method}{33}{section.3.2}
+\contentsline {section}{\numberline {3.3}Results and discussion}{35}{section.3.3}
+\contentsline {section}{\numberline {3.4}Conclusions}{39}{section.3.4}
+\contentsline {section}{\color {title}References}{40}{section.3.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-6}
-\contentsline {chapter}{\numberline {4}Gold nanorods as nano-thermometers}{43}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{44}{section.4.1}
-\contentsline {section}{\numberline {4.2}Experimental method}{47}{section.4.2}
-\contentsline {section}{\numberline {4.3}Results}{48}{section.4.3}
-\contentsline {section}{\numberline {4.4}Conclusions}{53}{section.4.4}
-\contentsline {section}{\color {title}References}{54}{section.4.4}
+\contentsline {chapter}{\numberline {4}Gold nanorods as nano-thermometers}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{46}{section.4.1}
+\contentsline {section}{\numberline {4.2}Experimental method}{49}{section.4.2}
+\contentsline {section}{\numberline {4.3}Results}{50}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conclusions}{57}{section.4.4}
+\contentsline {section}{\color {title}References}{58}{section.4.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-7}
-\contentsline {chapter}{\numberline {5}Plasmon damping as function of temperature}{59}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{60}{section.5.1}
-\contentsline {section}{\numberline {5.2}Experimental Method}{61}{section.5.2}
-\contentsline {section}{\numberline {5.3}Results}{63}{section.5.3}
-\contentsline {section}{\numberline {5.4}Conclusions}{67}{section.5.4}
-\contentsline {section}{\color {title}References}{68}{section.5.4}
+\contentsline {chapter}{\numberline {5}Plasmon damping as function of temperature}{63}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{64}{section.5.1}
+\contentsline {section}{\numberline {5.2}Experimental Method}{65}{section.5.2}
+\contentsline {section}{\numberline {5.3}Results}{67}{section.5.3}
+\contentsline {section}{\numberline {5.4}Conclusions}{71}{section.5.4}
+\contentsline {section}{\color {title}References}{72}{section.5.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-8}
-\contentsline {chapter}{\numberline {6}Conclusions \& Outlook}{73}{chapter.6}
-\contentsline {section}{\numberline {6.1}General conclusions}{73}{section.6.1}
-\contentsline {section}{\numberline {6.2}Outlook}{73}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Cyanide etching}{74}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Background suppression}{74}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Temperature sensing with anti-Stokes luminescence}{74}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Plasmon Damping}{75}{subsection.6.2.4}
-\contentsline {section}{\numberline {6.3}Building on software}{75}{section.6.3}
+\contentsline {chapter}{\numberline {6}Conclusions \& Outlook}{77}{chapter.6}
+\contentsline {section}{\numberline {6.1}General conclusions}{77}{section.6.1}
+\contentsline {section}{\numberline {6.2}Outlook}{77}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Cyanide etching}{78}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Background suppression}{78}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Temperature sensing with anti-Stokes luminescence}{79}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Plasmon Damping}{79}{subsection.6.2.4}
+\contentsline {section}{\color {title}References}{80}{subsection.6.2.4}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-9}
-\contentsline {chapter}{\numberline {A}Cyanide Etching}{77}{appendix.A}
-\contentsline {section}{\numberline {A.1}Solution Results}{78}{section.A.1}
-\contentsline {section}{\numberline {A.2}SEM Images}{79}{section.A.2}
-\contentsline {section}{\numberline {A.3}Background Spectrum}{80}{section.A.3}
+\contentsline {chapter}{\numberline {A}Cyanide Etching}{83}{appendix.A}
+\contentsline {section}{\numberline {A.1}Solution Results}{84}{section.A.1}
+\contentsline {section}{\numberline {A.2}SEM Images}{85}{section.A.2}
+\contentsline {section}{\numberline {A.3}Background Spectrum}{86}{section.A.3}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-10}
-\contentsline {chapter}{\numberline {B}Bacgkround-Free Imaging}{81}{appendix.B}
-\contentsline {section}{\numberline {B.1}Setup}{82}{section.B.1}
-\contentsline {section}{\numberline {B.2}Uv-Vis spectrum}{83}{section.B.2}
-\contentsline {section}{\numberline {B.3}Filters}{84}{section.B.3}
-\contentsline {section}{\numberline {B.4}TEM Images of rods}{85}{section.B.4}
-\contentsline {section}{\numberline {B.5}White light transmission}{85}{section.B.5}
-\contentsline {section}{\numberline {B.6}Full scan without dye}{85}{section.B.6}
-\contentsline {section}{\numberline {B.7}Full scan without dye}{86}{section.B.7}
-\contentsline {section}{\numberline {B.8}Signal-to-background of several particles}{87}{section.B.8}
-\contentsline {section}{\numberline {B.9}Viability test}{87}{section.B.9}
-\contentsline {section}{\color {title}References}{88}{figure.caption.37}
+\contentsline {chapter}{\numberline {B}Bacgkround-Free Imaging}{87}{appendix.B}
+\contentsline {section}{\numberline {B.1}Setup}{88}{section.B.1}
+\contentsline {section}{\numberline {B.2}Uv-Vis spectrum}{89}{section.B.2}
+\contentsline {section}{\numberline {B.3}Filters}{90}{section.B.3}
+\contentsline {section}{\numberline {B.4}TEM Images of rods}{91}{section.B.4}
+\contentsline {section}{\numberline {B.5}White light transmission}{91}{section.B.5}
+\contentsline {section}{\numberline {B.6}Full scan without dye}{91}{section.B.6}
+\contentsline {section}{\numberline {B.7}Full scan without dye}{92}{section.B.7}
+\contentsline {section}{\numberline {B.8}Signal-to-background of several particles}{93}{section.B.8}
+\contentsline {section}{\numberline {B.9}Viability test}{93}{section.B.9}
+\contentsline {section}{\color {title}References}{94}{figure.caption.43}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-11}
-\contentsline {chapter}{\numberline {C}Gold nanorods as nano-thermometers}{89}{appendix.C}
-\contentsline {section}{\numberline {C.1}Comparing Comsol and Simple approximation for temperature calculation}{90}{section.C.1}
-\contentsline {section}{\numberline {C.2}Luminescence power dependence}{91}{section.C.2}
+\contentsline {chapter}{\numberline {C}Gold nanorods as nano-thermometers}{95}{appendix.C}
+\contentsline {section}{\numberline {C.1}Comparing Comsol and Simple approximation for temperature calculation}{96}{section.C.1}
+\contentsline {section}{\numberline {C.2}Luminescence power dependence}{97}{section.C.2}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-12}
-\contentsline {chapter}{List of Publications}{93}{appendix*.40}
+\contentsline {chapter}{List of Publications}{99}{appendix*.46}
 \gdef \the@ipfilectr {}
 \contentsfinish 

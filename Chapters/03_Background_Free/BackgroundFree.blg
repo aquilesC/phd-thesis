@@ -9,7 +9,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: Chapters/03_Background_Free/BackgroundFree.bib
+Database file #1: dissertation.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
 Control: key (0) 
@@ -21,7 +21,7 @@ Control: year (1) truncated
 Control: production of eprint (0) enabled
 You've used 42 entries,
             5847 wiz_defined-function locations,
-            2005 strings with 27292 characters,
+            2004 strings with 27250 characters,
 and the built_in function-call counts, 50011 in all, are:
 = -- 3060
 > -- 1484

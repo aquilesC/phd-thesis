@@ -30,9 +30,9 @@ optical microscopes appeared: the diffraction limit. Abbe realized that no
 matter how good a lens is, there will always be a limit to how much it is
 possible to focus light. This limit is determined mainly by the wavelength of
 the employed light beam and by the maximum acceptance angle of the lens.
-Improving the optics is a technical challenge that however has a geometrical
-limit. On the other hand, the wavelength of the sources is the parameter that
-can be modified.
+Improving the optics is a technical challenge that however reaches a
+geometrical limit. On the other hand, the wavelength of the sources is the
+parameter that can be modified.
 
 Shortening the irradiation wavelength would increase the resolution of a
 microscope. Particles with wavelengths shorter than optical wavelengths, such as
@@ -81,9 +81,9 @@ At the end of the XX century a major breakthrough occurred in the field of
 optics: the detection of a single-molecule fluorescence in
 $1990$\cite{PhysRevLett.65.2716}. Single-molecules opened the door to determine
 material properties that would have been hidden by ensemble averaging.
-The first studies were done at low temperature (few Kelvins) and gave access to
-properties not only of the fluorescent molecules themselves but also of the
-hosting matrices, mainly polymers and crystals. Single-molecules are the bridge
+The first studies were performed at low temperature (few Kelvins) and gave
+access to properties not only of the fluorescence of molecules themselves but
+also of the hosting matrices, mainly polymers and crystals. Single-molecules are the bridge
 between the diffraction limit of far field optics and the atomic scale
 properties of materials. 
 
@@ -100,7 +100,7 @@ that they are not further apart than diffraction limit. In the late $1990$s it
 was found that the fluorescence of molecules can be switched on and off by
 irradiating them with specific wavelengths\cite{Moerner1997}. This led to the
 development of a wide variety of techniques that rely on switching on and off
-molecules\cite{Betzig2006} such that they can be individually
+molecules\cite{Betzig2006}, and therefore they can be individually
 localized\cite{Dertinger2009}. Post processing the information of each
 fluorescent molecule allows to reconstruct images with a spatial resolution an
 order of magnitude higher than the diffraction limit\cite{Moerner2007}.
@@ -135,17 +135,17 @@ their optical properties for centuries and can still be admired today. In
 medieval times the technique was re-discovered and became common in the
 fabrication of red-coloured glasses for churches throughout Europe. 
 
-The explanation of the phenomenon only came one century ago. Gustav Mie in
-$1908$ calculated the scattering of a plane wave incident on spherical
-particles\cite{mie1908beitrage}, by fully solving Maxwell's equations.
+The explanation of the phenomenon however only came one century ago. Gustav Mie
+in $1908$ calculated the scattering of a plane wave incident on spherical
+particles\cite{mie1908beitrage} by fully solving Maxwell's equations.
 This solution is known today as Mie scattering. The original paper compared
 measured and calculated scattering spectra of gold nanospheres; both experiments
 and theory show a peak at around $550\nm$. The weaker interaction with light of
 longer wavelengths explains the reddish color of colloidal gold nanoparticle
 suspensions.
 
-The peak observed is related to a resonance of the oscillating conduction
-electrons on the surface of the metal and is known as plasmon resonance. For
+The peak observed in the spectra is related to a resonance of the oscillating
+conduction electrons on the surface of the metal and is known as plasmon resonance. For
 particles much smaller than the incident wavelength, a simplification of the Mie
 formalism can be made by considering only the first order. In this case the
 polarizability of a nanosphere is given by\cite{bohren2008absorption}
@@ -163,8 +163,8 @@ $\sigma_\textrm{abs}=k\textrm{Im}(\alpha)$ and the scattering as
 $\sigma_\textrm{scatt}=k^4|\alpha|^2/(6\pi)$.
 
 From equation \ref{eqn:polarizability} it is possible to see that a resonance
-will appear when $\textrm{Re}(\epsilon(\omega)) = -2\epsilon_\textrm{m}$. It is
-important to note that the energy at which this resonance appears is therefore
+will appear when ${\textrm{Re}(\epsilon(\omega)) = -2\epsilon_\textrm{m}}$. It
+is important to note that the energy at which this resonance appears is therefore
 dependent not only on the particle's material properties but also on the
 surrounding medium's optical constants. In the case of elongated nanoparticles,
 some correction factors can be introduced to the polarizability. Several
@@ -172,7 +172,7 @@ computer packages\cite{Yurkin2011,oskooi2010meep,Draine1994a} exist to
 calculate with a great precision absorption and extinction cross sections of
 arbitrary geometries and therefore it is not worth entering into the specifics
 of the calculations\footnote{A complete description of how to calculate the
-plasmon resonance can be found at:\newline
+plasmon resonance with the ADDA package can be found at:\newline
 https://www.aquicarattino.com/science/plasmon-resonance/}.
 
 \begin{sloppypar}
@@ -211,14 +211,18 @@ reactions in chapter \ref{ch:KCN} to electron phonon coupling in chapter
 \ref{ch:Damping} and anti-Stokes luminescence in chapters \ref{ch:Imaging} and
 \ref{ch:AntiStokes}.
 
-It is important to note that besides the geometrical factors, nanoparticles also
-show a broad distribution of their quantifiable properties. For example the
-quantum yield of nanoparticles that are apparently equivalent (similar in size,
-same resonance energy) can differ from each other in almost an order of
-magnitude\cite{Yorulmaz2012}. In every chapter of this thesis variations from
-particle to particle can be observed. The only way of validating the observed
-results is therefore through accumulating significative statistics on single
-particle measurements.
+Besides the geometrical factors, nanoparticles also show a broad distribution of
+their quantifiable properties. For example, the quantum yield of nanoparticles
+that are apparently equivalent (similar in size, same resonance energy) can
+differ from each other in almost an order of magnitude\cite{Yorulmaz2012}. In
+every chapter of this thesis variations from particle to particle can be
+observed. Chapter \ref{ch:KCN} shows that the etching rates can vary from
+particle to particle, in chapter \ref{ch:Damping} we have observed that the
+broadening rates when increasing temperature can differ from particle to
+particle. It means that particles differ from each other more than what an
+optical or scanning electron microscopes can resolve. The only way of validating
+the observed results is therefore through accumulating significative statistics
+on single particle measurements.
 
 \section{Luminescence from gold nanoparticles}
 \label{sec:luminescence}
@@ -241,7 +245,7 @@ for frequencies around the plasmon resonance. Previous work have already shown
 a big overlap between the scattering and the emission spectra of gold
 nanoparticles\cite{Yorulmaz2012}.
 
-The emission quantum yield of single gold nanoparticles can be several orders of
+The emission quantum yield of single gold nanoparticles is several orders of
 magnitude higher than bulk values partly due to the presence of sharp structures
 such as edges and tips. Typical quantum yield values are in the order of
 $10^{-6}$\cite{Yorulmaz2012}, several orders of magnitude lower than those of
@@ -291,7 +295,7 @@ that subsequently relax back by emitting another photon, by transferring energy
 in the form of heat to the medium or a combination of both. It is expected
 therefore that the emitted photon has a lower energy than the incident one. This
 is always valid unless the excited electrons can somehow gain energy from the
-medium before relaxing back radiatively. If this happens, the processes called
+medium before relaxing back radiatively. If this happens, the process is called
 anti-Stokes and the emitted photons possess a higher energy than the excitation.
 
 When excited in resonance, gold nanoparticles exhibit anti-Stokes luminescence
@@ -309,7 +313,7 @@ the emission is expected to be
 \noindent where $\omega$ is the frequency of the emitted photon, $k_b$ is
 Boltzmann constant and $T$ is the temperature. 
 
-Notably in equation \ref{eqn:antiStokes} the only adjustable parameter is the
+Notably in equation \ref{eqn:antiStokes} the only adjustable parameter is
 temperature. If properly characterized, the anti-Stokes emission spectrum should
 provide a way to estimate the absolute surface temperature of the particles
 without any previous calibration.
@@ -317,13 +321,13 @@ without any previous calibration.
 \section{Applications of gold nanoparticles}
 \subsection{Tuning the resonance of gold nanoparticles}
 The previous two sections highlighted different strategies for detecting single
-gold nanoparticles, such as nanospheres or nanorods. The principal
-characteristic of the particles is their localized surface plasmon
-resonance. The resonance wavelength (or energy) will be given by the geometry of
-the particle and by the surrounding medium's properties, such as its refractive
-index. Normally the geometry is determined during the synthesis
-procedure and thus the resonance is fixed after immobilizing the particles on a
-substrate.
+gold nanoparticles such as nanospheres or nanorods. The principal characteristic
+of the particles is their localized surface plasmon resonance. The resonance
+wavelength (or energy) will be given by the geometry of the particle and by the
+surrounding medium's properties, such as its refractive index. The geometry of
+the particles is determined during the synthesis procedure, where the average
+length and width can be tuned. However, when the particles are deposited on a
+substrate, their resonance is already determined.
 
 Chapter \ref{ch:KCN} focuses into tuning the plasmon resonance \textit{in-situ},
 once they are immobilized on a substrate and optically characterized. Currently
@@ -400,8 +404,9 @@ for releasing heat into very localized environments
 This simple approach can be used for instance to induce death of cancer cells
 and is normally referred to as Plasmonic Photo Thermal Therapy (PPTT or PTT
 depending on the author). Figure \ref{fig:PPTT} shows the number of papers
-published in this field since $1995$. The more-than-exponential increase serves
-as a measure for the relevance this technique is gaining.
+published in this field since $1995$. The increase in the number of publications
+is more than exponential, and depicts the relevance this technique is gaining
+over time.
 
 After decades of research there is however almost no information regarding the
 temperatures that need to be reached by the nanoparticles to induce cell death.
@@ -498,21 +503,21 @@ All the chapters of this thesis relied on a flexible computer program that
 allowed to plan complex experiments building on software rather than being
 limited by it. The program has been made open source and can be found on
 Github\footnote{https://github.com/aquilesC/SmartScan}. It started to be
-developed for simplifying repetitive tasks as refocusing on a particle or
+developed for simplifying repetitive tasks such as refocusing on a particle or
 triggering a spectrometer. Later it evolved into a fully functional graphical
 user interface (GUI) for performing and visualizing $2$D and $3$D scans,
 acquiring fast timetraces, monitoring an optical tweezer and communicating with
 serial devices as well as over the network. The latest developments of the
 software allow to define an application programming interface (API) for easy
 integration with applications on smartphones or to control several independent
-setups through the network (including through the Internet).
+setups through the local network or also through the Internet.
 
 Chapter \ref{ch:KCN} shows results where several particles were analyzed while
 being etched with potassium cyanide. Studying several nanoparticles under the
 same conditions is crucial for characterizing the dependence with the plasmon
 resonance and to discard any systematic error. Refocusing on the particles by
 hand is too slow for processes that happen as fast as the ones shown in the
-chapter and therefore the results shown couldn't have been possible without a
+chapter and therefore the experiments wouldn't have been possible without a
 specialized computer program. 
 
 Chapter \ref{ch:Imaging} shows the scanning capabilities of the software for
@@ -529,4 +534,4 @@ Windows versions, Mac OS and Linux. The main objective of the program is to
 provide a lower level layer on which to build creative solutions to complex
 problems.
 
-\references{Chapters/01_Introduction/introduction}
+\references{dissertation}

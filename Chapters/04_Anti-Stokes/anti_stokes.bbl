@@ -162,27 +162,28 @@
   {journal} {\bibinfo  {journal} {ACS Nano}\ } (\bibinfo {year} {2014}),\
   10.1021/nn5036944}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Vetrone}\ \emph {et~al.}(2010)\citenamefont
-  {Vetrone}, \citenamefont {Naccache}, \citenamefont {Zamarr{\'{o}}n},
-  \citenamefont {{Juarranz de la Fuente}}, \citenamefont
-  {Sanz-Rodr{\'{i}}guez}, \citenamefont {{Martinez Maestro}}, \citenamefont
-  {{Mart{\'{i}}n Rodriguez}}, \citenamefont {Jaque}, \citenamefont
-  {{Garc{\'{i}}a Sol{\'{e}}}},\ and\ \citenamefont {Capobianco}}]{Vetrone2010}%
+  {Vetrone}, \citenamefont {Naccache}, \citenamefont {Zamarrón}, \citenamefont
+  {Juarranz de~la Fuente}, \citenamefont {Sanz-Rodríguez}, \citenamefont
+  {Martinez~Maestro}, \citenamefont {Martín~Rodriguez}, \citenamefont {Jaque},
+  \citenamefont {García~Solé},\ and\ \citenamefont
+  {Capobianco}}]{Vetrone2010}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
   {Vetrone}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Naccache}},
-  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Zamarr{\'{o}}n}},
-  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {{Juarranz de la
-  Fuente}}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
-  {Sanz-Rodr{\'{i}}guez}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
-  {{Martinez Maestro}}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
-  {{Mart{\'{i}}n Rodriguez}}}, \bibinfo {author} {\bibfnamefont
-  {D.}~\bibnamefont {Jaque}}, \bibinfo {author} {\bibfnamefont
-  {J.}~\bibnamefont {{Garc{\'{i}}a Sol{\'{e}}}}}, \ and\ \bibinfo {author}
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Zamarrón}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Juarranz de~la Fuente}}, \bibinfo
+  {author} {\bibfnamefont {F.}~\bibnamefont {Sanz-Rodríguez}}, \bibinfo
+  {author} {\bibfnamefont {L.}~\bibnamefont {Martinez~Maestro}}, \bibinfo
+  {author} {\bibfnamefont {E.}~\bibnamefont {Martín~Rodriguez}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Jaque}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {García~Solé}}, \ and\ \bibinfo {author}
   {\bibfnamefont {J.~A.}\ \bibnamefont {Capobianco}},\ }\bibfield  {title}
-  {\textit {\bibinfo {title} {{Temperature sensing using fluorescent
-  nanothermometers.}}}\ }\href {\doibase 10.1021/nn100244a} {\bibfield
+  {\textit {\bibinfo {title} {Temperature sensing using fluorescent
+  nanothermometers},}\ }\href {\doibase 10.1021/nn100244a} {\bibfield
   {journal} {\bibinfo  {journal} {ACS Nano}\ }\textbf {\bibinfo {volume} {4}},\
-  \bibinfo {pages} {3254} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+  \bibinfo {pages} {3254} (\bibinfo {year} {2010})},\ \Eprint
+  {http://arxiv.org/abs/http://dx.doi.org/10.1021/nn100244a}
+  {http://dx.doi.org/10.1021/nn100244a} \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Auzel}(2004)}]{Auzel2004a}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
@@ -215,11 +216,11 @@
   \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Arai}}, \bibinfo {author}
   {\bibfnamefont {K.}~\bibnamefont {Oyama}}, \ and\ \bibinfo {author}
   {\bibfnamefont {S.}~\bibnamefont {Ishiwata}},\ }\bibfield  {title} {\textit
-  {\bibinfo {title} {{The $10^5$ gap issue between calculation and measurement
-  in single-cell thermometry}},}\ }\href {\doibase 10.1038/nmeth.3551}
-  {\bibfield  {journal} {\bibinfo  {journal} {Nat. Methods}\ }\textbf {\bibinfo
-  {volume} {12}},\ \bibinfo {pages} {802} (\bibinfo {year} {2015})}\BibitemShut
-  {NoStop}%
+  {\bibinfo {title} {{The 10{\^{}}5 gap issue between calculation and
+  measurement in single-cell thermometry}},}\ }\href {\doibase
+  10.1038/nmeth.3551} {\bibfield  {journal} {\bibinfo  {journal} {Nat.
+  Methods}\ }\textbf {\bibinfo {volume} {12}},\ \bibinfo {pages} {802}
+  (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Sato}\ \emph {et~al.}(2014)\citenamefont {Sato},
   \citenamefont {Toda}, \citenamefont {Inomata}, \citenamefont {Maruyama},
   \citenamefont {Okamatsu-Ogura}, \citenamefont {Arai}, \citenamefont {Ono},
@@ -371,14 +372,14 @@
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
   {Tcherniak}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Dominguez-Medina}}, \bibinfo {author} {\bibfnamefont {W.~S.}\ \bibnamefont
+  {Dominguez-Medina}}, \bibinfo {author} {\bibfnamefont {W.-S.}\ \bibnamefont
   {Chang}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Swanglap}},
   \bibinfo {author} {\bibfnamefont {L.~S.}\ \bibnamefont {Slaughter}}, \bibinfo
   {author} {\bibfnamefont {C.~F.}\ \bibnamefont {Landes}}, \ and\ \bibinfo
   {author} {\bibfnamefont {S.}~\bibnamefont {Link}},\ }\bibfield  {title}
-  {\textit {\bibinfo {title} {{One-photon plasmon luminescence and its
-  application to correlation spectroscopy as a probe for rotational and
-  translational dynamics of gold nanorods}},}\ }\href {\doibase
+  {\textit {\bibinfo {title} {{One-Photon Plasmon Luminescence and Its
+  Application to Correlation Spectroscopy as a Probe for Rotational and
+  Translational Dynamics of Gold Nanorods}},}\ }\href {\doibase
   10.1021/jp206203s} {\bibfield  {journal} {\bibinfo  {journal} {J. Phys. Chem.
   C}\ }\textbf {\bibinfo {volume} {115}},\ \bibinfo {pages} {15938} (\bibinfo
   {year} {2011})}\BibitemShut {NoStop}%
@@ -586,12 +587,13 @@
   {pages} {687} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Fedoruk}\ \emph {et~al.}(2013)\citenamefont
   {Fedoruk}, \citenamefont {Meixner}, \citenamefont {Carretero-Palacios},
-  \citenamefont {Lohmuller},\ and\ \citenamefont {Feldmann}}]{Fedoruk2013}%
+  \citenamefont {Lohm{\"{u}}ller},\ and\ \citenamefont
+  {Feldmann}}]{Fedoruk2013}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
   {Fedoruk}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Meixner}},
   \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Carretero-Palacios}},
-  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Lohmuller}}, \ and\
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Lohm{\"{u}}ller}}, \ and\
   \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}},\ }\bibfield
   {title} {\textit {\bibinfo {title} {{Nanolithography by Plasmonic Heating and
   Optical Manipulation of Gold Nanoparticles}},}\ }\href {\doibase
@@ -813,15 +815,14 @@
   {Orrit}}]{Carattino2016a}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Carattino}}, \bibinfo {author} {\bibfnamefont {V.~I.~P.}\ \bibnamefont
-  {Keizer}}, \bibinfo {author} {\bibfnamefont {M.~J.~M.}\ \bibnamefont
-  {Schaaf}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Orrit}},\ }\bibfield  {title} {\textit {\bibinfo {title} {{(In Press)
-  Background Suppression in Imaging Gold Nanorods through Detection of
-  Anti-Stokes Emission}},}\ }\href {\doibase 10.1016/j.bpj.2016.10.035}
-  {\bibfield  {journal} {\bibinfo  {journal} {Biophys. J.}\ }\textbf {\bibinfo
-  {volume} {111}} (\bibinfo {year} {2016}{\natexlab{b}}),\
-  10.1016/j.bpj.2016.10.035}\BibitemShut {NoStop}%
+  {Carattino}}, \bibinfo {author} {\bibfnamefont {V.~I.}\ \bibnamefont
+  {Keizer}}, \bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Schaaf}},
+  \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Orrit}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Background Suppression in
+  Imaging Gold Nanorods through Detection of Anti-Stokes Emission}},}\ }\href
+  {\doibase 10.1016/j.bpj.2016.10.035} {\bibfield  {journal} {\bibinfo
+  {journal} {Biophys. J.}\ }\textbf {\bibinfo {volume} {111}},\ \bibinfo
+  {pages} {2492} (\bibinfo {year} {2016}{\natexlab{b}})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Konrad}\ \emph {et~al.}(2013)\citenamefont {Konrad},
   \citenamefont {Wackenhut}, \citenamefont {Hussels}, \citenamefont {Meixner},\
   and\ \citenamefont {Brecht}}]{Konrad2013}%
