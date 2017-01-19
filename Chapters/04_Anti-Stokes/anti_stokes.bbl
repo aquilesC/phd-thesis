@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{57}%
+\begin{thebibliography}{58}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -585,33 +585,52 @@
   10.1016/j.cpc.2009.11.008} {\bibfield  {journal} {\bibinfo  {journal}
   {Comput. Phys. Commun.}\ }\textbf {\bibinfo {volume} {181}},\ \bibinfo
   {pages} {687} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Fedoruk}\ \emph {et~al.}(2013)\citenamefont
-  {Fedoruk}, \citenamefont {Meixner}, \citenamefont {Carretero-Palacios},
-  \citenamefont {Lohm{\"{u}}ller},\ and\ \citenamefont
-  {Feldmann}}]{Fedoruk2013}%
+\bibitem [{\citenamefont {He}\ \emph {et~al.}(2015)\citenamefont {He},
+  \citenamefont {Xia}, \citenamefont {Lu}, \citenamefont {Shen}, \citenamefont
+  {Cheng}, \citenamefont {Liu}, \citenamefont {Shi}, \citenamefont {Xiao},\
+  and\ \citenamefont {Gong}}]{He2015}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Fedoruk}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Meixner}},
-  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Carretero-Palacios}},
-  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Lohm{\"{u}}ller}}, \ and\
-  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}},\ }\bibfield
-  {title} {\textit {\bibinfo {title} {{Nanolithography by Plasmonic Heating and
-  Optical Manipulation of Gold Nanoparticles}},}\ }\href {\doibase
-  10.1021/nn402124p} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\
-  }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {7648} (\bibinfo {year}
-  {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zijlstra}\ \emph
-  {et~al.}(2009{\natexlab{a}})\citenamefont {Zijlstra}, \citenamefont {Chon},\
-  and\ \citenamefont {Gu}}]{Zijlstra2009}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {He}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Xia}}, \bibinfo
+  {author} {\bibfnamefont {G.}~\bibnamefont {Lu}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Shen}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Cheng}}, \bibinfo {author} {\bibfnamefont {Y.-c.}\
+  \bibnamefont {Liu}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Shi}}, \bibinfo {author} {\bibfnamefont {Y.-F.}\ \bibnamefont {Xiao}}, \
+  and\ \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Gong}},\ }\bibfield
+  {title} {\textit {\bibinfo {title} {{Surface enhanced anti-Stokes one-photon
+  luminescence from single gold nanorods}},}\ }\href {\doibase
+  10.1039/C4NR04879B} {\bibfield  {journal} {\bibinfo  {journal} {Nanoscale}\
+  }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {577} (\bibinfo {year}
+  {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jiang}\ \emph {et~al.}(2013)\citenamefont {Jiang},
+  \citenamefont {Schie}, \citenamefont {Qian}, \citenamefont {He},\ and\
+  \citenamefont {Huser}}]{Jiang2013}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Zijlstra}}, \bibinfo {author} {\bibfnamefont {J.~W.~M.}\ \bibnamefont
-  {Chon}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Gu}},\
-  }\bibfield  {title} {\textit {\bibinfo {title} {{Five-dimensional optical
-  recording mediated by surface plasmons in gold nanorods}},}\ }\href {\doibase
-  10.1038/nature08053} {\bibfield  {journal} {\bibinfo  {journal} {Nature}\
-  }\textbf {\bibinfo {volume} {459}},\ \bibinfo {pages} {410} (\bibinfo {year}
-  {2009}{\natexlab{a}})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Jiang}}, \bibinfo {author} {\bibfnamefont {I.~W.}\ \bibnamefont {Schie}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Qian}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {He}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Huser}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Coherent Anti-Stokes Emission from Gold Nanorods and its
+  Potential for Imaging Applications}},}\ }\href {\doibase
+  10.1002/cphc.201300091} {\bibfield  {journal} {\bibinfo  {journal}
+  {ChemPhysChem}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {1951}
+  (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Carattino}\ \emph
+  {et~al.}(2016{\natexlab{b}})\citenamefont {Carattino}, \citenamefont
+  {Keizer}, \citenamefont {Schaaf},\ and\ \citenamefont
+  {Orrit}}]{Carattino2016a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Carattino}}, \bibinfo {author} {\bibfnamefont {V.~I.}\ \bibnamefont
+  {Keizer}}, \bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Schaaf}},
+  \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Orrit}},\
+  }\bibfield  {title} {\textit {\bibinfo {title} {{Background Suppression in
+  Imaging Gold Nanorods through Detection of Anti-Stokes Emission}},}\ }\href
+  {\doibase 10.1016/j.bpj.2016.10.035} {\bibfield  {journal} {\bibinfo
+  {journal} {Biophys. J.}\ }\textbf {\bibinfo {volume} {111}},\ \bibinfo
+  {pages} {2492} (\bibinfo {year} {2016}{\natexlab{b}})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Hodak}\ \emph {et~al.}(2000)\citenamefont {Hodak},
   \citenamefont {Henglein},\ and\ \citenamefont {Hartland}}]{Hodak2000}%
   \BibitemOpen
@@ -744,24 +763,6 @@
   Arrays}},}\ }\href {\doibase 10.1021/nn401924n} {\bibfield  {journal}
   {\bibinfo  {journal} {ACS Nano}\ }\textbf {\bibinfo {volume} {7}},\ \bibinfo
   {pages} {6478} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {He}\ \emph {et~al.}(2015)\citenamefont {He},
-  \citenamefont {Xia}, \citenamefont {Lu}, \citenamefont {Shen}, \citenamefont
-  {Cheng}, \citenamefont {Liu}, \citenamefont {Shi}, \citenamefont {Xiao},\
-  and\ \citenamefont {Gong}}]{He2015}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
-  {He}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Xia}}, \bibinfo
-  {author} {\bibfnamefont {G.}~\bibnamefont {Lu}}, \bibinfo {author}
-  {\bibfnamefont {H.}~\bibnamefont {Shen}}, \bibinfo {author} {\bibfnamefont
-  {Y.}~\bibnamefont {Cheng}}, \bibinfo {author} {\bibfnamefont {Y.-c.}\
-  \bibnamefont {Liu}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
-  {Shi}}, \bibinfo {author} {\bibfnamefont {Y.-F.}\ \bibnamefont {Xiao}}, \
-  and\ \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Gong}},\ }\bibfield
-  {title} {\textit {\bibinfo {title} {{Surface enhanced anti-Stokes one-photon
-  luminescence from single gold nanorods}},}\ }\href {\doibase
-  10.1039/C4NR04879B} {\bibfield  {journal} {\bibinfo  {journal} {Nanoscale}\
-  }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {577} (\bibinfo {year}
-  {2015})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Brown}\ \emph {et~al.}(2016)\citenamefont {Brown},
   \citenamefont {Sundararaman}, \citenamefont {Narang}, \citenamefont
   {Goddard},\ and\ \citenamefont {Atwater}}]{Brown2016}%
@@ -809,20 +810,6 @@
   10.1103/PhysRevB.33.7923} {\bibfield  {journal} {\bibinfo  {journal} {Phys.
   Rev. B}\ }\textbf {\bibinfo {volume} {33}},\ \bibinfo {pages} {7923}
   (\bibinfo {year} {1986})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Carattino}\ \emph
-  {et~al.}(2016{\natexlab{b}})\citenamefont {Carattino}, \citenamefont
-  {Keizer}, \citenamefont {Schaaf},\ and\ \citenamefont
-  {Orrit}}]{Carattino2016a}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Carattino}}, \bibinfo {author} {\bibfnamefont {V.~I.}\ \bibnamefont
-  {Keizer}}, \bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Schaaf}},
-  \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Orrit}},\
-  }\bibfield  {title} {\textit {\bibinfo {title} {{Background Suppression in
-  Imaging Gold Nanorods through Detection of Anti-Stokes Emission}},}\ }\href
-  {\doibase 10.1016/j.bpj.2016.10.035} {\bibfield  {journal} {\bibinfo
-  {journal} {Biophys. J.}\ }\textbf {\bibinfo {volume} {111}},\ \bibinfo
-  {pages} {2492} (\bibinfo {year} {2016}{\natexlab{b}})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Konrad}\ \emph {et~al.}(2013)\citenamefont {Konrad},
   \citenamefont {Wackenhut}, \citenamefont {Hussels}, \citenamefont {Meixner},\
   and\ \citenamefont {Brecht}}]{Konrad2013}%
@@ -871,9 +858,8 @@
   10.1021/nn404765w} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\
   }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {11064} (\bibinfo {year}
   {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zijlstra}\ \emph
-  {et~al.}(2009{\natexlab{b}})\citenamefont {Zijlstra}, \citenamefont {Chon},\
-  and\ \citenamefont {Gu}}]{Zijlstra2009a}%
+\bibitem [{\citenamefont {Zijlstra}\ \emph {et~al.}(2009)\citenamefont
+  {Zijlstra}, \citenamefont {Chon},\ and\ \citenamefont {Gu}}]{Zijlstra2009a}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
   {Zijlstra}}, \bibinfo {author} {\bibfnamefont {J.~W.~M.}\ \bibnamefont
@@ -882,6 +868,35 @@
   spectroscopy and electron microscopy of laser induced melting in single gold
   nanorods}},}\ }\href {\doibase 10.1039/b911746f} {\bibfield  {journal}
   {\bibinfo  {journal} {Phys. Chem. Chem. Phys.}\ }\textbf {\bibinfo {volume}
-  {11}},\ \bibinfo {pages} {5915} (\bibinfo {year}
-  {2009}{\natexlab{b}})}\BibitemShut {NoStop}%
+  {11}},\ \bibinfo {pages} {5915} (\bibinfo {year} {2009})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Fedoruk}\ \emph {et~al.}(2013)\citenamefont
+  {Fedoruk}, \citenamefont {Meixner}, \citenamefont {Carretero-Palacios},
+  \citenamefont {Lohm{\"{u}}ller},\ and\ \citenamefont
+  {Feldmann}}]{Fedoruk2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Fedoruk}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Meixner}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Carretero-Palacios}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Lohm{\"{u}}ller}}, \ and\
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Feldmann}},\ }\bibfield
+  {title} {\textit {\bibinfo {title} {{Nanolithography by Plasmonic Heating and
+  Optical Manipulation of Gold Nanoparticles}},}\ }\href {\doibase
+  10.1021/nn402124p} {\bibfield  {journal} {\bibinfo  {journal} {ACS Nano}\
+  }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {7648} (\bibinfo {year}
+  {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pelton}\ \emph {et~al.}(2009)\citenamefont {Pelton},
+  \citenamefont {Sader}, \citenamefont {Burgin}, \citenamefont {Liu},
+  \citenamefont {Guyot-Sionnest},\ and\ \citenamefont {Gosztola}}]{Pelton2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Pelton}}, \bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont {Sader}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Burgin}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Liu}}, \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {Guyot-Sionnest}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {D.}~\bibnamefont {Gosztola}},\ }\bibfield  {title} {\textit
+  {\bibinfo {title} {{Damping of acoustic vibrations in gold nanoparticles}},}\
+  }\href {\doibase 10.1038/nnano.2009.192} {\bibfield  {journal} {\bibinfo
+  {journal} {Nat. Nanotechnol.}\ }\textbf {\bibinfo {volume} {4}},\ \bibinfo
+  {pages} {492} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
 \end{thebibliography}%
